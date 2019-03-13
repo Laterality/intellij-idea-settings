@@ -127,11 +127,11 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="C:/Workspace/java/kt_examples/src/main/kotlin/kr/latera/kt_examples/AppMain.kt" timestamp="1552475335708">
+      <file name="C:/Workspace/java/kt_examples/src/main/kotlin/kr/latera/kt_examples/AppMain.kt" timestamp="1552475941037">
         <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="27" />
+        <mark key="]" line="6" column="17" />
         <mark key="^" line="6" column="27" />
-        <mark key="." line="6" column="27" />
+        <mark key="." line="6" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/piwi/src/main/kotlin/kr/latera/piwi/PiwiApplication.kt" timestamp="1547530773657">
         <mark key="[" line="11" column="4" />
@@ -173,7 +173,7 @@
         <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5JbnRlZ2VyLm1heAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>value</text>
+        <text>age</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRhcmdldDogJHRhcmdldCIpCg==</text>
@@ -203,7 +203,7 @@
         <text>action EditorDownWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>age</text>
       </register>
     </registers>
     <search>
