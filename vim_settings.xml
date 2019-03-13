@@ -127,11 +127,11 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="C:/Workspace/java/kt_examples/src/main/kotlin/kr/latera/kt_examples/AppMain.kt" timestamp="1552475941037">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="17" />
-        <mark key="^" line="6" column="27" />
-        <mark key="." line="6" column="17" />
+      <file name="C:/Workspace/java/kt_examples/src/main/kotlin/kr/latera/kt_examples/AppMain.kt" timestamp="1552488860450">
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="19" />
+        <mark key="." line="26" column="19" />
+        <mark key="^" line="26" column="19" />
       </file>
       <file name="$USER_HOME$/Desktop/piwi/src/main/kotlin/kr/latera/piwi/PiwiApplication.kt" timestamp="1547530773657">
         <mark key="[" line="11" column="4" />
@@ -170,40 +170,40 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5JbnRlZ2VyLm1heAo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>age</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRhcmdldDogJHRhcmdldCIpCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5JbnRlZ2VyLm1heAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKCkK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRhcmdldDogJHRhcmdldCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHJ1bGVzOiBBcnJheTxBcnJheTxJbnQ+PiA9IHJ1bGVzCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGRlbGF5czogQXJyYXk8SW50PiA9IGRlbGF5cwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHJ1bGVzOiBBcnJheTxBcnJheTxJbnQ+PiA9IHJ1bGVzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNudCA9IDAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGRlbGF5czogQXJyYXk8SW50PiA9IGRlbGF5cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNudCA9IDAK</text>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgblJvdyA9IGFyci5zaXplCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgogICAg</text>
-      </register>
       <register name=":" type="4">
-        <text>action EditorDownWithSelection</text>
+        <text>action EditorLeftWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>age</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
     </registers>
     <search>
@@ -213,10 +213,10 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
