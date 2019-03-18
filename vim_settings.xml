@@ -117,11 +117,11 @@
         <mark key="^" line="13" column="18" />
         <mark key="." line="13" column="18" />
       </file>
-      <file name="C:/Workspace/java/kt_algorithm/src/main/kotlin/kr/latera/kt_algorithm/Heap.kt" timestamp="1552919588030">
-        <mark key="[" line="18" column="56" />
-        <mark key="]" line="18" column="39" />
-        <mark key="." line="18" column="39" />
-        <mark key="^" line="18" column="39" />
+      <file name="C:/Workspace/java/kt_algorithm/src/main/kotlin/kr/latera/kt_algorithm/Heap.kt" timestamp="1552922484646">
+        <mark key="[" line="16" column="38" />
+        <mark key="]" line="16" column="37" />
+        <mark key="^" line="16" column="37" />
+        <mark key="." line="16" column="37" />
       </file>
       <file name="C:/Workspace/java/woowahan-tech-course-online-test/src/test/java/Q2Test.java" timestamp="1552716943029">
         <mark key="[" line="15" column="43" />
@@ -287,8 +287,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBoZWFwaWZ5KDApCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFwaWZ5KDApCg==</text>
+      <register name="&quot;" type="4">
+        <text>maxIdx</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaGVhcGlmeShnZXRQYXJlbnROb2RlSW5kZXgoaSkpCg==</text>
@@ -315,10 +315,10 @@
         <text encoding="base64">ICAgICAgICBmb3IgKGkgaW4gYXJyYXkpIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorRightWithSelection</text>
+        <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3Tm9kZUlkeCA=</text>
+        <text>maxIdx</text>
       </register>
     </registers>
     <search>
@@ -328,10 +328,10 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
