@@ -21,6 +21,12 @@
         <mark key="^" line="22" column="16" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="C:/Workspace/java/kt_algorithm/src/main/kotlin/kr/latera/kt_algorithm/IHeap.kt" timestamp="1552909236464">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="2" column="31" />
+        <mark key="^" line="2" column="31" />
+        <mark key="." line="2" column="31" />
+      </file>
       <file name="/Kotlin Console" timestamp="1552473030745">
         <mark key="[" line="0" column="0" />
       </file>
@@ -72,6 +78,12 @@
         <mark key="^" line="25" column="18" />
         <mark key="." line="25" column="18" />
       </file>
+      <file name="C:/Workspace/java/kt_algorithm/src/test/kotlin/kr/latera/kt_algorithm/HeapTest.kt" timestamp="1552909254472">
+        <mark key="[" line="22" column="50" />
+        <mark key="]" line="22" column="54" />
+        <mark key="^" line="22" column="54" />
+        <mark key="." line="22" column="54" />
+      </file>
       <file name="D:/Dev/java/estsoft-code-test/src/kr/latera/DynamicProgramming.java" timestamp="1547650853505">
         <mark key="[" line="31" column="31" />
       </file>
@@ -105,11 +117,11 @@
         <mark key="^" line="13" column="18" />
         <mark key="." line="13" column="18" />
       </file>
-      <file name="C:/Workspace/java/kt_algorithm/src/main/kotlin/kr/latera/kt_algorithm/Heap.kt" timestamp="1552908290344">
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="2" column="24" />
-        <mark key="^" line="2" column="24" />
-        <mark key="." line="2" column="24" />
+      <file name="C:/Workspace/java/kt_algorithm/src/main/kotlin/kr/latera/kt_algorithm/Heap.kt" timestamp="1552909703192">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="13" column="34" />
+        <mark key="^" line="13" column="34" />
+        <mark key="." line="13" column="34" />
       </file>
       <file name="C:/Workspace/java/woowahan-tech-course-online-test/src/test/java/Q2Test.java" timestamp="1552716943029">
         <mark key="[" line="15" column="43" />
@@ -270,40 +282,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZXh0ZW5kcyA=</text>
+        <text encoding="base64">c2l6ZSA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxlbmd0aCA9PSAwIHx8IGxlbmd0aCA9PSAxKSB7IHJldHVybiBzdHI7IH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzYW1lOiAiICsgYyArICIgIiArIGMyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdGFjazxDaGFyYWN0ZXI+IHMyID0gbmV3IFN0YWNrPD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxlbmd0aCA9PSAwIHx8IGxlbmd0aCA9PSAxKSB7IHJldHVybiBzdHI7IH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYi5hcHBlbmQoYyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzYW1lOiAiICsgYyArICIgIiArIGMyKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaW5rZWRMaXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICBTdGFjazxDaGFyYWN0ZXI+IHMyID0gbmV3IFN0YWNrPD4oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5RdWV1ZTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYi5hcHBlbmQoYyk7Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaW5rZWRMaXN0Owo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbFRpbWU7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5RdWV1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXh0ZW5kcyA=</text>
+        <text encoding="base64">c2l6ZSA=</text>
       </register>
     </registers>
     <search>
@@ -314,8 +326,8 @@
       <history-search />
       <history-cmd>
         <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
       </history-cmd>
       <history-expr />
@@ -348,6 +360,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
