@@ -9,6 +9,9 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
+      <file name="/a.dummy" timestamp="1553251550417">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/Workspace/java/woowahan-tech-course-online-test/src/main/java/Q3.java" timestamp="1552718554275">
         <mark key="[" line="13" column="12" />
         <mark key="]" line="10" column="25" />
@@ -32,11 +35,6 @@
       </file>
       <file name="/Kotlin Console" timestamp="1552473030745">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Workspace/java/woowahan-tech-course-online-test/src/main/java/Q2.java" timestamp="1552717023948">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/interfaces/IGenerator.java" timestamp="1553249896541">
         <mark key="[" line="4" column="24" />
@@ -62,11 +60,6 @@
         <mark key="^" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="D:/Dev/java/AlgorithmStudyKt/src/kr/latera/algorithmstudy/Solution1003.kt" timestamp="1548004838036">
-        <mark key="[" line="50" column="7" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-      </file>
       <file name="C:/Workspace/java/woowahan-tech-course-online-test/src/main/java/Q4.java" timestamp="1552720204431">
         <mark key="[" line="4" column="28" />
         <mark key="]" line="27" column="12" />
@@ -76,7 +69,7 @@
       <file name="/fragment.kt" timestamp="1552914484863">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Workspace/java/woowahan-tech-course-online-test/src/main/java/Q7.java" timestamp="1552726318771">
+      <file name="C:/Workspace/java/woowahan-tech-course-online-test/src/main/java/Q7.java" timestamp="1553251714075">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
@@ -108,11 +101,11 @@
         <mark key="^" line="66" column="71" />
         <mark key="." line="66" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/AppMain.java" timestamp="1553248029520">
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="4" column="33" />
-        <mark key="^" line="4" column="33" />
-        <mark key="." line="4" column="33" />
+      <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/AppMain.java" timestamp="1553252246153">
+        <mark key="[" line="16" column="42" />
+        <mark key="]" line="16" column="42" />
+        <mark key="^" line="16" column="42" />
+        <mark key="." line="16" column="42" />
       </file>
       <file name="D:/Dev/java/Solutions/src/kr/latera/Sol2504.java" timestamp="1547987018726">
         <mark key="[" line="2" column="22" />
@@ -144,16 +137,11 @@
         <mark key="." line="15" column="24" />
         <mark key="^" line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/GeneratorTest/GeneratorTest.java" timestamp="1553250570741">
+      <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/GeneratorTest/GeneratorTest.java" timestamp="1553251473451">
         <mark key="[" line="20" column="32" />
         <mark key="]" line="20" column="31" />
         <mark key="^" line="20" column="31" />
         <mark key="." line="20" column="31" />
-      </file>
-      <file name="C:/Workspace/java/woowahan-tech-course-online-test/src/main/java/Q1.java" timestamp="1552717262925">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
       </file>
       <file name="D:/Dev/java/estsoft-code-test/src/kr/latera/BinaryTree.java" timestamp="1547726851012">
         <mark key="[" line="5" column="4" />
@@ -245,8 +233,10 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553248059829">
+      <file name="/Dummy.txt" timestamp="1553251299085">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="D:/Dev/java/AlgorithmStudyKt/src/kr/latera/algorithmstudy/Solution1932Test.kt" timestamp="1548050131401">
         <mark key="[" line="4" column="31" />
@@ -262,11 +252,6 @@
         <mark key="]" line="18" column="62" />
         <mark key="^" line="18" column="62" />
         <mark key="." line="18" column="62" />
-      </file>
-      <file name="D:/Dev/java/AlgorithmStudyKt/src/kr/latera/algorithmstudy/Solution2504.kt" timestamp="1548002817563">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
       </file>
       <file name="C:/Workspace/java/kt_algorithm/src/main/kotlin/AppMain.kt" timestamp="1552907981156">
         <mark key="[" line="0" column="0" />
@@ -295,11 +280,6 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="1" />
       </file>
-      <file name="C:/Workspace/java/woowahan-tech-course-online-test/src/test/java/Q5Test.java" timestamp="1552720419933">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="C:/Workspace/java/kt_algorithm/src/main/kotlin/kr/latera/kt_algorithm/AppMain.kt" timestamp="1552913061521">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="5" column="19" />
@@ -318,8 +298,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Integer</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgfQo=</text>
@@ -346,10 +326,10 @@
         <text encoding="base64">ICAgICAgICBmb3IgKGludCBpIDogbnVtcy5sZW5ndGguKSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorUpWithSelection</text>
+        <text>action EditorLeftWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+        <text>Integer</text>
       </register>
     </registers>
     <search>
@@ -359,10 +339,10 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
