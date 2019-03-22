@@ -99,8 +99,8 @@
         <mark key="^" line="66" column="71" />
         <mark key="." line="66" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/AppMain.java" timestamp="1553246384406">
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/AppMain.java" timestamp="1553248029520">
+        <mark key="[" line="5" column="27" />
         <mark key="]" line="4" column="33" />
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="33" />
@@ -224,6 +224,9 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
+      <file name="/Dummy.txt" timestamp="1553248059829">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Dev/java/AlgorithmStudyKt/src/kr/latera/algorithmstudy/Solution1932Test.kt" timestamp="1548050131401">
         <mark key="[" line="4" column="31" />
       </file>
@@ -282,7 +285,7 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1548157566351">
+      <file name="/fragment.java" timestamp="1553248059872">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
