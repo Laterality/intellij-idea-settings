@@ -21,6 +21,9 @@
         <mark key="^" line="22" column="16" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="C:/Workspace/java/java-test/src/main/java/kr/latera/java_test/AppMain.java" timestamp="1553248287211">
+        <mark key="[" line="2" column="22" />
+      </file>
       <file name="C:/Workspace/java/kt_algorithm/src/main/kotlin/kr/latera/kt_algorithm/IHeap.kt" timestamp="1552909236464">
         <mark key="[" line="4" column="25" />
         <mark key="]" line="2" column="31" />
@@ -375,6 +378,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
