@@ -38,6 +38,12 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/interfaces/IGenerator.java" timestamp="1553249896541">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+      </file>
       <file name="D:/Dev/java/estsoft-code-test/src/kr/latera/Heap.java" timestamp="1547735394748">
         <mark key="[" line="34" column="46" />
         <mark key="]" line="37" column="0" />
@@ -138,6 +144,12 @@
         <mark key="." line="15" column="24" />
         <mark key="^" line="15" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/GeneratorTest/GeneratorTest.java" timestamp="1553250570741">
+        <mark key="[" line="20" column="32" />
+        <mark key="]" line="20" column="31" />
+        <mark key="^" line="20" column="31" />
+        <mark key="." line="20" column="31" />
+      </file>
       <file name="C:/Workspace/java/woowahan-tech-course-online-test/src/main/java/Q1.java" timestamp="1552717262925">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="6" />
@@ -190,6 +202,12 @@
         <mark key="]" line="12" column="76" />
         <mark key="^" line="12" column="76" />
         <mark key="." line="12" column="76" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/NumberGenerator.java" timestamp="1553250319478">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="17" column="35" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="C:/Workspace/java/woowahan-tech-course-online-test/src/test/java/Q4Test.java" timestamp="1552719552756">
         <mark key="[" line="15" column="44" />
@@ -288,6 +306,7 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/util/Random.java" timestamp="1553250095940" />
       <file name="/fragment.java" timestamp="1553248059872">
         <mark key="[" line="0" column="0" />
       </file>
@@ -297,40 +316,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFwaWZ5KDApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>String</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVhcGlmeShnZXRQYXJlbnROb2RlSW5kZXgoaSkpCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKQo=</text>
+        <text encoding="base64">ICAgICAgICBudW1zW2ldID0gZ2V0UmFuZG9tTnVtYmVyKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHRoaXMpCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihoZWFwLnRvU3RyaW5nKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBpLS07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGkgKQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKGkpCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAgICAgaWYgKGkgPT0gKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGkgaW4gYXJyYXkpIHsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpIDogbnVtcy5sZW5ndGguKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text encoding="base64">dm9pZCA=</text>
       </register>
     </registers>
     <search>
@@ -340,9 +359,9 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action EditorDownWithSelection</entry>
-        <entry>action EditorRightWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
       </history-cmd>
       <history-expr />
