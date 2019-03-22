@@ -9,7 +9,7 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1553251550417">
+      <file name="/a.dummy" timestamp="1553262471412">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Workspace/java/woowahan-tech-course-online-test/src/main/java/Q3.java" timestamp="1552718554275">
@@ -60,17 +60,17 @@
         <mark key="^" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/GeneratorTest/JudgeTest.java" timestamp="1553253764676">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="12" column="3" />
-        <mark key="^" line="12" column="3" />
-        <mark key="." line="12" column="3" />
+      <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/GeneratorTest/JudgeTest.java" timestamp="1553264913797">
+        <mark key="[" line="29" column="37" />
+        <mark key="]" line="28" column="22" />
+        <mark key="." line="28" column="22" />
+        <mark key="^" line="28" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/interfaces/IJudge.java" timestamp="1553253800418">
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="4" column="37" />
-        <mark key="^" line="4" column="37" />
-        <mark key="." line="4" column="37" />
+      <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/interfaces/IJudge.java" timestamp="1553261215377">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="59" />
+        <mark key="^" line="7" column="59" />
+        <mark key="." line="7" column="59" />
       </file>
       <file name="C:/Workspace/java/woowahan-tech-course-online-test/src/main/java/Q4.java" timestamp="1552720204431">
         <mark key="[" line="4" column="28" />
@@ -182,6 +182,12 @@
         <mark key="^" line="36" column="47" />
         <mark key="." line="36" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/Utility.java" timestamp="1553263997159">
+        <mark key="[" line="16" column="42" />
+        <mark key="]" line="16" column="47" />
+        <mark key="^" line="16" column="47" />
+        <mark key="." line="16" column="47" />
+      </file>
       <file name="D:/Dev/java/AlgorithmStudyKt/src/kr/latera/algorithmstudy/1932.kt" timestamp="1548048799306">
         <mark key="[" line="2" column="0" />
       </file>
@@ -190,6 +196,12 @@
         <mark key="]" line="19" column="20" />
         <mark key="^" line="19" column="20" />
         <mark key="." line="19" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/JudgeImpl.java" timestamp="1553264959634">
+        <mark key="[" line="34" column="17" />
+        <mark key="]" line="34" column="17" />
+        <mark key="^" line="28" column="36" />
+        <mark key="." line="34" column="17" />
       </file>
       <file name="C:/Workspace/java/woowahan-tech-course-online-test/src/test/java/Q7Test.java" timestamp="1552724640130">
         <mark key="[" line="11" column="45" />
@@ -274,11 +286,11 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="7" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/GeneratorTest/TestNumberGeneartor.java" timestamp="1553254594508">
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="33" column="35" />
-        <mark key="." line="33" column="35" />
-        <mark key="^" line="33" column="35" />
+      <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/GeneratorTest/TestNumberGeneartor.java" timestamp="1553260442518">
+        <mark key="[" line="34" column="39" />
+        <mark key="]" line="34" column="49" />
+        <mark key="." line="34" column="49" />
+        <mark key="^" line="34" column="49" />
       </file>
       <file name="C:/Workspace/java/kt_examples/src/main/kotlin/kr/latera/kt_examples/AppMain.kt" timestamp="1552582653713">
         <mark key="[" line="8" column="24" />
@@ -308,40 +320,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgaW50WzBdOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>generateNumber</text>
+        <text>nums</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gbnVtIMG4wOe4piDIrsDOx8+3wbTCILz9wNoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIC8vICAgICAgICB7MSwgMiwgNH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBudW1zW2ldID0gZ2V0UmFuZG9tTnVtYmVyKCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgICAgICB7MiwgMywgNX0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCkgewo=</text>
+        <text encoding="base64">ICAgIC8vICAgICAgICB7NiwgNSwgMn0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpLS07Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgICAgICB7OCwgOSwgMn0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8vICAgICAgICB7OSwgMiwgNn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGp1ZGdlLmluaXQoZ2VuZXJhdG9yKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAgICAgaWYgKGkgPT0gKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorLeftWithSelection</text>
+        <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>generateNumber</text>
+        <text>nums</text>
       </register>
     </registers>
     <search>
@@ -351,10 +363,10 @@
     <history>
       <history-search />
       <history-cmd>
+        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
-        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
