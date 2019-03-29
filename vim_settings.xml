@@ -18,13 +18,12 @@
         <mark key="^" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
-      <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/Car.java" timestamp="1553841824470">
-        <mark key="[" line="8" column="5" />
+      <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/Car.java" timestamp="1553848687581">
+        <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
-        <mark key="^" line="8" column="4" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1553336905367">
+      <file name="/a.dummy" timestamp="1553846813127">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -80,11 +79,11 @@
         <mark key="." line="28" column="22" />
         <mark key="^" line="28" column="22" />
       </file>
-      <file name="D:/Dev/GitHub/java-racingcar/src/test/java/domain/UserInterfaceTest.java" timestamp="1553844438782">
-        <mark key="[" line="2" column="32" />
-        <mark key="]" line="6" column="5" />
-        <mark key="^" line="6" column="5" />
-        <mark key="." line="6" column="5" />
+      <file name="D:/Dev/GitHub/java-racingcar/src/test/java/domain/UserInterfaceTest.java" timestamp="1553845973195">
+        <mark key="[" line="30" column="56" />
+        <mark key="]" line="32" column="56" />
+        <mark key="^" line="32" column="56" />
+        <mark key="." line="32" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/PlayerImpl.java" timestamp="1553338177103">
         <mark key="[" line="35" column="44" />
@@ -98,7 +97,7 @@
         <mark key="^" line="3" column="13" />
         <mark key="." line="3" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553251299085">
+      <file name="/Dummy.txt" timestamp="1553844779694">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -106,11 +105,11 @@
       <file name="D:/Dev/java/AlgorithmStudyKt/src/kr/latera/algorithmstudy/Solution1932Test.kt" timestamp="1548050131401">
         <mark key="[" line="4" column="31" />
       </file>
-      <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/interfaces/UserInterface.java" timestamp="1553844160489">
-        <mark key="[" line="9" column="38" />
-        <mark key="]" line="9" column="21" />
-        <mark key="." line="9" column="21" />
-        <mark key="^" line="9" column="21" />
+      <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/interfaces/UserInterface.java" timestamp="1553846348418">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="10" column="38" />
+        <mark key="." line="10" column="38" />
+        <mark key="^" line="10" column="38" />
       </file>
       <file name="/fragment.kt" timestamp="1552914484863">
         <mark key="[" line="0" column="0" />
@@ -144,11 +143,22 @@
       <file name="D:/Dev/java/estsoft-code-test/src/kr/latera/DynamicProgramming.java" timestamp="1547650853505">
         <mark key="[" line="31" column="31" />
       </file>
+      <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/Utility.java" timestamp="1553848350010">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/AppMain.java" timestamp="1553339326631">
         <mark key="[" line="10" column="45" />
         <mark key="]" line="9" column="36" />
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="36" />
+      </file>
+      <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/StreamUserInterface.java" timestamp="1553846776069">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="27" column="38" />
+        <mark key="^" line="27" column="38" />
+        <mark key="." line="27" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/GeneratorTest/TestNumberGeneartor.java" timestamp="1553260442518">
         <mark key="[" line="34" column="39" />
@@ -161,6 +171,12 @@
         <mark key="]" line="19" column="38" />
         <mark key="^" line="19" column="38" />
         <mark key="." line="19" column="38" />
+      </file>
+      <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/ConsoleUserInterface.java" timestamp="1553848373154">
+        <mark key="[" line="52" column="41" />
+        <mark key="]" line="52" column="37" />
+        <mark key="^" line="52" column="37" />
+        <mark key="." line="52" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/interfaces/IUserInterface.java" timestamp="1553337835310">
         <mark key="[" line="7" column="43" />
@@ -183,40 +199,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIMPfsKEgseK0ySCxuMf2Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>printResult</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIMPfsKEgseK0ySCxuMf2Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1aS5wcm9tcHRSZXN0YXJ0KCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5TdHJpbmdKb2luZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXRTdHJlYW0gPSBvdXQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGhhbmRsZSkK</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dFN0cmVhbSA9IGluOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2b2lkIGRpc3BsYXlNZXNzYWdlKFN0cmluZyBtc2cpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBVc2VyU2VsZWN0aW9uLklOVkFMSUQ7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgT3V0cHV0U3RyZWFtIG91dHB1dFN0cmVhbTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFBsYXllciBwID0gbmV3IFBsYXllcihqdWRnZSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgSW5wdXRTdHJlYW0gaW5wdXRTdHJlYW07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdlbmVyYXRvci5nZW5lcmF0ZU51bWJlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBpbml0KCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImhvbnV4Igo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorRightWithSelection</text>
+        <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>printResult</text>
+        <text>StringBuffer</text>
       </register>
     </registers>
     <search>
@@ -226,10 +242,10 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
