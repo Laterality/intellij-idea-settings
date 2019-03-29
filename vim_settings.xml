@@ -18,6 +18,12 @@
         <mark key="^" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
+      <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/Car.java" timestamp="1553841113890">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="8" column="4" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1553336905367">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -165,34 +171,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB1aS5wcm9tcHRSZXN0YXJ0KCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB1aS5wcm9tcHRSZXN0YXJ0KCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB1aS5wcm9tcHRSZXN0YXJ0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGhhbmRsZSkK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2b2lkIGRpc3BsYXlNZXNzYWdlKFN0cmluZyBtc2cpOwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKGhhbmRsZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBVc2VyU2VsZWN0aW9uLklOVkFMSUQ7Cg==</text>
+        <text encoding="base64">ICB2b2lkIGRpc3BsYXlNZXNzYWdlKFN0cmluZyBtc2cpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFBsYXllciBwID0gbmV3IFBsYXllcihqdWRnZSk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBVc2VyU2VsZWN0aW9uLklOVkFMSUQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdlbmVyYXRvci5nZW5lcmF0ZU51bWJlcigpOwo=</text>
+        <text encoding="base64">ICAgIFBsYXllciBwID0gbmV3IFBsYXllcihqdWRnZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBpbml0KCkgewo=</text>
+        <text encoding="base64">ICAgIGdlbmVyYXRvci5nZW5lcmF0ZU51bWJlcigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIElOdW1iZXJHZW5lcmF0b3IgZ2VuZXJhdG9yOwo=</text>
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCBpbml0KCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorRightWithSelection</text>
