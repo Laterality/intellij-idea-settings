@@ -80,6 +80,12 @@
         <mark key="." line="28" column="22" />
         <mark key="^" line="28" column="22" />
       </file>
+      <file name="D:/Dev/GitHub/java-racingcar/src/test/java/domain/UserInterfaceTest.java" timestamp="1553844438782">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="6" column="5" />
+        <mark key="^" line="6" column="5" />
+        <mark key="." line="6" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/PlayerImpl.java" timestamp="1553338177103">
         <mark key="[" line="35" column="44" />
         <mark key="]" line="35" column="30" />
@@ -99,6 +105,12 @@
       </file>
       <file name="D:/Dev/java/AlgorithmStudyKt/src/kr/latera/algorithmstudy/Solution1932Test.kt" timestamp="1548050131401">
         <mark key="[" line="4" column="31" />
+      </file>
+      <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/interfaces/UserInterface.java" timestamp="1553844160489">
+        <mark key="[" line="9" column="38" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="21" />
       </file>
       <file name="/fragment.kt" timestamp="1552914484863">
         <mark key="[" line="0" column="0" />
@@ -173,8 +185,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>printResult</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB1aS5wcm9tcHRSZXN0YXJ0KCk7Cg==</text>
@@ -204,7 +216,7 @@
         <text>action EditorRightWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>displayMessag</text>
+        <text>printResult</text>
       </register>
     </registers>
     <search>
