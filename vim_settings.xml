@@ -136,11 +136,11 @@
         <mark key="^" line="3" column="13" />
         <mark key="." line="3" column="13" />
       </file>
-      <file name="D:/Dev/GitHub/spring-petclinic/build.gradle" timestamp="1554134114336">
-        <mark key="[" line="39" column="81" />
-        <mark key="]" line="39" column="42" />
-        <mark key="^" line="39" column="42" />
-        <mark key="." line="39" column="42" />
+      <file name="D:/Dev/GitHub/spring-petclinic/build.gradle" timestamp="1554135804624">
+        <mark key="[" line="62" column="91" />
+        <mark key="]" line="62" column="89" />
+        <mark key="^" line="62" column="89" />
+        <mark key="." line="62" column="89" />
       </file>
       <file name="/Dummy.txt" timestamp="1553844779694">
         <mark key="[" line="0" column="0" />
@@ -176,7 +176,7 @@
         <mark key="." line="11" column="9" />
         <mark key="^" line="11" column="9" />
       </file>
-      <file name="D:/Dev/GitHub/spring-petclinic/pom.xml" timestamp="1554133297593" />
+      <file name="D:/Dev/GitHub/spring-petclinic/pom.xml" timestamp="1554134961605" />
       <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/Utility.java" timestamp="1553848350010">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -275,7 +275,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorUpWithSelection</text>
+        <text>action EditorLeftWithSelection</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">aW50IA==</text>
@@ -289,9 +289,9 @@
       <history-search />
       <history-cmd>
         <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
