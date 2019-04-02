@@ -74,11 +74,11 @@
         <mark key="^" line="20" column="27" />
         <mark key="." line="20" column="27" />
       </file>
-      <file name="D:/Dev/GitHub/spring-petclinic-kotlin/build.gradle.kts" timestamp="1554137160869">
-        <mark key="[" line="56" column="14" />
-        <mark key="]" line="56" column="14" />
-        <mark key="^" line="56" column="14" />
-        <mark key="." line="56" column="14" />
+      <file name="D:/Dev/GitHub/spring-petclinic-kotlin/build.gradle.kts" timestamp="1554140742573">
+        <mark key="[" line="56" column="10" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="55" column="72" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/Player.java" timestamp="1553855456803">
         <mark key="'" line="21" column="0" />
@@ -250,40 +250,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgIGNvbmZpZ09wdGlvbnNbImxlc3MiXVsiY29tcGlsZXIiXSA9ICJzdGFuZGFyZCIK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aW50IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbmZpZ09wdGlvbnNbImxlc3MiXVsiY29tcGlsZXIiXSA9ICJzdGFuZGFyZCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGNvbmZpZ09wdGlvbnNbImxlc3MiXSA9IEhhc2hNYXA8U3RyaW5nLCBNYXA8U3RyaW5nLCBTdHJpbmc+PigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHVibGljIGVudW0gU3RvcE9yR28gewo=</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIMPfsKEgseK0ySCxuMf2Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tcGlsZXI6ICdzdGFuZGFyZCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5TdHJpbmdKb2luZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXNzOiBbCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXRTdHJlYW0gPSBvdXQ7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbi50ZXh0LlR5cG9ncmFwaHkubGVzcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dFN0cmVhbSA9IGluOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4udG9vbHMuamF2YWMucmVzb3VyY2VzLmNvbXBpbGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIENhbiBhZGQgY3VzdG9tIGFzc2V0IGxvY2F0aW9ucyAoZGlyZWN0b3JpZXMgb3IgaW5kaXZpZHVhbCBqYXIgZmlsZXMpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorLeftWithSelection</text>
+        <text>action EditorDownWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW50IA==</text>
+        <text>Map</text>
       </register>
     </registers>
     <search>
@@ -294,9 +294,9 @@
       <history-search />
       <history-cmd>
         <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
-        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -334,6 +334,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
