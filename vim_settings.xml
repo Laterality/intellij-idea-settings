@@ -74,11 +74,10 @@
         <mark key="^" line="20" column="27" />
         <mark key="." line="20" column="27" />
       </file>
-      <file name="D:/Dev/GitHub/spring-petclinic-kotlin/build.gradle.kts" timestamp="1554140742573">
-        <mark key="[" line="56" column="10" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="55" column="72" />
-        <mark key="." line="56" column="0" />
+      <file name="D:/Dev/GitHub/spring-petclinic-kotlin/build.gradle.kts" timestamp="1554191031358">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/Player.java" timestamp="1553855456803">
         <mark key="'" line="21" column="0" />
@@ -250,40 +249,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ09wdGlvbnNbImxlc3MiXVsiY29tcGlsZXIiXSA9ICJzdGFuZGFyZCIK</text>
+        <text encoding="base64">ICAgIGlkKCJjb20uYmVydHJhbWxhYnMuYXNzZXQtcGlwZWxpbmUiKSB2ZXJzaW9uICIzLjAuMTAiCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ09wdGlvbnNbImxlc3MiXVsiY29tcGlsZXIiXSA9ICJzdGFuZGFyZCIK</text>
+        <text encoding="base64">ICAgIGlkKCJjb20uYmVydHJhbWxhYnMuYXNzZXQtcGlwZWxpbmUiKSB2ZXJzaW9uICIzLjAuMTAiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ09wdGlvbnNbImxlc3MiXSA9IEhhc2hNYXA8U3RyaW5nLCBNYXA8U3RyaW5nLCBTdHJpbmc+PigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">YXNzZXRzIHsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tcGlsZXI6ICdzdGFuZGFyZCcK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICBtaW5pZnlDc3MgPSB0cnVlCiAgICBlbmFibGVTb3VyY2VNYXBzID0gdHJ1ZQoKICAgIGluY2x1ZGVzID0gbXV0YWJsZUxpc3RPZigpCi8vICAgIGV4Y2x1ZGVzID0gbXV0YWJsZUxpc3RPZigiKiovKi5sZXNzIikgLy9FeGFtcGxlIEV4Y2x1ZGUgR0xPQiBwYXR0ZXJuCgogICAgLy9mb3IgcGx1Z2luIHBhY2thZ2luZwovLyAgICBwYWNrYWdlUGx1Z2luID0gZmFsc2UgLy9zZXQgdG8gdHJ1ZSBpZiB0aGlzIGlzIGEgbGlicmFyeQoKICAgIC8vZGV2ZWxvcG1lbnRSdW50aW1lIGNhbiBiZSB0dXJuZWQgb2ZmCi8vICAgIGRldmVsb3BtZW50UnVudGltZSA9IHRydWUKCiAgICAvL2lmIHlvdSB3YW50IHRvIGN1c3RvbWl6ZSB0aGUgamFyIHRhc2sgdGhpcyB0YXNrIHJ1bnMgb24geW91IGNhbiBzcGVjaWZ5IGEgamFyVGFza05hbWUKLy8gICAgamFyVGFza05hbWUgPSBudWxsCgogICAgY29uZmlnT3B0aW9ucyA9IGhhc2hNYXBPZigibGVzcyIgdG8gaGFzaE1hcE9mKCJjb21waWxlciIgdG8gInN0YW5kYXJkIikpCiAgICBmcm9tKCJzcmMvbWFpbi9sZXNzIik=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXNzOiBbCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi50ZXh0LlR5cG9ncmFwaHkubGVzcwo=</text>
+        <text encoding="base64">ICAgIGFzc2V0cygiY29tLmJlcnRyYW1sYWJzLnBsdWdpbnM6bGVzcy1hc3NldC1waXBlbGluZToyLjUuNCIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4udG9vbHMuamF2YWMucmVzb3VyY2VzLmNvbXBpbGVyCg==</text>
+        <text encoding="base64">Ly8gICAgZGVwZW5kZW5jaWVzIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIENhbiBhZGQgY3VzdG9tIGFzc2V0IGxvY2F0aW9ucyAoZGlyZWN0b3JpZXMgb3IgaW5kaXZpZHVhbCBqYXIgZmlsZXMpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGNsYXNzcGF0aCgiY29tLmJlcnRyYW1sYWJzLnBsdWdpbnM6YXNzZXQtcGlwZWxpbmUtZ3JhZGxlOjMuMC4xMCIpCi8vICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDownWithSelection</text>
+        <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>Map</text>
+        <text encoding="base64">dmFsIA==</text>
       </register>
     </registers>
     <search>
@@ -295,8 +294,8 @@
       <history-cmd>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
