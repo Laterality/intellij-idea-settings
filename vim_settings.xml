@@ -51,11 +51,11 @@
         <mark key="^" line="9" column="37" />
         <mark key="." line="9" column="37" />
       </file>
-      <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/WinningLotto.java" timestamp="1554455542051">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="20" column="49" />
-        <mark key="." line="15" column="0" />
+      <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/WinningLotto.java" timestamp="1554459330963">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="22" column="21" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/GeneratorTest/JudgeTest.java" timestamp="1553264913797">
         <mark key="[" line="29" column="37" />
@@ -104,11 +104,11 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/Lotto.java" timestamp="1554455170963">
-        <mark key="[" line="22" column="9" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="21" column="44" />
-        <mark key="." line="27" column="0" />
+      <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/Lotto.java" timestamp="1554458879395">
+        <mark key="[" line="29" column="30" />
+        <mark key="]" line="31" column="82" />
+        <mark key="^" line="31" column="82" />
+        <mark key="." line="31" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/GeneratorTest/GeneratorTest.java" timestamp="1553251473451">
         <mark key="[" line="20" column="32" />
@@ -205,11 +205,11 @@
         <mark key="." line="11" column="38" />
         <mark key="^" line="11" column="38" />
       </file>
-      <file name="D:/Dev/GitHub/java-lotto/src/test/java/WinningLottoTest.java" timestamp="1554456588919">
-        <mark key="[" line="28" column="32" />
-        <mark key="]" line="28" column="33" />
-        <mark key="." line="28" column="33" />
-        <mark key="^" line="28" column="33" />
+      <file name="D:/Dev/GitHub/java-lotto/src/test/java/WinningLottoTest.java" timestamp="1554460368868">
+        <mark key="[" line="29" column="93" />
+        <mark key="]" line="29" column="93" />
+        <mark key="." line="29" column="93" />
+        <mark key="^" line="21" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/StreamUserInterface.java" timestamp="1553337863752">
         <mark key="[" line="68" column="16" />
@@ -291,40 +291,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>MISS</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG90dG9zW2ldID0gbmV3IExvdHRvKEFycmF5cy5hc0xpc3QobnVtc1tpXSkpOwogICAgICAgIH1hCg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PExvdHRvPiBsb3R0b3MgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBudW1zLmxlbmd0aDsgaSsrKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG90dG9bXSBjcmVhdGVMb3R0b3MoaW50W11bXSBudW1zKSB7CiAgICAgICAgTG90dG9bXSBsb3R0b3MgPSBuZXcgTG90dG9bbnVtcy5sZW5ndGhdOwo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIFN0cmluZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKExvdHRvIGwgOiBsb3R0b3MpIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMb3R0b1tdIGxvdHRvcyA9IGNyZWF0ZUxvdHRvcyhudW1zKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG90dG9zW2ldID0gbmV3IExvdHRvKEFycmF5cy5hc0xpc3QobnVtc1tpXSkpOwogICAgICAgIH1hCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaSA9IDA7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBudW1zLmxlbmd0aDsgaSsrKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludFtdIGFyciA6IG51bXMpIHsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG90dG9bXSBjcmVhdGVMb3R0b3MoaW50W11bXSBudW1zKSB7CiAgICAgICAgTG90dG9bXSBsb3R0b3MgPSBuZXcgTG90dG9bbnVtcy5sZW5ndGhdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDownWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>MISS</text>
       </register>
     </registers>
     <search>
@@ -334,8 +334,8 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action EditorRightWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorRightWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
       </history-cmd>
