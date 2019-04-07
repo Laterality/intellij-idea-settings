@@ -74,11 +74,11 @@
         <mark key="^" line="32" column="56" />
         <mark key="." line="32" column="56" />
       </file>
-      <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/RandomLottoNumberGenerator.java" timestamp="1554478941701">
-        <mark key="[" line="9" column="9" />
-        <mark key="]" line="9" column="49" />
-        <mark key="^" line="9" column="49" />
-        <mark key="." line="9" column="49" />
+      <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/RandomLottoNumberGenerator.java" timestamp="1554609396801">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="41" />
+        <mark key="^" line="10" column="41" />
+        <mark key="." line="10" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/PlayerImpl.java" timestamp="1553338177103">
         <mark key="[" line="35" column="44" />
@@ -122,11 +122,11 @@
         <mark key="^" line="20" column="31" />
         <mark key="." line="20" column="31" />
       </file>
-      <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/Player.java" timestamp="1554485103485">
-        <mark key="[" line="73" column="5" />
-        <mark key="]" line="137" column="88" />
-        <mark key="." line="137" column="88" />
-        <mark key="^" line="137" column="88" />
+      <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/Player.java" timestamp="1554609057414">
+        <mark key="[" line="135" column="50" />
+        <mark key="]" line="135" column="66" />
+        <mark key="." line="135" column="66" />
+        <mark key="^" line="135" column="66" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/util/Scanner.java" timestamp="1554474350149" />
       <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/StopOrGo.java" timestamp="1553854400742">
@@ -259,11 +259,11 @@
         <mark key="^" line="14" column="71" />
         <mark key="." line="14" column="62" />
       </file>
-      <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/WinningStatistics.java" timestamp="1554472420114">
-        <mark key="[" line="18" column="6" />
-        <mark key="]" line="26" column="31" />
-        <mark key="." line="26" column="31" />
-        <mark key="^" line="26" column="31" />
+      <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/WinningStatistics.java" timestamp="1554609515653">
+        <mark key="[" line="43" column="14" />
+        <mark key="]" line="42" column="6" />
+        <mark key="." line="42" column="6" />
+        <mark key="^" line="42" column="6" />
       </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/StreamUserInterface.java" timestamp="1553846776069">
         <mark key="[" line="32" column="0" />
@@ -295,8 +295,8 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/Rank.java" timestamp="1554470385680">
-        <mark key="[" line="43" column="49" />
+      <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/Rank.java" timestamp="1554609417060">
+        <mark key="[" line="41" column="33" />
         <mark key="]" line="43" column="66" />
         <mark key="^" line="43" column="66" />
         <mark key="." line="43" column="66" />
@@ -329,7 +329,7 @@
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5JbnB1dE1pc21hdGNoRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>nums</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogsLO89iDDvMWpx9i+3yDH1Ao=</text>
@@ -359,7 +359,7 @@
         <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>nums</text>
       </register>
     </registers>
     <search>
