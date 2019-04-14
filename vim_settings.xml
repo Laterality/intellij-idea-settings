@@ -115,6 +115,12 @@
         <mark key="^" line="31" column="82" />
         <mark key="." line="31" column="82" />
       </file>
+      <file name="D:/Dev/java/programmers-solutions/src/test/java/Test42577.java" timestamp="1555245461456">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="22" column="64" />
+        <mark key="^" line="22" column="64" />
+        <mark key="." line="22" column="64" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/GeneratorTest/GeneratorTest.java" timestamp="1553251473451">
         <mark key="[" line="20" column="32" />
         <mark key="]" line="20" column="31" />
@@ -197,6 +203,12 @@
         <mark key="." line="47" column="31" />
         <mark key="^" line="47" column="31" />
       </file>
+      <file name="D:/Dev/java/programmers-solutions/src/main/java/Solution42577.java" timestamp="1555245484507">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="18" column="21" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/interfaces/InputValidator.java" timestamp="1553849642565">
         <mark key="[" line="5" column="43" />
         <mark key="]" line="3" column="31" />
@@ -241,7 +253,7 @@
         <mark key="." line="29" column="93" />
         <mark key="^" line="21" column="54" />
       </file>
-      <file name="D:/Dev/java/programmers-solutions/src/main/java/Solution42576.java" timestamp="1555243163131">
+      <file name="D:/Dev/java/programmers-solutions/src/main/java/Solution42576.java" timestamp="1555244516851">
         <mark key="[" line="22" column="22" />
         <mark key="]" line="20" column="7" />
         <mark key="^" line="20" column="7" />
@@ -359,40 +371,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYW5zd2VyOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIFNldDxTdHJpbmc+IHBob25lTnVtYmVyU2V0ID0gbmV3IEhhc2hTZXQ8PigpOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYW5zd2VyOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIFNldDxTdHJpbmc+IHBob25lTnVtYmVyU2V0ID0gbmV3IEhhc2hTZXQ8PigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbnN3ZXIgPSBzb2wuc29sdXRpb24obmV3IFN0cmluZ1tdICk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGFuc3dlciwgImxlbyIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbnN3ZXIgPSBzb2wuc29sdXRpb24obmV3IFN0cmluZ1tdICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGFuc3dlciwgInZpbmtvIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbnN3ZXIgPSBzb2wuc29sdXRpb24obmV3IFN0cmluZ1tdICwgbmV3IFN0cmluZ1tdICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBJdGVyYXRvcjxTdHJpbmc+IGl0ID0gc2V0Lml0ZXJhdG9yKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbnN3ZXIgPSBzb2wuc29sdXRpb24oKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZXQuYWRkQWxsKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBJbnRlZ2VyPiBjb21wbGV0cyA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYW5zd2VyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhbnN3ZXIgPSBzb2wuc29sdXRpb24obmV3IFN0cmluZ1tdICk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorLeftWithSelection</text>
+        <text>action EditorRightWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>answer</text>
       </register>
     </registers>
     <search>
@@ -402,10 +414,10 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action EditorRightWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorRightWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
