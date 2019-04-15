@@ -80,6 +80,12 @@
         <mark key="^" line="32" column="56" />
         <mark key="." line="32" column="56" />
       </file>
+      <file name="D:/Dev/java/programmers-solutions/src/main/java/Solution43238.java" timestamp="1555336141703">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="23" column="28" />
+        <mark key="^" line="23" column="28" />
+        <mark key="." line="23" column="28" />
+      </file>
       <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/RandomLottoNumberGenerator.java" timestamp="1554609396801">
         <mark key="[" line="10" column="27" />
         <mark key="]" line="10" column="41" />
@@ -98,8 +104,17 @@
         <mark key="^" line="62" column="89" />
         <mark key="." line="62" column="89" />
       </file>
+      <file name="D:/Dev/java/programmers-solutions/src/main/java/Solution43165.java" timestamp="1555337948582">
+        <mark key="[" line="28" column="35" />
+      </file>
       <file name="/fragment.kt" timestamp="1552914484863">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Dev/java/programmers-solutions/src/test/java/Test43165.java" timestamp="1555336428903">
+        <mark key="[" line="9" column="64" />
+        <mark key="]" line="9" column="66" />
+        <mark key="^" line="9" column="66" />
+        <mark key="." line="9" column="66" />
       </file>
       <file name="C:/Workspace/java/woowahan-tech-course-online-test/src/main/java/Q7.java" timestamp="1553251714075">
         <mark key="[" line="17" column="0" />
@@ -383,40 +398,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdCA9IG51bWJlcnNbaV07Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>target</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbWFuYWdlcjsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCBTdHJpbmdbXSBnZXRTZXJ2bGV0TWFwcGluZ3MoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBTdHJpbmdbMF07CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwcm90ZWN0ZWQgQ2xhc3M8Pz5bXSBnZXRSb290Q29uZmlnQ2xhc3NlcygpIHsKICAgICAgICByZXR1cm4gbmV3IENsYXNzW10geyBXZWJTZWN1cml0eUNvbmZpZy5jbGFzcyB9OwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIENsYXNzPD8+W10gZ2V0U2VydmxldENvbmZpZ0NsYXNzZXMoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBDbGFzc1swXTsKICAgIH0=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gaHR0cDsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmQoKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLmh0dHBCYXNpYygpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuc3VwcG9ydC5BYnN0cmFjdEFubm90YXRpb25Db25maWdEaXNwYXRjaGVyU2VydmxldEluaXRpYWxpemVyOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCBDbGFzczw/PltdIGdldFJvb3RDb25maWdDbGFzc2VzKCkgewogICAgICAgIHJldHVybiBuZXcgQ2xhc3NbXSB7IFdlYlNlY3VyaXR5Q29uZmlnLmNsYXNzIH07CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwcm90ZWN0ZWQgQ2xhc3M8Pz5bXSBnZXRTZXJ2bGV0Q29uZmlnQ2xhc3NlcygpIHsKICAgICAgICByZXR1cm4gbmV3IENsYXNzWzBdOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIFN0cmluZ1tdIGdldFNlcnZsZXRNYXBwaW5ncygpIHsKICAgICAgICByZXR1cm4gbmV3IFN0cmluZ1swXTsKICAgIH0=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuY29yZS51c2VyZGV0YWlscy5Vc2VyRGV0YWlsc1NlcnZpY2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>target</text>
       </register>
     </registers>
     <search>
@@ -427,25 +442,25 @@
       <history-search />
       <history-cmd>
         <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
-        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed X</text>
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed S</text>
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
