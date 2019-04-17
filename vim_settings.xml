@@ -9,6 +9,12 @@
         <mark key="^" line="8" column="10" />
         <mark key="." line="9" column="2" />
       </file>
+      <file name="D:/Dev/java/spring-boot/src/main/java/kr/latera/springboot/domain/Book.java" timestamp="1555470582323">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="25" />
+        <mark key="^" line="17" column="25" />
+        <mark key="." line="17" column="25" />
+      </file>
       <file name="D:/Dev/java/FileIO-Ex/src/AppMain.java" timestamp="1553771719684">
         <mark key="[" line="13" column="38" />
         <mark key="]" line="11" column="24" />
@@ -20,11 +26,6 @@
         <mark key="]" line="28" column="21" />
         <mark key="." line="28" column="21" />
         <mark key="^" line="28" column="21" />
-      </file>
-      <file name="/a.dummy" timestamp="1554455588622">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Dev/java/spring-boot/src/main/resources/banner.txt" timestamp="1555423339353">
         <mark key="[" line="0" column="0" />
@@ -120,11 +121,6 @@
         <mark key="^" line="9" column="66" />
         <mark key="." line="9" column="66" />
       </file>
-      <file name="C:/Workspace/java/woowahan-tech-course-online-test/src/main/java/Q7.java" timestamp="1553251714075">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="D:/Dev/java/estsoft-code-test/src/kr/latera/DynamicProgramming.java" timestamp="1547650853505">
         <mark key="[" line="31" column="31" />
       </file>
@@ -200,16 +196,6 @@
         <mark key="^" line="20" column="27" />
         <mark key="." line="20" column="27" />
       </file>
-      <file name="D:/Dev/GitHub/spring-petclinic-kotlin/build.gradle.kts" timestamp="1554191031358">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/interfaces/UserInterface.java" timestamp="1554481493422">
-        <mark key="[" line="10" column="26" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="D:/Dev/java/spring-security-demo/src/main/java/kr/latera/springsecuritydemo/WebSecurityConfig.java" timestamp="1554821245316">
         <mark key="[" line="20" column="5" />
         <mark key="]" line="20" column="5" />
@@ -234,11 +220,23 @@
         <mark key="." line="47" column="31" />
         <mark key="^" line="47" column="31" />
       </file>
+      <file name="D:/Dev/java/spring-boot/src/test/java/kr/latera/springboot/domain/BookRepositoryTest.java" timestamp="1555471347205">
+        <mark key="[" line="26" column="29" />
+        <mark key="]" line="24" column="17" />
+        <mark key="^" line="24" column="17" />
+        <mark key="." line="24" column="17" />
+      </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/interfaces/InputValidator.java" timestamp="1553849642565">
         <mark key="[" line="5" column="43" />
         <mark key="]" line="3" column="31" />
         <mark key="^" line="3" column="31" />
         <mark key="." line="3" column="31" />
+      </file>
+      <file name="D:/Dev/java/spring-boot/src/main/java/kr/latera/springboot/domain/BookRepository.java" timestamp="1555470673724">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
       </file>
       <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/interfaces/ConsoleUserInterface.java" timestamp="1554478605611">
         <mark key="[" line="68" column="5" />
@@ -266,11 +264,6 @@
         <mark key="]" line="11" column="49" />
         <mark key="^" line="11" column="49" />
         <mark key="." line="11" column="49" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1554473056329">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
       </file>
       <file name="D:/Dev/java/spring-security-demo/pom.xml" timestamp="1554817256791">
         <mark key="[" line="27" column="24" />
@@ -305,11 +298,6 @@
         <mark key="^" line="19" column="2" />
         <mark key="." line="19" column="2" />
       </file>
-      <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/interfaces/LottoNumberGenerator.java" timestamp="1554452093709">
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="C:/Workspace/java/kt_algorithm/src/main/kotlin/AppMain.kt" timestamp="1552907981156">
         <mark key="[" line="0" column="0" />
       </file>
@@ -318,11 +306,6 @@
         <mark key="]" line="11" column="9" />
         <mark key="." line="11" column="9" />
         <mark key="^" line="11" column="9" />
-      </file>
-      <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/Utility.java" timestamp="1553848350010">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/test/java/domain/StopOrGoTest.java" timestamp="1553854364939">
         <mark key="[" line="14" column="62" />
@@ -402,40 +385,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdCA9IG51bWJlcnNbaV07Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLkdlbmVyYXRlZFZhbHVlOwppbXBvcnQgamF2YXgucGVyc2lzdGVuY2UuSWQ7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>target</text>
+        <text>FindByNameLike</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdCA9IG51bWJlcnNbaV07Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbWFuYWdlcjsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCBTdHJpbmdbXSBnZXRTZXJ2bGV0TWFwcGluZ3MoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBTdHJpbmdbMF07CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwcm90ZWN0ZWQgQ2xhc3M8Pz5bXSBnZXRSb290Q29uZmlnQ2xhc3NlcygpIHsKICAgICAgICByZXR1cm4gbmV3IENsYXNzW10geyBXZWJTZWN1cml0eUNvbmZpZy5jbGFzcyB9OwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIENsYXNzPD8+W10gZ2V0U2VydmxldENvbmZpZ0NsYXNzZXMoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBDbGFzc1swXTsKICAgIH0=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gaHR0cDsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmQoKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLmh0dHBCYXNpYygpOwo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuc3VwcG9ydC5BYnN0cmFjdEFubm90YXRpb25Db25maWdEaXNwYXRjaGVyU2VydmxldEluaXRpYWxpemVyOwo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCBDbGFzczw/PltdIGdldFJvb3RDb25maWdDbGFzc2VzKCkgewogICAgICAgIHJldHVybiBuZXcgQ2xhc3NbXSB7IFdlYlNlY3VyaXR5Q29uZmlnLmNsYXNzIH07CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwcm90ZWN0ZWQgQ2xhc3M8Pz5bXSBnZXRTZXJ2bGV0Q29uZmlnQ2xhc3NlcygpIHsKICAgICAgICByZXR1cm4gbmV3IENsYXNzWzBdOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIFN0cmluZ1tdIGdldFNlcnZsZXRNYXBwaW5ncygpIHsKICAgICAgICByZXR1cm4gbmV3IFN0cmluZ1swXTsKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>target</text>
+        <text>FindByNameLike</text>
       </register>
     </registers>
     <search>
@@ -492,6 +475,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
