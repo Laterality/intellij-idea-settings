@@ -97,11 +97,17 @@
         <mark key="]" line="68" column="18" />
         <mark key="." line="68" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcar/interfaces/UserInterface.java" timestamp="1557302645585">
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="9" column="41" />
-        <mark key="^" line="9" column="41" />
-        <mark key="." line="9" column="41" />
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcar/interfaces/UserInterface.java" timestamp="1557306133668">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="4" />
+        <mark key="^" line="9" column="18" />
+        <mark key="." line="13" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcar/Game.java" timestamp="1557305252263">
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="21" column="25" />
+        <mark key="." line="21" column="25" />
+        <mark key="^" line="21" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaRacingcar/ConsoleUserInterface.java" timestamp="1557301300702">
         <mark key="[" line="2" column="34" />
@@ -119,11 +125,17 @@
       <file name="C:/Workspace/java/kt_algorithm/src/main/kotlin/AppMain.kt" timestamp="1552907981156">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcar/ConsoleUserInterface.java" timestamp="1557302987857">
-        <mark key="[" line="60" column="23" />
-        <mark key="]" line="61" column="45" />
-        <mark key="." line="61" column="45" />
-        <mark key="^" line="61" column="45" />
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcar/ConsoleUserInterface.java" timestamp="1557306034319">
+        <mark key="[" line="36" column="42" />
+        <mark key="]" line="36" column="42" />
+        <mark key="." line="36" column="42" />
+        <mark key="^" line="36" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcar/AppMain.java" timestamp="1557305352471">
+        <mark key="[" line="24" column="24" />
+        <mark key="]" line="24" column="40" />
+        <mark key="." line="24" column="40" />
+        <mark key="^" line="24" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaRacingcar/interfaces/UserInterface.java" timestamp="1557301183257">
         <mark key="[" line="3" column="0" />
@@ -144,40 +156,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKCkK</text>
+        <text encoding="base64">ICAgICAgICBzcGxpdHRlZE5hbWVMaXN0LmFkZEFsbChzcGxpdHRlZE5hbWVzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgICAgICB1aS5wcmludFdpbm5lcnMoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PENhcj4gd2lubmVycyA9IDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgICAgICB1aS5wcmludFdpbm5lcnMod2lubmVycyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzY2FubmVyLm5leHRMaW5lKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PENhcj4gd2lubmVycyA9IGdhbWUubG9vcCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHByb21wdFVzZXJOYW1lcygpIHsK</text>
+        <text encoding="base64">ICAgICAgICBpc0VuZCA9IGZhbHNlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBnYW1lID0gbmV3IEdhbWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRyaWVzID0gdHJpZXM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICA9IG5ldyBUZXN0TnVtYmVyR2VuZXJhdG9yKCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IHRyaWVzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorLeftWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
     </registers>
     <search>
@@ -188,8 +200,8 @@
       <history-search />
       <history-cmd>
         <entry>action EditorDownWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
