@@ -9,55 +9,16 @@
         <mark key="^" line="8" column="10" />
         <mark key="." line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaRacingcar/interfaces/NumberGenerator.java" timestamp="1557297973140">
-        <mark key="[" line="2" column="36" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="D:/Dev/java/FileIO-Ex/src/AppMain.java" timestamp="1553771719684">
         <mark key="[" line="13" column="38" />
         <mark key="]" line="11" column="24" />
         <mark key="^" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
-      <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/Car.java" timestamp="1553854634007">
-        <mark key="[" line="29" column="9" />
-        <mark key="]" line="28" column="21" />
-        <mark key="." line="28" column="21" />
-        <mark key="^" line="28" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/MovieApplication.java" timestamp="1555404387101">
-        <mark key="'" line="117" column="0" />
-        <mark key="[" line="49" column="12" />
-        <mark key="]" line="73" column="59" />
-        <mark key="." line="73" column="59" />
-        <mark key="^" line="73" column="59" />
-      </file>
       <file name="/a.dummy" timestamp="1555398619126">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaRacingcar/RandomNumberGeneratorTest.java" timestamp="1557298142925">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="18" column="14" />
-        <mark key="^" line="18" column="14" />
-        <mark key="." line="18" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/java-movie/src/test/java/domain/PlayScheduleTest.java" timestamp="1555398499861">
-        <mark key="[" line="26" column="66" />
-        <mark key="]" line="26" column="64" />
-        <mark key="." line="26" column="64" />
-        <mark key="^" line="26" column="64" />
-      </file>
-      <file name="C:/Workspace/java/java-test/src/main/java/kr/latera/java_test/AppMain.java" timestamp="1553248287211">
-        <mark key="[" line="2" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/domain/Movie.java" timestamp="1555401470985">
-        <mark key="[" line="30" column="5" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="25" column="49" />
-        <mark key="." line="36" column="0" />
       </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/test/java/domain/AppMain.java" timestamp="1553855404350">
         <mark key="[" line="8" column="12" />
@@ -70,15 +31,6 @@
         <mark key="]" line="44" column="8" />
         <mark key="." line="44" column="8" />
         <mark key="^" line="45" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/CalculatorTest.java" timestamp="1557294407542">
-        <mark key="[" line="44" column="49" />
-        <mark key="]" line="44" column="47" />
-        <mark key="." line="44" column="47" />
-        <mark key="^" line="44" column="47" />
-      </file>
-      <file name="/Kotlin Console" timestamp="1552473030745">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/ConsoleUserInterface.java" timestamp="1554484457592">
         <mark key="[" line="52" column="97" />
@@ -94,29 +46,6 @@
         <mark key="]" line="6" column="18" />
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
-      </file>
-      <file name="D:/Dev/GitHub/java-lotto/src/test/java/WinningStatisticsTest.java" timestamp="1554472699510">
-        <mark key="[" line="26" column="29" />
-        <mark key="]" line="26" column="34" />
-        <mark key="^" line="26" column="34" />
-        <mark key="." line="26" column="34" />
-      </file>
-      <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/WinningLotto.java" timestamp="1554459330963">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="22" column="21" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/GeneratorTest/JudgeTest.java" timestamp="1553264913797">
-        <mark key="[" line="29" column="37" />
-        <mark key="]" line="28" column="22" />
-        <mark key="." line="28" column="22" />
-        <mark key="^" line="28" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaRacingcar/RacingCarUtilTest.java" timestamp="1557297145560">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
       </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/test/java/domain/UserInterfaceTest.java" timestamp="1553845973195">
         <mark key="[" line="30" column="56" />
@@ -136,34 +65,11 @@
         <mark key="^" line="10" column="41" />
         <mark key="." line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/PlayerImpl.java" timestamp="1553338177103">
-        <mark key="[" line="35" column="44" />
-        <mark key="]" line="35" column="30" />
-        <mark key="^" line="35" column="30" />
-        <mark key="." line="35" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/model/PaymentService.java" timestamp="1555393677034">
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="48" />
-        <mark key="^" line="12" column="48" />
-        <mark key="." line="12" column="48" />
-      </file>
       <file name="D:/Dev/GitHub/spring-petclinic/build.gradle" timestamp="1554135804624">
         <mark key="[" line="62" column="91" />
         <mark key="]" line="62" column="89" />
         <mark key="^" line="62" column="89" />
         <mark key="." line="62" column="89" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/view/InputView.java" timestamp="1555403692154">
-        <mark key="[" line="15" column="55" />
-      </file>
-      <file name="/fragment.kt" timestamp="1552914484863">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Workspace/java/woowahan-tech-course-online-test/src/main/java/Q7.java" timestamp="1553251714075">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/model/PaymentType.java" timestamp="1555394527563">
         <mark key="[" line="3" column="16" />
@@ -174,41 +80,17 @@
       <file name="D:/Dev/java/estsoft-code-test/src/kr/latera/DynamicProgramming.java" timestamp="1547650853505">
         <mark key="[" line="31" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/AppMain.java" timestamp="1553339326631">
-        <mark key="[" line="10" column="45" />
-        <mark key="]" line="9" column="36" />
-        <mark key="^" line="9" column="36" />
-        <mark key="." line="9" column="36" />
-      </file>
-      <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/LottoFactory.java" timestamp="1554454580415">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="21" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/Lotto.java" timestamp="1554458879395">
-        <mark key="[" line="29" column="30" />
-        <mark key="]" line="31" column="82" />
-        <mark key="^" line="31" column="82" />
-        <mark key="." line="31" column="82" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/GeneratorTest/GeneratorTest.java" timestamp="1553251473451">
-        <mark key="[" line="20" column="32" />
-        <mark key="]" line="20" column="31" />
-        <mark key="^" line="20" column="31" />
-        <mark key="." line="20" column="31" />
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaRacingcar/Game.java" timestamp="1557299920842">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="34" column="30" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/service/PaymentService.java" timestamp="1555394752033">
         <mark key="[" line="13" column="83" />
         <mark key="]" line="13" column="83" />
         <mark key="^" line="13" column="83" />
         <mark key="." line="13" column="83" />
-      </file>
-      <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/Player.java" timestamp="1554609057414">
-        <mark key="[" line="135" column="50" />
-        <mark key="]" line="135" column="66" />
-        <mark key="." line="135" column="66" />
-        <mark key="^" line="135" column="66" />
       </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/StopOrGo.java" timestamp="1553854400742">
         <mark key="[" line="13" column="10" />
@@ -236,6 +118,286 @@
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
+      <file name="D:/Dev/java/AlgorithmStudyKt/src/kr/latera/algorithmstudy/1932.kt" timestamp="1548048799306">
+        <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaRacingcar/RacingCarUtil.java" timestamp="1557297249456">
+        <mark key="[" line="13" column="58" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="8" column="38" />
+      </file>
+      <file name="D:/Dev/GitHub/spring-petclinic-kotlin/build.gradle.kts" timestamp="1554191031358">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaRacingcar/domain/Car.java" timestamp="1557299576921">
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="22" />
+        <mark key="^" line="20" column="22" />
+        <mark key="." line="20" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-movie/src/test/java/service/PaymentServiceTest.java" timestamp="1555394683714">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="91" />
+        <mark key="^" line="11" column="91" />
+        <mark key="." line="11" column="91" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/NumberGenerator.java" timestamp="1553250319478">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="17" column="35" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaRacingcar/RandomNumberGenerator.java" timestamp="1557298980495">
+        <mark key="[" line="10" column="39" />
+        <mark key="]" line="10" column="38" />
+        <mark key="^" line="10" column="38" />
+        <mark key="." line="10" column="38" />
+      </file>
+      <file name="D:/Dev/GitHub/java-racingcar/src/test/java/domain/InputValidatorTest.java" timestamp="1553850781466">
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="8" column="36" />
+        <mark key="^" line="8" column="36" />
+        <mark key="." line="8" column="36" />
+      </file>
+      <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/interfaces/InputValidator.java" timestamp="1553849642565">
+        <mark key="[" line="5" column="43" />
+        <mark key="]" line="3" column="31" />
+        <mark key="^" line="3" column="31" />
+        <mark key="." line="3" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/service/PaymentType.java" timestamp="1555402816606">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="28" column="19" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/interfaces/IPlayer.java" timestamp="1553324536164">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="13" />
+        <mark key="^" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+      </file>
+      <file name="D:/Dev/java/spring-security-demo/src/main/java/kr/latera/springsecuritydemo/SpringSecurityDemoApplication.java" timestamp="1554820648452">
+        <mark key="[" line="8" column="43" />
+        <mark key="]" line="8" column="43" />
+        <mark key="." line="8" column="43" />
+        <mark key="^" line="8" column="104" />
+      </file>
+      <file name="C:/Workspace/java/woowacourse-offline/src/test/java/kr/latera/woowacourseoffline/TestTestClass.java" timestamp="1555332718394">
+        <mark key="[" line="11" column="53" />
+        <mark key="]" line="11" column="49" />
+        <mark key="^" line="11" column="49" />
+        <mark key="." line="11" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/domain/MovieRepository.java" timestamp="1555401488353">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="47" column="21" />
+        <mark key="." line="51" column="0" />
+      </file>
+      <file name="D:/Dev/java/AlgorithmStudyKt/src/kr/latera/algorithmstudy/Solution1932Test.kt" timestamp="1548050131401">
+        <mark key="[" line="4" column="31" />
+      </file>
+      <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/interfaces/UserInterface.java" timestamp="1553849721575">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="11" column="38" />
+        <mark key="." line="11" column="38" />
+        <mark key="^" line="11" column="38" />
+      </file>
+      <file name="D:/Dev/GitHub/java-lotto/src/test/java/WinningLottoTest.java" timestamp="1554470332195">
+        <mark key="[" line="29" column="93" />
+        <mark key="]" line="29" column="93" />
+        <mark key="." line="29" column="93" />
+        <mark key="^" line="21" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/StreamUserInterface.java" timestamp="1553337863752">
+        <mark key="[" line="68" column="16" />
+        <mark key="]" line="68" column="16" />
+        <mark key="^" line="68" column="16" />
+        <mark key="." line="68" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/StreamUserInterfaceTest.java" timestamp="1553333002301">
+        <mark key="[" line="13" column="2" />
+        <mark key="]" line="11" column="9" />
+        <mark key="." line="11" column="9" />
+        <mark key="^" line="11" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/domain/Booking.java" timestamp="1555401027516">
+        <mark key="[" line="19" column="39" />
+        <mark key="]" line="20" column="28" />
+        <mark key="^" line="20" column="28" />
+        <mark key="." line="20" column="28" />
+      </file>
+      <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/Utility.java" timestamp="1553848350010">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/GeneratorTest/TestNumberGeneartor.java" timestamp="1553260442518">
+        <mark key="[" line="34" column="39" />
+        <mark key="]" line="34" column="49" />
+        <mark key="." line="34" column="49" />
+        <mark key="^" line="34" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/StreamUITest.java" timestamp="1553329648865">
+        <mark key="[" line="19" column="40" />
+        <mark key="]" line="19" column="38" />
+        <mark key="^" line="19" column="38" />
+        <mark key="." line="19" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/interfaces/IUserInterface.java" timestamp="1553337835310">
+        <mark key="[" line="7" column="43" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="D:/Dev/java/spring-security-demo/src/main/java/kr/latera/springsecuritydemo/SecurityWebApplicationInitializer.java" timestamp="1554820698097">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+        <mark key="^" line="7" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/service/MovieBookingService.java" timestamp="1555405532875">
+        <mark key="[" line="66" column="48" />
+        <mark key="]" line="61" column="35" />
+        <mark key="." line="61" column="35" />
+        <mark key="^" line="61" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaRacingcar/interfaces/NumberGenerator.java" timestamp="1557298915899">
+        <mark key="[" line="2" column="36" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/Car.java" timestamp="1553854634007">
+        <mark key="[" line="29" column="9" />
+        <mark key="]" line="28" column="21" />
+        <mark key="." line="28" column="21" />
+        <mark key="^" line="28" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/MovieApplication.java" timestamp="1555404387101">
+        <mark key="'" line="117" column="0" />
+        <mark key="[" line="49" column="12" />
+        <mark key="]" line="73" column="59" />
+        <mark key="." line="73" column="59" />
+        <mark key="^" line="73" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaRacingcar/RandomNumberGeneratorTest.java" timestamp="1557300236845">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="17" column="14" />
+        <mark key="^" line="17" column="14" />
+        <mark key="." line="17" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-movie/src/test/java/domain/PlayScheduleTest.java" timestamp="1555398499861">
+        <mark key="[" line="26" column="66" />
+        <mark key="]" line="26" column="64" />
+        <mark key="." line="26" column="64" />
+        <mark key="^" line="26" column="64" />
+      </file>
+      <file name="C:/Workspace/java/java-test/src/main/java/kr/latera/java_test/AppMain.java" timestamp="1553248287211">
+        <mark key="[" line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/domain/Movie.java" timestamp="1555401470985">
+        <mark key="[" line="30" column="5" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="25" column="49" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/CalculatorTest.java" timestamp="1557294407542">
+        <mark key="[" line="44" column="49" />
+        <mark key="]" line="44" column="47" />
+        <mark key="." line="44" column="47" />
+        <mark key="^" line="44" column="47" />
+      </file>
+      <file name="/Kotlin Console" timestamp="1552473030745">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Dev/GitHub/java-lotto/src/test/java/WinningStatisticsTest.java" timestamp="1554472699510">
+        <mark key="[" line="26" column="29" />
+        <mark key="]" line="26" column="34" />
+        <mark key="^" line="26" column="34" />
+        <mark key="." line="26" column="34" />
+      </file>
+      <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/WinningLotto.java" timestamp="1554459330963">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="22" column="21" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/GeneratorTest/JudgeTest.java" timestamp="1553264913797">
+        <mark key="[" line="29" column="37" />
+        <mark key="]" line="28" column="22" />
+        <mark key="." line="28" column="22" />
+        <mark key="^" line="28" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaRacingcar/RacingCarUtilTest.java" timestamp="1557297145560">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/PlayerImpl.java" timestamp="1553338177103">
+        <mark key="[" line="35" column="44" />
+        <mark key="]" line="35" column="30" />
+        <mark key="^" line="35" column="30" />
+        <mark key="." line="35" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/model/PaymentService.java" timestamp="1555393677034">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="48" />
+        <mark key="^" line="12" column="48" />
+        <mark key="." line="12" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/view/InputView.java" timestamp="1555403692154">
+        <mark key="[" line="15" column="55" />
+      </file>
+      <file name="/fragment.kt" timestamp="1552914484863">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Workspace/java/woowahan-tech-course-online-test/src/main/java/Q7.java" timestamp="1553251714075">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/AppMain.java" timestamp="1553339326631">
+        <mark key="[" line="10" column="45" />
+        <mark key="]" line="9" column="36" />
+        <mark key="^" line="9" column="36" />
+        <mark key="." line="9" column="36" />
+      </file>
+      <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/LottoFactory.java" timestamp="1554454580415">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="21" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaRacingcar/TestNumberGenerator.java" timestamp="1557299983403">
+        <mark key="[" line="8" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaRacingcar/GameTest.java" timestamp="1557300957904">
+        <mark key="[" line="68" column="18" />
+        <mark key="]" line="68" column="18" />
+        <mark key="." line="68" column="18" />
+      </file>
+      <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/Lotto.java" timestamp="1554458879395">
+        <mark key="[" line="29" column="30" />
+        <mark key="]" line="31" column="82" />
+        <mark key="^" line="31" column="82" />
+        <mark key="." line="31" column="82" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/GeneratorTest/GeneratorTest.java" timestamp="1553251473451">
+        <mark key="[" line="20" column="32" />
+        <mark key="]" line="20" column="31" />
+        <mark key="^" line="20" column="31" />
+        <mark key="." line="20" column="31" />
+      </file>
+      <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/Player.java" timestamp="1554609057414">
+        <mark key="[" line="135" column="50" />
+        <mark key="]" line="135" column="66" />
+        <mark key="." line="135" column="66" />
+        <mark key="^" line="135" column="66" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/PlayerTest.java" timestamp="1553336298093">
         <mark key="[" line="13" column="57" />
         <mark key="]" line="13" column="56" />
@@ -260,15 +422,6 @@
         <mark key="^" line="16" column="47" />
         <mark key="." line="16" column="47" />
       </file>
-      <file name="D:/Dev/java/AlgorithmStudyKt/src/kr/latera/algorithmstudy/1932.kt" timestamp="1548048799306">
-        <mark key="[" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaRacingcar/RacingCarUtil.java" timestamp="1557297249456">
-        <mark key="[" line="13" column="58" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="8" column="38" />
-      </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/JudgeImpl.java" timestamp="1553337366514">
         <mark key="[" line="34" column="17" />
         <mark key="]" line="34" column="17" />
@@ -281,11 +434,6 @@
         <mark key="^" line="20" column="27" />
         <mark key="." line="20" column="27" />
       </file>
-      <file name="D:/Dev/GitHub/spring-petclinic-kotlin/build.gradle.kts" timestamp="1554191031358">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/interfaces/UserInterface.java" timestamp="1554481493422">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="24" column="0" />
@@ -297,80 +445,20 @@
         <mark key="^" line="20" column="4" />
         <mark key="." line="20" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-movie/src/test/java/service/PaymentServiceTest.java" timestamp="1555394683714">
-        <mark key="[" line="11" column="32" />
-        <mark key="]" line="11" column="91" />
-        <mark key="^" line="11" column="91" />
-        <mark key="." line="11" column="91" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/NumberGenerator.java" timestamp="1553250319478">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="17" column="35" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaRacingcar/RandomNumberGenerator.java" timestamp="1557297640711">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="26" />
-      </file>
-      <file name="D:/Dev/GitHub/java-racingcar/src/test/java/domain/InputValidatorTest.java" timestamp="1553850781466">
-        <mark key="[" line="8" column="36" />
-        <mark key="]" line="8" column="36" />
-        <mark key="^" line="8" column="36" />
-        <mark key="." line="8" column="36" />
-      </file>
       <file name="D:/Dev/GitHub/java-lotto/src/test/java/RandomLottoNumberGeneratorTest.java" timestamp="1554452225561">
         <mark key="[" line="47" column="31" />
         <mark key="]" line="47" column="31" />
         <mark key="." line="47" column="31" />
         <mark key="^" line="47" column="31" />
       </file>
-      <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/interfaces/InputValidator.java" timestamp="1553849642565">
-        <mark key="[" line="5" column="43" />
-        <mark key="]" line="3" column="31" />
-        <mark key="^" line="3" column="31" />
-        <mark key="." line="3" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/service/PaymentType.java" timestamp="1555402816606">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="28" column="19" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/interfaces/ConsoleUserInterface.java" timestamp="1554478605611">
         <mark key="[" line="68" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/interfaces/IPlayer.java" timestamp="1553324536164">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="13" />
-        <mark key="^" line="3" column="13" />
-        <mark key="." line="3" column="13" />
-      </file>
-      <file name="D:/Dev/java/spring-security-demo/src/main/java/kr/latera/springsecuritydemo/SpringSecurityDemoApplication.java" timestamp="1554820648452">
-        <mark key="[" line="8" column="43" />
-        <mark key="]" line="8" column="43" />
-        <mark key="." line="8" column="43" />
-        <mark key="^" line="8" column="104" />
       </file>
       <file name="C:/Workspace/java/woowacourse-offline/src/main/java/kr/latera/woowacourseoffline/TestClass.java" timestamp="1555390618699">
         <mark key="[" line="9" column="32" />
         <mark key="]" line="9" column="32" />
         <mark key="^" line="9" column="32" />
         <mark key="." line="9" column="32" />
-      </file>
-      <file name="C:/Workspace/java/woowacourse-offline/src/test/java/kr/latera/woowacourseoffline/TestTestClass.java" timestamp="1555332718394">
-        <mark key="[" line="11" column="53" />
-        <mark key="]" line="11" column="49" />
-        <mark key="^" line="11" column="49" />
-        <mark key="." line="11" column="49" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/domain/MovieRepository.java" timestamp="1555401488353">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="47" column="21" />
-        <mark key="." line="51" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1554473056329">
         <mark key="[" line="0" column="0" />
@@ -382,27 +470,6 @@
         <mark key="]" line="27" column="51" />
         <mark key="^" line="27" column="51" />
         <mark key="." line="27" column="51" />
-      </file>
-      <file name="D:/Dev/java/AlgorithmStudyKt/src/kr/latera/algorithmstudy/Solution1932Test.kt" timestamp="1548050131401">
-        <mark key="[" line="4" column="31" />
-      </file>
-      <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/interfaces/UserInterface.java" timestamp="1553849721575">
-        <mark key="[" line="7" column="10" />
-        <mark key="]" line="11" column="38" />
-        <mark key="." line="11" column="38" />
-        <mark key="^" line="11" column="38" />
-      </file>
-      <file name="D:/Dev/GitHub/java-lotto/src/test/java/WinningLottoTest.java" timestamp="1554470332195">
-        <mark key="[" line="29" column="93" />
-        <mark key="]" line="29" column="93" />
-        <mark key="." line="29" column="93" />
-        <mark key="^" line="21" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/StreamUserInterface.java" timestamp="1553337863752">
-        <mark key="[" line="68" column="16" />
-        <mark key="]" line="68" column="16" />
-        <mark key="^" line="68" column="16" />
-        <mark key="." line="68" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/ConsoleUITest.java" timestamp="1553326434313">
         <mark key="[" line="25" column="45" />
@@ -423,23 +490,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/StreamUserInterfaceTest.java" timestamp="1553333002301">
-        <mark key="[" line="13" column="2" />
-        <mark key="]" line="11" column="9" />
-        <mark key="." line="11" column="9" />
-        <mark key="^" line="11" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/domain/Booking.java" timestamp="1555401027516">
-        <mark key="[" line="19" column="39" />
-        <mark key="]" line="20" column="28" />
-        <mark key="^" line="20" column="28" />
-        <mark key="." line="20" column="28" />
-      </file>
-      <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/Utility.java" timestamp="1553848350010">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/test/java/domain/StopOrGoTest.java" timestamp="1553854364939">
         <mark key="[" line="14" column="62" />
         <mark key="]" line="14" column="62" />
@@ -458,29 +508,11 @@
         <mark key="^" line="27" column="38" />
         <mark key="." line="27" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/GeneratorTest/TestNumberGeneartor.java" timestamp="1553260442518">
-        <mark key="[" line="34" column="39" />
-        <mark key="]" line="34" column="49" />
-        <mark key="." line="34" column="49" />
-        <mark key="^" line="34" column="49" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/StreamUITest.java" timestamp="1553329648865">
-        <mark key="[" line="19" column="40" />
-        <mark key="]" line="19" column="38" />
-        <mark key="^" line="19" column="38" />
-        <mark key="." line="19" column="38" />
-      </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/ConsoleUserInterface.java" timestamp="1553858686561">
         <mark key="[" line="20" column="28" />
         <mark key="]" line="12" column="18" />
         <mark key="^" line="12" column="18" />
         <mark key="." line="12" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/interfaces/IUserInterface.java" timestamp="1553337835310">
-        <mark key="[" line="7" column="43" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="5" column="18" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-movie/src/test/java/service/MovieBookingSersviceTest.java" timestamp="1555398566527">
         <mark key="[" line="61" column="46" />
@@ -488,23 +520,11 @@
         <mark key="." line="61" column="46" />
         <mark key="^" line="61" column="46" />
       </file>
-      <file name="D:/Dev/java/spring-security-demo/src/main/java/kr/latera/springsecuritydemo/SecurityWebApplicationInitializer.java" timestamp="1554820698097">
-        <mark key="[" line="7" column="38" />
-        <mark key="]" line="7" column="30" />
-        <mark key="." line="7" column="30" />
-        <mark key="^" line="7" column="30" />
-      </file>
       <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/Rank.java" timestamp="1554609417060">
         <mark key="[" line="41" column="33" />
         <mark key="]" line="43" column="66" />
         <mark key="^" line="43" column="66" />
         <mark key="." line="43" column="66" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/service/MovieBookingService.java" timestamp="1555405532875">
-        <mark key="[" line="66" column="48" />
-        <mark key="]" line="61" column="35" />
-        <mark key="." line="61" column="35" />
-        <mark key="^" line="61" column="35" />
       </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/RandomNumberGenerator.java" timestamp="1553851513182">
         <mark key="[" line="12" column="39" />
@@ -518,7 +538,7 @@
         <mark key="^" line="7" column="37" />
         <mark key="." line="7" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1557296132210">
+      <file name="/fragment.java" timestamp="1557298551505">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -532,40 +552,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgCg==</text>
+        <text encoding="base64">ICAgICAgICBnYW1lID0gbmV3IEdhbWUoKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgCg==</text>
+      <register name="&quot;" type="4">
+        <text>(game.loop()).isEqualTo(expectedWinnerList);</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSYW5kb20gciA9IG5ldyBSYW5kb20oKTsK</text>
+        <text encoding="base64">ICAgICA9IG5ldyBUZXN0TnVtYmVyR2VuZXJhdG9yKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGxvb3AoKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZXNbaV0gPSBuYW1lc1tpXS50cmltKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbiA9IG51bWJlckdlbmVyYXRvci5nZW5lcmF0ZU51bWJlcigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2VuZXJhdGVOdW1iZXIoaW50ICkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBSYW5kb20gciA9IG5ldyBSYW5kb20oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkILrxwaS781/AzLinX8DUt8JfsPi56cb3x9RfNcDaw8qw+igpIHsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZXNbaV0gPSBuYW1lc1tpXS50cmltKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorRightWithSelection</text>
+        <text>action EditorLeftWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(game.loop()).isEqualTo(expectedWinnerList);</text>
       </register>
     </registers>
     <search>
@@ -576,9 +596,9 @@
       <history-search />
       <history-cmd>
         <entry>action EditorDownWithSelection</entry>
-        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -625,6 +645,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
