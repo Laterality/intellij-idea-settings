@@ -135,11 +135,11 @@
       <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/view/InputView.java" timestamp="1555403692154">
         <mark key="[" line="15" column="55" />
       </file>
-      <file name="D:/Dev/java/Test Project/src/AppMain.java" timestamp="1557406533823">
-        <mark key="[" line="23" column="58" />
-        <mark key="]" line="28" column="7" />
-        <mark key="^" line="28" column="7" />
-        <mark key="." line="28" column="7" />
+      <file name="D:/Dev/java/Test Project/src/AppMain.java" timestamp="1557408346639">
+        <mark key="[" line="25" column="40" />
+        <mark key="]" line="25" column="52" />
+        <mark key="." line="25" column="52" />
+        <mark key="^" line="25" column="52" />
       </file>
       <file name="/fragment.kt" timestamp="1552914484863">
         <mark key="[" line="0" column="0" />
@@ -523,40 +523,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmFzc2lzdC5Ob3RGb3VuZEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oT3B0aW9uYWxJbnQub2YoMikuaXNQcmVzZW50KCkpOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmFzc2lzdC5Ob3RGb3VuZEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oT3B0aW9uYWxJbnQub2YoMikuaXNQcmVzZW50KCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBCaW5hcnlPcGVyYXRvcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBCb29rIGIgPSByZXBvc2l0b3J5LmZpbmRCeUlkKDFMKS5nZXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBUZXJuYXJ5T3BlcmF0b3I8SW50ZWdlcj4gY29uZCA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuQ29yZU1hdGNoZXJzLmlzOwo=</text>
+        <text encoding="base64">ICAgICAgICBUIGFwcGx5KEJvb2xlYW4gYUJvb2xlYW4pOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuTWF0Y2hlckFzc2VydC5hc3NlcnRUaGF0Owo=</text>
+        <text encoding="base64">ICAgIGludGVyZmFjZSBUZXJuYXJ5T3BlcmF0b3I8VD4gZXh0ZW5kcyBGdW5jdGlvbjxCb29sZWFuLCBUPiB7CiAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgQEZ1bmN0aW9uYWxJbnRlcmZhY2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0LmFzc2VydFRoYXQ7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmFzc2lzdC5Ob3RGb3VuZEV4Y2VwdGlvbjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBCb29rIGIgPSByZXBvc2l0b3J5LmZpbmRCeUlkKDFMKS5nZXQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>empty</text>
       </register>
     </registers>
     <search>
@@ -613,6 +613,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
