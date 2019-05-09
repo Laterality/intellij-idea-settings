@@ -158,12 +158,12 @@
       <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/interfaces/ConsoleUserInterface.java" timestamp="1554478605611">
         <mark key="[" line="68" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaracingcar/RacingCarUtilTest.java" timestamp="1557361821636">
-        <mark key="'" line="32" column="49" />
-        <mark key="[" line="38" column="87" />
-        <mark key="]" line="39" column="22" />
-        <mark key="." line="39" column="22" />
-        <mark key="^" line="39" column="22" />
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaracingcar/RacingCarUtilTest.java" timestamp="1557363342029">
+        <mark key="'" line="31" column="49" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="38" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1554473056329">
         <mark key="[" line="0" column="0" />
@@ -214,28 +214,28 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuanVwaXRlci5hcGkuQXNzZXJ0aW9ucy4qOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuanVwaXRlci5hcGkuQXNzZXJ0aW9ucy4qOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaHJvd3MoSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uLmNsYXNzLCAoKSAtPiB7CiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaHJvd3MoSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uLmNsYXNzLCAoKSAtPiB7CiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaHJvd3MoSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uLmNsYXNzLCAoKSAtPiB7CiAgICAgICAgICAgIDsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaHJvd3MoSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uLmNsYXNzLCAoKSAtPiB7CiAgICAgICAgICAgIDsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaHJvd3MoSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uLmNsYXNzLCAoKSAtPiB7Cgo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaHJvd3MoSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uLmNsYXNzLCAoKSAtPiB7Cgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
