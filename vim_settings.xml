@@ -15,7 +15,7 @@
         <mark key="^" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
-      <file name="/a.dummy" timestamp="1557474904505">
+      <file name="/a.dummy" timestamp="1557476518615">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/test/java/domain/AppMain.java" timestamp="1553855404350">
@@ -23,6 +23,11 @@
         <mark key="]" line="7" column="15" />
         <mark key="^" line="7" column="15" />
         <mark key="." line="7" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaracingcarwithoutif/RacingcarControllerTest.java" timestamp="1557412498758">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/TestUserInterface.java" timestamp="1553335638824">
         <mark key="[" line="45" column="15" />
@@ -92,6 +97,11 @@
       </file>
       <file name="C:/Workspace/java/test-project/src/main/java/kr/latera/testproject/AppMain.java" timestamp="1557474898933">
         <mark key="[" line="2" column="22" />
+      </file>
+      <file name="C:/Workspace/java/learningtest/src/test/java/kr/latera/learningtest/LambdaLearningTest.java" timestamp="1557477101668">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaracingcar/domain/CarTest.java" timestamp="1557473875681">
         <mark key="[" line="39" column="64" />
@@ -175,6 +185,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="17" column="35" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="C:/Workspace/java/test-project/src/test/java/kr/latera/testproject/CarTest.java" timestamp="1557476826138">
+        <mark key="[" line="25" column="5" />
+        <mark key="]" line="31" column="4" />
+        <mark key="^" line="31" column="4" />
+        <mark key="." line="31" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaRacingcar/RandomNumberGenerator.java" timestamp="1557298980495">
         <mark key="[" line="10" column="39" />
@@ -326,11 +342,11 @@
         <mark key="^" line="68" column="53" />
         <mark key="." line="68" column="53" />
       </file>
-      <file name="C:/Workspace/java/test-project/build.gradle" timestamp="1557474391578">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="14" column="55" />
+      <file name="C:/Workspace/java/test-project/build.gradle" timestamp="1557476928987">
+        <mark key="[" line="15" column="50" />
+        <mark key="]" line="14" column="4" />
         <mark key="^" line="14" column="55" />
-        <mark key="." line="14" column="55" />
+        <mark key="." line="14" column="4" />
       </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/Car.java" timestamp="1553854634007">
         <mark key="[" line="29" column="9" />
@@ -385,6 +401,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="^" line="22" column="21" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="C:/Workspace/java/learningtest/build.gradle" timestamp="1557476945653">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="16" column="49" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/GeneratorTest/JudgeTest.java" timestamp="1553264913797">
         <mark key="[" line="29" column="37" />
@@ -533,14 +555,19 @@
         <mark key="^" line="20" column="27" />
         <mark key="." line="20" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaracingcar/domain/RacingcarModelTest.java" timestamp="1557449928370">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="D:/Dev/java/spring-security-demo/src/main/java/kr/latera/springsecuritydemo/WebSecurityConfig.java" timestamp="1554821245316">
         <mark key="[" line="20" column="5" />
         <mark key="]" line="20" column="5" />
         <mark key="^" line="20" column="4" />
         <mark key="." line="20" column="5" />
       </file>
-      <file name="C:/Workspace/java/test-project/src/main/java/kr/latera/testproject/Car.java" timestamp="1557474577419">
-        <mark key="[" line="9" column="8" />
+      <file name="C:/Workspace/java/test-project/src/main/java/kr/latera/testproject/Car.java" timestamp="1557476840761">
+        <mark key="[" line="10" column="5" />
         <mark key="]" line="9" column="12" />
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
@@ -667,40 +694,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlIGdyb3VwOiAnanVuaXQnLCBuYW1lOiAnanVuaXQnLCB2ZXJzaW9uOiAnNC4xMicK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hc3NlcnRqLmNvcmUuYXBpLkFzc2VydDsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>test2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5hc3NlcnRqLmNvcmUuYXBpLkFzc2VydDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCkK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5Bc3NlcnRpb25zOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5wbGF0Zm9ybS5jb21tb25zLmFubm90YXRpb24uVGVzdGFibGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEVxdWFscygwLCAwZGQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlIGdyb3VwOiAnanVuaXQnLCBuYW1lOiAnanVuaXQnLCB2ZXJzaW9uOiAnNC4xMicK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlIGdyb3VwOiAnanVuaXQnLCBuYW1lOiAnanVuaXQnLCB2ZXJzaW9uOiAnNC4xMicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogwaS4uyDAzLe4sNQgx8+0wiCw1CC4wrTCsMmx7i4uCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5wbGF0Zm9ybS5jb21tb25zLmFubm90YXRpb24uVGVzdGFibGU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBnZW5lcmF0ZWROdW1iZXIKICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nQ2FsY3VsYXRvclV0aWwucGFyc2VDYWxjdWxhdG9yKGV4cHJlc3Npb24pLmdldE51bWJlclF1ZXVlKCk7CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>test2</text>
+        <text>testCompile</text>
       </register>
     </registers>
     <search>
@@ -763,6 +790,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
