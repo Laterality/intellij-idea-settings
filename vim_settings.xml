@@ -92,6 +92,12 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaracingcar/domain/CarTest.java" timestamp="1557463134485">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="18" column="17" />
+        <mark key="^" line="18" column="17" />
+        <mark key="." line="18" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaRacingcar/Game.java" timestamp="1557299920842">
         <mark key="[" line="20" column="4" />
         <mark key="]" line="21" column="0" />
@@ -642,40 +648,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5wbGF0Zm9ybS5jb21tb25zLmFubm90YXRpb24uVGVzdGFibGU7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">biA=</text>
+        <text>testCreate</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogwaS4uyDAzLe4sNQgx8+0wiCw1CC4wrTCsMmx7i4uCg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBnZW5lcmF0ZWROdW1iZXIKICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogwaS4uyDAzLe4sNQgx8+0wiCw1CC4wrTCsMmx7i4uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nQ2FsY3VsYXRvclV0aWwucGFyc2VDYWxjdWxhdG9yKGV4cHJlc3Npb24pLmdldE51bWJlclF1ZXVlKCk7CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBnZW5lcmF0ZWROdW1iZXIKICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaHJvd3MoSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uLmNsYXNzLCAoKSAtPiB7CiAgICAgICAgICAgIC5nZXRPcGVyYXRvclF1ZXVlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nQ2FsY3VsYXRvclV0aWwucGFyc2VDYWxjdWxhdG9yKGV4cHJlc3Npb24pLmdldE51bWJlclF1ZXVlKCk7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaHJvd3MoSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uLmNsYXNzLCAoKSAtPiB7CiAgICAgICAgICAgIC5nZXRPcGVyYXRvclF1ZXVlKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDownWithSelection</text>
+        <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">biA=</text>
+        <text>testCreate</text>
       </register>
     </registers>
     <search>
@@ -687,8 +693,8 @@
       <history-cmd>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
