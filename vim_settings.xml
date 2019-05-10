@@ -98,11 +98,8 @@
         <mark key="^" line="34" column="30" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/stringcalculator/StringCalculatorTest.java" timestamp="1557377003325">
-        <mark key="[" line="31" column="14" />
-        <mark key="]" line="0" column="40" />
-        <mark key="." line="0" column="40" />
-        <mark key="^" line="0" column="40" />
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/stringcalculator/StringCalculatorTest.java" timestamp="1557447854192">
+        <mark key="[" line="86" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/service/PaymentService.java" timestamp="1555394752033">
         <mark key="[" line="13" column="83" />
@@ -146,11 +143,11 @@
         <mark key="^" line="20" column="22" />
         <mark key="." line="20" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/stringcalculator/StringCalculatorUtil.java" timestamp="1557377613141">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="35" />
-        <mark key="^" line="7" column="35" />
-        <mark key="." line="7" column="35" />
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/stringcalculator/StringCalculatorUtil.java" timestamp="1557447684544">
+        <mark key="[" line="9" column="66" />
+        <mark key="]" line="29" column="21" />
+        <mark key="^" line="29" column="21" />
+        <mark key="." line="29" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-movie/src/test/java/service/PaymentServiceTest.java" timestamp="1555394683714">
         <mark key="[" line="11" column="32" />
@@ -263,7 +260,7 @@
         <mark key="." line="34" column="49" />
         <mark key="^" line="34" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/stringcalculator/StringCalculator.java" timestamp="1557371152251">
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/stringcalculator/StringCalculator.java" timestamp="1557446214503">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
@@ -299,11 +296,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/stringcalculator/StringCalculatorUtilTest.java" timestamp="1557377028773">
-        <mark key="[" line="0" column="41" />
-        <mark key="]" line="0" column="40" />
-        <mark key="^" line="0" column="40" />
-        <mark key="." line="0" column="40" />
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/stringcalculator/StringCalculatorUtilTest.java" timestamp="1557447957580">
+        <mark key="[" line="67" column="94" />
+        <mark key="]" line="67" column="92" />
+        <mark key="." line="67" column="92" />
+        <mark key="^" line="67" column="92" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaracingcar/GameTest.java" timestamp="1557361276773">
         <mark key="[" line="68" column="42" />
@@ -323,10 +320,10 @@
         <mark key="^" line="17" column="14" />
         <mark key="." line="17" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcarwithoutif/ConsoleUserInterface.java" timestamp="1557410776045">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcarwithoutif/ConsoleUserInterface.java" timestamp="1557448188198">
+        <mark key="[" line="48" column="51" />
         <mark key="]" line="2" column="0" />
-        <mark key="^" line="51" column="26" />
+        <mark key="^" line="52" column="26" />
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcarwithoutif/domain/CarDto.java" timestamp="1557410584410">
@@ -400,13 +397,13 @@
         <mark key="^" line="22" column="48" />
         <mark key="." line="22" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaracingcar/TestUserInterface.java" timestamp="1557412566062">
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaracingcar/TestUserInterface.java" timestamp="1557446163037">
         <mark key="[" line="50" column="4" />
         <mark key="]" line="50" column="4" />
         <mark key="^" line="50" column="14" />
         <mark key="." line="50" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaracingcarwithoutif/domain/RacingcarModelTest.java" timestamp="1557411028367">
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaracingcarwithoutif/domain/RacingcarModelTest.java" timestamp="1557446419278">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="68" column="4" />
@@ -502,11 +499,10 @@
         <mark key="^" line="20" column="27" />
         <mark key="." line="20" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaracingcar/domain/RacingcarModelTest.java" timestamp="1557390115845">
-        <mark key="[" line="68" column="5" />
-        <mark key="]" line="50" column="28" />
-        <mark key="." line="50" column="28" />
-        <mark key="^" line="50" column="28" />
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaracingcar/domain/RacingcarModelTest.java" timestamp="1557446392331">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="D:/Dev/java/spring-security-demo/src/main/java/kr/latera/springsecuritydemo/WebSecurityConfig.java" timestamp="1554821245316">
         <mark key="[" line="20" column="5" />
@@ -538,17 +534,23 @@
         <mark key="^" line="38" column="51" />
         <mark key="." line="38" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcarwithoutif/AppMain.java" timestamp="1557412030512">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="7" column="88" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcarwithoutif/AppMain.java" timestamp="1557448064144">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="6" />
+        <mark key="^" line="5" column="6" />
+        <mark key="." line="5" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/ConsoleUITest.java" timestamp="1553326434313">
         <mark key="[" line="25" column="45" />
         <mark key="]" line="19" column="2" />
         <mark key="^" line="19" column="2" />
         <mark key="." line="19" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/stringcalculator/AppMain.java" timestamp="1557447228694">
+        <mark key="[" line="14" column="57" />
+        <mark key="]" line="18" column="25" />
+        <mark key="^" line="18" column="25" />
+        <mark key="." line="18" column="25" />
       </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/test/java/domain/StopOrGoTest.java" timestamp="1553854364939">
         <mark key="[" line="14" column="62" />
@@ -574,11 +576,10 @@
         <mark key="^" line="27" column="38" />
         <mark key="." line="27" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcarwithoutif/domain/RacingcarModel.java" timestamp="1557410978437">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="37" column="55" />
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcarwithoutif/domain/RacingcarModel.java" timestamp="1557448168065">
+        <mark key="[" line="39" column="62" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/ConsoleUserInterface.java" timestamp="1553858686561">
         <mark key="[" line="20" column="28" />
@@ -630,40 +631,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53b293YWNvdXJzZS5qYXZhcmFjaW5nY2FyLlRlc3RVc2VySW50ZXJmYWNlOwo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53b293YWNvdXJzZS5qYXZhcmFjaW5nY2FyLmRvbWFpbi5DYXJEdG87Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogwaS4uyDAzLe4sNQgx8+0wiCw1CC4wrTCsMmx7i4uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53b293YWNvdXJzZS5qYXZhcmFjaW5nY2FyLmRvbWFpbi5DYXJEdG87Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBnZW5lcmF0ZWROdW1iZXIKICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53b293YWNvdXJzZS5qYXZhcmFjaW5nY2FyLmludGVyZmFjZXMuVXNlckludGVyZmFjZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nQ2FsY3VsYXRvclV0aWwucGFyc2VDYWxjdWxhdG9yKGV4cHJlc3Npb24pLmdldE51bWJlclF1ZXVlKCk7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53b293YWNvdXJzZS5qYXZhcmFjaW5nY2FyLmludGVyZmFjZXMuVXNlckludGVyZmFjZTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaHJvd3MoSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uLmNsYXNzLCAoKSAtPiB7CiAgICAgICAgICAgIC5nZXRPcGVyYXRvclF1ZXVlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53b293YWNvdXJzZS5qYXZhcmFjaW5nY2FyLmRvbWFpbi5SYWNpbmdjYXJNb2RlbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53b293YWNvdXJzZS5qYXZhcmFjaW5nY2FyLmRvbWFpbi5DYXJEdG87Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53b293YWNvdXJzZS5qYXZhcmFjaW5nY2FyLmludGVyZmFjZXMuVXNlckludGVyZmFjZTsK</text>
+        <text encoding="base64">ICAgICAgICByYWNpbmdjYXJNb2RlbCA9IG5ldyBSYWNpbmdjYXJNb2RlbChudW1iZXJHZW5lcmF0b3IsIG5ldyBBcnJheUxpc3Q8U3RyaW5nPigicG9iaSIpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53b293YWNvdXJzZS5qYXZhcmFjaW5nY2FyLmRvbWFpbi5DYXJEdG87Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53b293YWNvdXJzZS5qYXZhcmFjaW5nY2FyLlRlc3RVc2VySW50ZXJmYWNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorLeftWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>checkIfEmptyExpression</text>
       </register>
     </registers>
     <search>
@@ -674,8 +675,8 @@
       <history-search />
       <history-cmd>
         <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
