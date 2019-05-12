@@ -37,10 +37,10 @@
         <mark key="[" line="35" column="5" />
       </file>
       <file name="D:/Dev/GitHub/java-racingcar-1/src/main/java/com/woowacourse/javaracingcar/domain/RacingcarGame.java" timestamp="1557669629895">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="34" column="123" />
-        <mark key="." line="42" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="32" column="123" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="D:/Dev/GitHub/java-racingcar-1/src/main/java/com/woowacourse/stringcalculator/Operator.java" timestamp="1557592048549">
         <mark key="[" line="4" column="12" />
@@ -147,11 +147,11 @@
         <mark key="^" line="10" column="51" />
         <mark key="." line="10" column="51" />
       </file>
-      <file name="D:/Dev/GitHub/java-racingcar-1/src/main/java/com/woowacourse/stringcalculator/IntOperator.java" timestamp="1557670849064">
-        <mark key="[" line="28" column="31" />
-        <mark key="]" line="25" column="50" />
-        <mark key="^" line="25" column="50" />
-        <mark key="." line="25" column="50" />
+      <file name="D:/Dev/GitHub/java-racingcar-1/src/main/java/com/woowacourse/stringcalculator/IntOperator.java" timestamp="1557673598327">
+        <mark key="[" line="20" column="50" />
+        <mark key="]" line="21" column="25" />
+        <mark key="^" line="21" column="25" />
+        <mark key="." line="21" column="25" />
       </file>
       <file name="D:/Dev/GitHub/java-racingcar-1/src/test/java/com/woowacourse/stringcalculator/StringCalculatorUtilTest.java" timestamp="1557592622042">
         <mark key="[" line="49" column="78" />
@@ -214,7 +214,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHdpbm5lcnMuYWRkKG5ldyBDYXJEdG8oYy5nZXROYW1lKCksIGMuZ2V0UG9zaXRpb24oKSkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorUpWithSelection</text>
+        <text>action EditorDownWithSelection</text>
       </register>
       <register name="-" type="4">
         <text>c</text>
@@ -226,10 +226,10 @@
     </search>
     <history>
       <history-cmd>
-        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorDownWithSelection</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
