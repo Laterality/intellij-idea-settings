@@ -110,10 +110,10 @@
       <file name="C:/Workspace/java/test-project/src/main/java/kr/latera/testproject/AppMain.java" timestamp="1557474898933">
         <mark key="[" line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcar/domain/PlayingCars.java" timestamp="1557735573045">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcar/domain/PlayingCars.java" timestamp="1557736477247">
+        <mark key="[" line="27" column="16" />
+        <mark key="]" line="27" column="16" />
+        <mark key="." line="27" column="16" />
       </file>
       <file name="C:/Workspace/java/learningtest/src/test/java/kr/latera/learningtest/LambdaLearningTest.java" timestamp="1557477101668">
         <mark key="[" line="2" column="0" />
@@ -777,7 +777,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEFycmF5TGlzdDw+KHdpbm5lcnMpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>IllegalArgumentException</text>
+        <text>updateCarPosition</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLndpbm5lcnMgPSBjcmVhdGVXaW5uZXIoKTsK</text>
@@ -807,7 +807,7 @@
         <text>action EditorLeftWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>IllegalArgumentException</text>
+        <text>updateCarPosition</text>
       </register>
     </registers>
     <search>
