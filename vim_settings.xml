@@ -341,7 +341,7 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcar/domain/RacingcarGame.java" timestamp="1557729682442">
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcar/domain/RacingcarGame.java" timestamp="1557732376418">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -435,11 +435,11 @@
         <mark key="^" line="26" column="34" />
         <mark key="." line="26" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcar/domain/RacingcarGameRuleImpl.java" timestamp="1557724906084">
-        <mark key="[" line="15" column="47" />
-        <mark key="]" line="20" column="67" />
-        <mark key="." line="20" column="67" />
-        <mark key="^" line="20" column="67" />
+      <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcar/domain/RacingcarGameRuleImpl.java" timestamp="1557732678845">
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="22" column="46" />
+        <mark key="." line="22" column="46" />
+        <mark key="^" line="22" column="46" />
       </file>
       <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/WinningLotto.java" timestamp="1554459330963">
         <mark key="[" line="17" column="0" />
@@ -776,8 +776,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEFycmF5TGlzdDw+KHdpbm5lcnMpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEFycmF5TGlzdDw+KHdpbm5lcnMpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>IllegalArgumentException</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLndpbm5lcnMgPSBjcmVhdGVXaW5uZXIoKTsK</text>
@@ -807,7 +807,7 @@
         <text>action EditorLeftWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KCAgICAgICAg</text>
+        <text>IllegalArgumentException</text>
       </register>
     </registers>
     <search>
