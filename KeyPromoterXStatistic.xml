@@ -25,6 +25,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'StringProcessorTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'StringProcessorTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'StringProcessorTest.커스텀구분자안에_숫자가있을때_예외테스트'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -41,6 +49,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'StringProcessorTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'StringProcessorTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Tests in 'com.woowacourse''">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -49,12 +65,20 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'StringProcessorTest.커스텀구분자안에_숫자와문자가_같이_있을때_예외테스트'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'StringProcessorTest.커스텀구분자안에_숫자와문자가_같이_있을때_예외테스트'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
         <Item>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
     </option>
