@@ -144,6 +144,12 @@
         <mark key="^" line="13" column="83" />
         <mark key="." line="13" column="83" />
       </file>
+      <file name="D:/Dev/GitHub/java-ladder/src/main/java/com/woowacourse/ladder/domain/LadderResult.java" timestamp="1557928236712">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="13" column="24" />
+        <mark key="^" line="13" column="24" />
+        <mark key="." line="13" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcar/domain/Car.java" timestamp="1557453675571">
         <mark key="[" line="60" column="25" />
         <mark key="]" line="41" column="31" />
@@ -179,6 +185,12 @@
         <mark key="]" line="5" column="25" />
         <mark key="^" line="5" column="25" />
         <mark key="." line="5" column="25" />
+      </file>
+      <file name="D:/Dev/GitHub/java-ladder/src/main/java/com/woowacourse/ladder/domain/LadderResultQueryExecutor.java" timestamp="1557927343989">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/build.gradle" timestamp="1557478541092">
         <mark key="[" line="11" column="56" />
@@ -546,6 +558,12 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="D:/Dev/GitHub/java-ladder/src/main/java/com/woowacourse/ladder/interfaces/OutputView.java" timestamp="1557929776962">
+        <mark key="[" line="11" column="43" />
+        <mark key="]" line="11" column="43" />
+        <mark key="^" line="11" column="43" />
+        <mark key="." line="11" column="43" />
+      </file>
       <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/Lotto.java" timestamp="1554458879395">
         <mark key="[" line="29" column="30" />
         <mark key="]" line="31" column="82" />
@@ -648,6 +666,12 @@
         <mark key="^" line="20" column="4" />
         <mark key="." line="20" column="5" />
       </file>
+      <file name="D:/Dev/GitHub/java-ladder/src/main/java/com/woowacourse/ladder/AppMain.java" timestamp="1557930682400">
+        <mark key="[" line="32" column="55" />
+        <mark key="]" line="21" column="41" />
+        <mark key="." line="21" column="41" />
+        <mark key="^" line="21" column="41" />
+      </file>
       <file name="C:/Workspace/java/test-project/src/main/java/kr/latera/testproject/Car.java" timestamp="1557476840761">
         <mark key="[" line="10" column="5" />
         <mark key="]" line="9" column="12" />
@@ -699,6 +723,12 @@
         <mark key="^" line="18" column="25" />
         <mark key="." line="18" column="25" />
       </file>
+      <file name="D:/Dev/GitHub/java-ladder/src/main/java/com/woowacourse/ladder/view/ConsoleOutputView.java" timestamp="1557929949763">
+        <mark key="[" line="47" column="58" />
+        <mark key="]" line="47" column="56" />
+        <mark key="^" line="47" column="56" />
+        <mark key="." line="47" column="56" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/RandomBooleanGenerator.java" timestamp="1557906039321">
         <mark key="[" line="9" column="28" />
         <mark key="]" line="9" column="27" />
@@ -740,6 +770,12 @@
         <mark key="]" line="17" column="7" />
         <mark key="." line="17" column="7" />
         <mark key="^" line="17" column="7" />
+      </file>
+      <file name="D:/Dev/GitHub/java-ladder/src/test/java/com/woowacourse/ladder/domain/TestLadderResultQueryExecutor.java" timestamp="1557926053077">
+        <mark key="[" line="7" column="77" />
+        <mark key="]" line="7" column="76" />
+        <mark key="." line="7" column="76" />
+        <mark key="^" line="7" column="76" />
       </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/ConsoleUserInterface.java" timestamp="1553858686561">
         <mark key="[" line="20" column="28" />
@@ -794,40 +830,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBuYW1lIDogbmFtZXNUb1ByaW50KSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTdHJpbmcuZm9ybWF0KCIlcyA6ICVzIiwgbmFtZSwgcmVzdWx0Lm1hdGNoUmVzdWx0KG5hbWUpKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFydGljaXBhbnRzLmdldChpbmRleCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBQIGdldChpbnQgaW5kZXgpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlUmVzdWx0UXVlcnkobGFkZGVyLCByZXN1bHRRdWVyeSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMYWRkZXJSZXN1bHQ8U3RyaW5nPiByZXN1bHQgPSBuZXcgTGFkZGVyPD4oLCA0LAogICAgICAgICAgICApLmdldFJlc3VsdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0UXVlcnkgPSBpbnB1dFZpZXcucHJvbXB0TmFtZXNUb1F1ZXJ5KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRGVzdGluYXRpb25Hcm91cDxEPiBkZXN0aW5hdGlvbkdyb3VwOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gcmVzdWx0UXVlcnkgPSBpbnB1dFZpZXcucHJvbXB0TmFtZXNUb1F1ZXJ5KCk7CiAgICAgICAgd2hpbGUoIXNob3VsZEV4aXQocmVzdWx0UXVlcnkpKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTGlzdDxUPiBzd2FwcGVkUmVzdWx0Owo=</text>
+        <text encoding="base64">ZH0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdQcm9jZXNzb3Igc3RyUHJvY2Vzc29yID0gbmV3IFN0cmluZ1Byb2Nlc3NvcigpOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBib29sZWFuIGhhbmRsZVJlc3VsdFF1ZXJ5KExhZGRlcjxTdHJpbmcsIFN0cmluZz4gbGFkZGVyLCBMaXN0PFN0cmluZz4gcXVlcnkpIHsKICAgICAgICBpZiAoY2hlY2tBbmRQcmludEFsbFJlc3VsdChsYWRkZXIsIHF1ZXJ5KSkgewogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9CiAgICAgICAgaWYgKCFjaGVja0FsbFRva2Vuc01hdGNoKGxhZGRlci5nZXRSZXN1bHQoKSwgcXVlcnkpKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CiAgICB9CgogICAgcHJpdmF0ZSBzdGF0aWMgYm9vbGVhbiBjaGVja0FsbFRva2Vuc01hdGNoKExhZGRlclJlc3VsdDxTdHJpbmcsIFN0cmluZz4gcmVzdWx0LCBMaXN0PFN0cmluZz4gdG9rZW5zKSB7CiAgICAgICAgcmV0dXJuIHRva2Vucy5zdHJlYW0oKQogICAgICAgICAgICAuZmlsdGVyKHJlc3VsdDo6aGFzTWF0Y2hSZXN1bHQpCiAgICAgICAgICAgIC5jb3VudCgpID09IHRva2Vucy5zaXplKCk7CiAgICB9CgogICAgcHJpdmF0ZSBzdGF0aWMgYm9vbGVhbiBzaG91bGRFeGl0KExpc3Q8U3RyaW5nPiBxdWVyeVRva2VucykgewogICAgICAgIHJldHVybiBxdWVyeVRva2Vucy5zaXplKCkgPT0gMSAmJiBxdWVyeVRva2Vucy5nZXQoMCkuaXNFbXB0eSgpOwogICAgfQoKICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gY2hlY2tBbmRQcmludEFsbFJlc3VsdChMYWRkZXI8U3RyaW5nLCBTdHJpbmc+IGxhZGRlciwgTGlzdDxTdHJpbmc+IHF1ZXJ5VG9rZW5zKSB7CiAgICAgICAgaWYgKHNob3VsZFByaW50QWxsUmVzdWx0KHF1ZXJ5VG9rZW5zKSkgewogICAgICAgICAgICBvdXRwdXRWaWV3LnByaW50TXVsdGlwbGVSZXN1bHQobGFkZGVyLmdldFJlc3VsdCgpLCBxdWVyeVRva2Vucyk7CiAgICAgICAgfQogICAgfQoKICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gc2hvdWxkUHJpbnRBbGxSZXN1bHQoTGlzdDxTdHJpbmc+IHF1ZXJ5VG9rZW5zKSB7CiAgICAgICAgcmV0dXJuIHF1ZXJ5VG9rZW5zLnNpemUoKSA9PSAxICYmIHF1ZXJ5VG9rZW5zLmdldCgwKS5lcXVhbHMoImFsbCIpOwogICAg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdQcm9jZXNzb3Igc3RyUHJvY2Vzc29yID0gbmV3IFN0cmluZ1Byb2Nlc3NvcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDownWithSelection</text>
+        <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
     </registers>
     <search>
@@ -837,32 +873,35 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action EditorUpWithSelection</entry>
-        <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorRightWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed V</text>
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed X</text>
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed OPEN_BRACKET</text>
@@ -872,9 +911,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
