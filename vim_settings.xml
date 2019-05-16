@@ -15,6 +15,12 @@
         <mark key="^" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
+      <file name="D:/Dev/GitHub/java-ladder/src/main/java/com/woowacourse/ladder/interfaces/InputView.java" timestamp="1557933577517">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="7" column="9" />
+      </file>
       <file name="/a.dummy" timestamp="1557476518615">
         <mark key="[" line="0" column="0" />
       </file>
@@ -558,11 +564,10 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/Dev/GitHub/java-ladder/src/main/java/com/woowacourse/ladder/interfaces/OutputView.java" timestamp="1557929776962">
-        <mark key="[" line="11" column="43" />
-        <mark key="]" line="11" column="43" />
-        <mark key="^" line="11" column="43" />
-        <mark key="." line="11" column="43" />
+      <file name="D:/Dev/GitHub/java-ladder/src/main/java/com/woowacourse/ladder/interfaces/OutputView.java" timestamp="1557934571516">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/Lotto.java" timestamp="1554458879395">
         <mark key="[" line="29" column="30" />
@@ -666,11 +671,11 @@
         <mark key="^" line="20" column="4" />
         <mark key="." line="20" column="5" />
       </file>
-      <file name="D:/Dev/GitHub/java-ladder/src/main/java/com/woowacourse/ladder/AppMain.java" timestamp="1557930682400">
-        <mark key="[" line="32" column="55" />
-        <mark key="]" line="21" column="41" />
-        <mark key="." line="21" column="41" />
-        <mark key="^" line="21" column="41" />
+      <file name="D:/Dev/GitHub/java-ladder/src/main/java/com/woowacourse/ladder/AppMain.java" timestamp="1557934645182">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="32" column="33" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="C:/Workspace/java/test-project/src/main/java/kr/latera/testproject/Car.java" timestamp="1557476840761">
         <mark key="[" line="10" column="5" />
@@ -683,6 +688,12 @@
         <mark key="]" line="47" column="31" />
         <mark key="." line="47" column="31" />
         <mark key="^" line="47" column="31" />
+      </file>
+      <file name="D:/Dev/GitHub/java-ladder/src/main/java/com/woowacourse/ladder/LadderController.java" timestamp="1557934717283">
+        <mark key="[" line="43" column="97" />
+        <mark key="]" line="43" column="95" />
+        <mark key="^" line="43" column="95" />
+        <mark key="." line="43" column="95" />
       </file>
       <file name="C:/Workspace/java/woowacourse-offline/src/main/java/kr/latera/woowacourseoffline/TestClass.java" timestamp="1555390618699">
         <mark key="[" line="9" column="32" />
@@ -723,17 +734,22 @@
         <mark key="^" line="18" column="25" />
         <mark key="." line="18" column="25" />
       </file>
-      <file name="D:/Dev/GitHub/java-ladder/src/main/java/com/woowacourse/ladder/view/ConsoleOutputView.java" timestamp="1557929949763">
-        <mark key="[" line="47" column="58" />
-        <mark key="]" line="47" column="56" />
-        <mark key="^" line="47" column="56" />
-        <mark key="." line="47" column="56" />
+      <file name="D:/Dev/GitHub/java-ladder/src/main/java/com/woowacourse/ladder/view/ConsoleOutputView.java" timestamp="1557934623026">
+        <mark key="[" line="35" column="5" />
+        <mark key="]" line="42" column="18" />
+        <mark key="^" line="42" column="18" />
+        <mark key="." line="42" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/RandomBooleanGenerator.java" timestamp="1557906039321">
         <mark key="[" line="9" column="28" />
         <mark key="]" line="9" column="27" />
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
+      </file>
+      <file name="D:/Dev/GitHub/java-ladder/src/main/java/com/woowacourse/ladder/view/ConsoleInputView.java" timestamp="1557933662470">
+        <mark key="]" line="47" column="19" />
+        <mark key="." line="47" column="19" />
+        <mark key="^" line="47" column="19" />
       </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/test/java/domain/StopOrGoTest.java" timestamp="1553854364939">
         <mark key="[" line="14" column="62" />
@@ -830,40 +846,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gcGFydGljaXBhbnRzID0gaW5wdXRWaWV3LnByb21wdE5hbWVzKCk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+        <text>asList</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBuYW1lIDogbmFtZXNUb1ByaW50KSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTdHJpbmcuZm9ybWF0KCIlcyA6ICVzIiwgbmFtZSwgcmVzdWx0Lm1hdGNoUmVzdWx0KG5hbWUpKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlUmVzdWx0UXVlcnkobGFkZGVyLCByZXN1bHRRdWVyeSk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0UXVlcnkgPSBpbnB1dFZpZXcucHJvbXB0TmFtZXNUb1F1ZXJ5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0Vmlldy5wcmludFNpbmdsZVJlc3VsdCgpOwogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gcmVzdWx0UXVlcnkgPSBpbnB1dFZpZXcucHJvbXB0TmFtZXNUb1F1ZXJ5KCk7CiAgICAgICAgd2hpbGUoIXNob3VsZEV4aXQocmVzdWx0UXVlcnkpKSB7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgcHJpbnRNYXRjaFBhaXJzKExpc3Q8TWF0Y2hQYWlyPFN0cmluZywgU3RyaW5nPj4gcGFpcnMpIHsKICAgICAgICBpZiAocGFpcnMuc2l6ZSgpID09IDEpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZH0K</text>
+        <text encoding="base64">ICAgIHZvaWQgcHJpbnRTaW5nbGVSZXN1bHQoTWF0Y2hQYWlyIHJlc3VsdCk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBib29sZWFuIGhhbmRsZVJlc3VsdFF1ZXJ5KExhZGRlcjxTdHJpbmcsIFN0cmluZz4gbGFkZGVyLCBMaXN0PFN0cmluZz4gcXVlcnkpIHsKICAgICAgICBpZiAoY2hlY2tBbmRQcmludEFsbFJlc3VsdChsYWRkZXIsIHF1ZXJ5KSkgewogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9CiAgICAgICAgaWYgKCFjaGVja0FsbFRva2Vuc01hdGNoKGxhZGRlci5nZXRSZXN1bHQoKSwgcXVlcnkpKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CiAgICB9CgogICAgcHJpdmF0ZSBzdGF0aWMgYm9vbGVhbiBjaGVja0FsbFRva2Vuc01hdGNoKExhZGRlclJlc3VsdDxTdHJpbmcsIFN0cmluZz4gcmVzdWx0LCBMaXN0PFN0cmluZz4gdG9rZW5zKSB7CiAgICAgICAgcmV0dXJuIHRva2Vucy5zdHJlYW0oKQogICAgICAgICAgICAuZmlsdGVyKHJlc3VsdDo6aGFzTWF0Y2hSZXN1bHQpCiAgICAgICAgICAgIC5jb3VudCgpID09IHRva2Vucy5zaXplKCk7CiAgICB9CgogICAgcHJpdmF0ZSBzdGF0aWMgYm9vbGVhbiBzaG91bGRFeGl0KExpc3Q8U3RyaW5nPiBxdWVyeVRva2VucykgewogICAgICAgIHJldHVybiBxdWVyeVRva2Vucy5zaXplKCkgPT0gMSAmJiBxdWVyeVRva2Vucy5nZXQoMCkuaXNFbXB0eSgpOwogICAgfQoKICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gY2hlY2tBbmRQcmludEFsbFJlc3VsdChMYWRkZXI8U3RyaW5nLCBTdHJpbmc+IGxhZGRlciwgTGlzdDxTdHJpbmc+IHF1ZXJ5VG9rZW5zKSB7CiAgICAgICAgaWYgKHNob3VsZFByaW50QWxsUmVzdWx0KHF1ZXJ5VG9rZW5zKSkgewogICAgICAgICAgICBvdXRwdXRWaWV3LnByaW50TXVsdGlwbGVSZXN1bHQobGFkZGVyLmdldFJlc3VsdCgpLCBxdWVyeVRva2Vucyk7CiAgICAgICAgfQogICAgfQoKICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gc2hvdWxkUHJpbnRBbGxSZXN1bHQoTGlzdDxTdHJpbmc+IHF1ZXJ5VG9rZW5zKSB7CiAgICAgICAgcmV0dXJuIHF1ZXJ5VG9rZW5zLnNpemUoKSA9PSAxICYmIHF1ZXJ5VG9rZW5zLmdldCgwKS5lcXVhbHMoImFsbCIpOwogICAg</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExhZGRlckNvbnRyb2xsZXIgY29udHJvbGxlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+        <text>asList</text>
       </register>
     </registers>
     <search>
