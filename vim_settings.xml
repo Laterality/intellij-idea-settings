@@ -125,6 +125,11 @@
         <mark key="^" line="62" column="89" />
         <mark key="." line="62" column="89" />
       </file>
+      <file name="D:/Dev/GitHub/java-ladder/src/main/java/com/woowacourse/stringcalculator/Calculator.java" timestamp="1558021111783">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/model/PaymentType.java" timestamp="1555394527563">
         <mark key="[" line="3" column="16" />
         <mark key="]" line="3" column="15" />
@@ -278,7 +283,7 @@
         <mark key="." line="17" column="12" />
         <mark key="^" line="17" column="12" />
       </file>
-      <file name="D:/Dev/GitHub/java-ladder/src/main/java/com/woowacourse/ladder/domain/LadderRow.java" timestamp="1558017494797">
+      <file name="D:/Dev/GitHub/java-ladder/src/main/java/com/woowacourse/ladder/domain/LadderRow.java" timestamp="1558020923287">
         <mark key="[" line="20" column="12" />
         <mark key="]" line="20" column="27" />
         <mark key="^" line="20" column="27" />
@@ -899,8 +904,8 @@
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>stream</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGFzdEdlbmVyYXRlZCA9IGZhbHNlOwo=</text>
@@ -930,7 +935,7 @@
         <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>stream</text>
       </register>
     </registers>
     <search>
