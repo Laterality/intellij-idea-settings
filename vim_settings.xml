@@ -123,11 +123,11 @@
         <mark key="." line="27" column="24" />
         <mark key="^" line="27" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/AppMain.java" timestamp="1557966709643">
-        <mark key="[" line="62" column="18" />
-        <mark key="]" line="62" column="22" />
-        <mark key="." line="62" column="22" />
-        <mark key="^" line="62" column="22" />
+      <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/AppMain.java" timestamp="1557968618733">
+        <mark key="[" line="27" column="58" />
+        <mark key="]" line="27" column="78" />
+        <mark key="^" line="27" column="78" />
+        <mark key="." line="27" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaracingcar/domain/CarTest.java" timestamp="1557473875681">
         <mark key="[" line="39" column="64" />
@@ -309,8 +309,10 @@
         <mark key="^" line="68" column="16" />
         <mark key="." line="68" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/view/InputValidator.java" timestamp="1557905878916">
-        <mark key="[" line="27" column="48" />
+      <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/view/InputValidator.java" timestamp="1557970127647">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/StreamUserInterfaceTest.java" timestamp="1553333002301">
         <mark key="[" line="13" column="2" />
@@ -565,11 +567,11 @@
         <mark key="^" line="31" column="82" />
         <mark key="." line="31" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/view/ConsoleInputView.java" timestamp="1557908198788">
-        <mark key="[" line="59" column="48" />
-        <mark key="]" line="44" column="38" />
-        <mark key="." line="44" column="38" />
-        <mark key="^" line="44" column="38" />
+      <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/view/ConsoleInputView.java" timestamp="1557970105862">
+        <mark key="[" line="44" column="15" />
+        <mark key="]" line="44" column="32" />
+        <mark key="." line="44" column="32" />
+        <mark key="^" line="44" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/GeneratorTest/GeneratorTest.java" timestamp="1553251473451">
         <mark key="[" line="20" column="32" />
@@ -679,8 +681,8 @@
         <mark key="^" line="20" column="4" />
         <mark key="." line="20" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-ladder/src/test/java/com/woowacourse/ladder/view/InputValidatorTest.java" timestamp="1557966401865">
-        <mark key="[" line="69" column="0" />
+      <file name="$USER_HOME$/Documents/Github/java-ladder/src/test/java/com/woowacourse/ladder/view/InputValidatorTest.java" timestamp="1557970021085">
+        <mark key="[" line="68" column="5" />
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
@@ -819,7 +821,13 @@
         <mark key="^" line="7" column="37" />
         <mark key="." line="7" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1557910699888">
+      <file name="$USER_HOME$/Documents/Github/java-ladder/src/test/java/com/woowacourse/ladder/LadderControllerTest.java" timestamp="1557968952722">
+        <mark key="[" line="20" column="105" />
+        <mark key="]" line="20" column="105" />
+        <mark key="^" line="20" column="108" />
+        <mark key="." line="20" column="105" />
+      </file>
+      <file name="/fragment.java" timestamp="1557968573369">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -836,40 +844,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBFcnJvciBoYW5kbGluZyBpcyByZW1vdmVkLCB2aWV3IG11c3QgcHJvdmlkZSBvdGhlciBlcnJvciBoYW5kbGluZyBtZXRob2RzLgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>loopToCreateLadder</text>
+        <text>query</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExpc3Q8U3RyaW5nPiBsYXN0UGFydGljaXBhbnRzSW5wdXQ7CiAgICBwcml2YXRlIHN0YXRpYyBMaXN0PFN0cmluZz4gbGFzdERlc3RpbmF0aW9uSW5wdXQK</text>
+        <text encoding="base64">ICAgIH0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHgpLmlzRXF1YWxUbygyKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gY2hlY2tJZkluY2x1ZGVOZXdMaW5lKGZpbmFsIFN0cmluZyBuYW1lKSB7CiAgICAgICAgcmV0dXJuICFuYW1lLmNvbnRhaW5zKCJcbiIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgeCA9IDE7CiAgICAgICAgeCA9IHgrKzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlcihJbnB1dFZhbGlkYXRvcjo6Y2hlY2tJZkluY2x1ZGVOZXdMaW5lKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIHRlc3RQKCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53b293YWNvdXJzZS5sYWRkZXIuZG9tYWluLkxhZGRlclJlc3VsdDsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCIgXG5wb2JpIi50cmltKCkubGVuZ3RoKCkpLmlzRXF1YWxUbyg0KTsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheXMuYXNMaXN0KCkK</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIHRlc3RUcmltKCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorRightWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>loopToCreateLadder</text>
+        <text>query</text>
       </register>
     </registers>
     <search>
@@ -880,8 +888,8 @@
       <history-search />
       <history-cmd>
         <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
       </history-cmd>
       <history-expr />
