@@ -42,11 +42,11 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-ladder/src/test/java/com/woowacourse/ladder/domain/LadderTest.java" timestamp="1557964839755">
-        <mark key="[" line="20" column="74" />
-        <mark key="]" line="20" column="71" />
-        <mark key="^" line="20" column="71" />
-        <mark key="." line="20" column="71" />
+      <file name="$USER_HOME$/Documents/Github/java-ladder/src/test/java/com/woowacourse/ladder/domain/LadderTest.java" timestamp="1558057954866">
+        <mark key="[" line="21" column="105" />
+        <mark key="]" line="21" column="105" />
+        <mark key="^" line="21" column="102" />
+        <mark key="." line="21" column="105" />
       </file>
       <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/ConsoleUserInterface.java" timestamp="1554484457592">
         <mark key="[" line="52" column="97" />
@@ -844,7 +844,7 @@
         <text encoding="base64">aW1wb3J0IGNvbS53b293YWNvdXJzZS5sYWRkZXIuZG9tYWluLkxhZGRlcjsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ladder</text>
+        <text>true</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Ly8gICAgICAgIHBhcnRpY2lwYW50cy5zZXQoeSwgdCk7Cg==</text>
@@ -871,10 +871,10 @@
         <text encoding="base64">ICAgICAgICBsaXN0LnNldChmcm9tLCBsaXN0LmdldCh0bykpOwogICAgICAgIGxpc3Quc2V0KHRvLCB0bXApOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorUpWithSelection</text>
+        <text>action EditorLeftWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>ladder</text>
+        <text>true</text>
       </register>
     </registers>
     <search>
@@ -885,9 +885,9 @@
       <history-search />
       <history-cmd>
         <entry>action EditorDownWithSelection</entry>
-        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
