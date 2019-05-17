@@ -412,11 +412,11 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="D:/Dev/GitHub/java-ladder/src/main/java/com/woowacourse/ladder/domain/Ladder.java" timestamp="1558019316707">
-        <mark key="[" line="16" column="32" />
-        <mark key="]" line="16" column="32" />
-        <mark key="." line="16" column="32" />
-        <mark key="^" line="16" column="32" />
+      <file name="D:/Dev/GitHub/java-ladder/src/main/java/com/woowacourse/ladder/domain/Ladder.java" timestamp="1558103614718">
+        <mark key="[" line="19" column="9" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/README.md" timestamp="1557906471811">
         <mark key="[" line="30" column="6" />
@@ -727,17 +727,6 @@
         <mark key="^" line="20" column="4" />
         <mark key="." line="20" column="5" />
       </file>
-      <file name="D:/Dev/GitHub/java-ladder/src/main/java/com/woowacourse/ladder/domain/MatchPair.java" timestamp="1558011512696">
-        <mark key="[" line="25" column="46" />
-        <mark key="]" line="25" column="39" />
-        <mark key="." line="25" column="39" />
-        <mark key="^" line="25" column="39" />
-      </file>
-      <file name="D:/Dev/GitHub/java-ladder/src/main/java/com/woowacourse/ladder/AppMain.java" timestamp="1558019487407">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="C:/Workspace/java/test-project/src/main/java/kr/latera/testproject/Car.java" timestamp="1557476840761">
         <mark key="[" line="10" column="5" />
         <mark key="]" line="9" column="12" />
@@ -753,7 +742,6 @@
       <file name="D:/Dev/GitHub/java-ladder/src/main/java/com/woowacourse/ladder/LadderController.java" timestamp="1558019409052">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
-        <mark key="^" line="46" column="112" />
         <mark key="." line="4" column="0" />
       </file>
       <file name="C:/Workspace/java/woowacourse-offline/src/main/java/kr/latera/woowacourseoffline/TestClass.java" timestamp="1555390618699">
@@ -794,12 +782,6 @@
         <mark key="]" line="18" column="25" />
         <mark key="^" line="18" column="25" />
         <mark key="." line="18" column="25" />
-      </file>
-      <file name="D:/Dev/GitHub/java-ladder/src/main/java/com/woowacourse/ladder/view/ConsoleOutputView.java" timestamp="1558015289191">
-        <mark key="[" line="17" column="15" />
-        <mark key="]" line="17" column="15" />
-        <mark key="^" line="12" column="27" />
-        <mark key="." line="17" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/RandomBooleanGenerator.java" timestamp="1557906039321">
         <mark key="[" line="9" column="28" />
