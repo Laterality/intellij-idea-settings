@@ -15,7 +15,7 @@
         <mark key="^" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
-      <file name="/a.dummy" timestamp="1557970956986">
+      <file name="/a.dummy" timestamp="1558060887439">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/test/java/domain/AppMain.java" timestamp="1553855404350">
@@ -42,12 +42,7 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-ladder/src/test/java/com/woowacourse/ladder/domain/LadderTest.java" timestamp="1558057954866">
-        <mark key="[" line="21" column="105" />
-        <mark key="]" line="21" column="105" />
-        <mark key="^" line="21" column="102" />
-        <mark key="." line="21" column="105" />
-      </file>
+      <file name="$USER_HOME$/Documents/Github/java-ladder/src/test/java/com/woowacourse/ladder/domain/LadderTest.java" timestamp="1558065105169" />
       <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/ConsoleUserInterface.java" timestamp="1554484457592">
         <mark key="[" line="52" column="97" />
         <mark key="]" line="52" column="97" />
@@ -72,10 +67,11 @@
         <mark key="^" line="9" column="42" />
         <mark key="." line="9" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/LadderRow.java" timestamp="1558052562890">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/LadderRow.java" timestamp="1558060224858">
+        <mark key="[" line="51" column="8" />
+        <mark key="]" line="51" column="8" />
+        <mark key="." line="51" column="8" />
+        <mark key="^" line="50" column="8" />
       </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/test/java/domain/UserInterfaceTest.java" timestamp="1553845973195">
         <mark key="[" line="30" column="56" />
@@ -125,11 +121,11 @@
         <mark key="." line="27" column="24" />
         <mark key="^" line="27" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/AppMain.java" timestamp="1558052657044">
-        <mark key="[" line="20" column="31" />
-        <mark key="]" line="20" column="53" />
-        <mark key="." line="20" column="53" />
-        <mark key="^" line="20" column="53" />
+      <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/AppMain.java" timestamp="1558062458985">
+        <mark key="[" line="62" column="9" />
+        <mark key="]" line="60" column="10" />
+        <mark key="." line="60" column="10" />
+        <mark key="^" line="60" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaracingcar/domain/CarTest.java" timestamp="1557473875681">
         <mark key="[" line="39" column="64" />
@@ -340,10 +336,11 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-ladder/src/test/java/com/woowacourse/ladder/domain/LadderResultTest.java" timestamp="1557976637816">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/Github/java-ladder/src/test/java/com/woowacourse/ladder/domain/LadderResultTest.java" timestamp="1558065202516">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="30" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/StreamUITest.java" timestamp="1553329648865">
         <mark key="[" line="19" column="40" />
@@ -355,6 +352,11 @@
         <mark key="[" line="7" column="43" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="5" column="18" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/LadderResult.java" timestamp="1558065180484">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
       <file name="D:/Dev/java/spring-security-demo/src/main/java/kr/latera/springsecuritydemo/SecurityWebApplicationInitializer.java" timestamp="1554820698097">
@@ -465,11 +467,11 @@
         <mark key="^" line="22" column="21" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/view/ConsoleOutputView.java" timestamp="1558052624465">
-        <mark key="[" line="25" column="51" />
-        <mark key="]" line="25" column="50" />
-        <mark key="^" line="25" column="50" />
-        <mark key="." line="25" column="50" />
+      <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/view/ConsoleOutputView.java" timestamp="1558062500676">
+        <mark key="[" line="40" column="12" />
+        <mark key="]" line="21" column="6" />
+        <mark key="^" line="21" column="6" />
+        <mark key="." line="21" column="6" />
       </file>
       <file name="C:/Workspace/java/learningtest/build.gradle" timestamp="1557496326349">
         <mark key="[" line="15" column="22" />
@@ -482,6 +484,12 @@
         <mark key="]" line="28" column="22" />
         <mark key="." line="28" column="22" />
         <mark key="^" line="28" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/LadderStateDto.java" timestamp="1558059731344">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="10" column="31" />
+        <mark key="^" line="10" column="31" />
+        <mark key="." line="10" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcarwithoutif/RacingcarController.java" timestamp="1557459112613">
         <mark key="[" line="20" column="8" />
@@ -513,11 +521,11 @@
         <mark key="^" line="22" column="48" />
         <mark key="." line="22" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/MatchPair.java" timestamp="1557976317126">
-        <mark key="[" line="37" column="106" />
-        <mark key="]" line="37" column="104" />
-        <mark key="." line="37" column="104" />
-        <mark key="^" line="37" column="104" />
+      <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/MatchPair.java" timestamp="1558063685235">
+        <mark key="[" line="6" column="47" />
+        <mark key="]" line="6" column="52" />
+        <mark key="^" line="6" column="52" />
+        <mark key="." line="6" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaracingcar/TestUserInterface.java" timestamp="1557446163037">
         <mark key="[" line="50" column="4" />
@@ -558,6 +566,12 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-ladder/src/test/java/com/woowacourse/ladder/domain/LadderStateTest.java" timestamp="1558065220317">
+        <mark key="[" line="20" column="33" />
+        <mark key="]" line="20" column="28" />
+        <mark key="^" line="20" column="28" />
+        <mark key="." line="20" column="28" />
+      </file>
       <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/Lotto.java" timestamp="1554458879395">
         <mark key="[" line="29" column="30" />
         <mark key="]" line="31" column="82" />
@@ -594,8 +608,8 @@
         <mark key="^" line="59" column="4" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/DestinationGroup.java" timestamp="1557904210392">
-        <mark key="[" line="2" column="34" />
+      <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/DestinationGroup.java" timestamp="1558059067285">
+        <mark key="[" line="4" column="0" />
         <mark key="]" line="12" column="38" />
         <mark key="^" line="12" column="38" />
         <mark key="." line="12" column="38" />
@@ -683,11 +697,11 @@
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/LadderState.java" timestamp="1558052588772">
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="19" column="4" />
-        <mark key="^" line="16" column="28" />
-        <mark key="." line="19" column="4" />
+      <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/LadderState.java" timestamp="1558065510941">
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="21" column="22" />
+        <mark key="." line="21" column="22" />
+        <mark key="^" line="21" column="22" />
       </file>
       <file name="C:/Workspace/java/test-project/src/main/java/kr/latera/testproject/Car.java" timestamp="1557476840761">
         <mark key="[" line="10" column="5" />
@@ -740,6 +754,12 @@
         <mark key="^" line="18" column="25" />
         <mark key="." line="18" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/LadderController.java" timestamp="1558065788173">
+        <mark key="[" line="47" column="25" />
+        <mark key="]" line="25" column="46" />
+        <mark key="^" line="25" column="46" />
+        <mark key="." line="25" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/RandomBooleanGenerator.java" timestamp="1557906039321">
         <mark key="[" line="9" column="28" />
         <mark key="]" line="9" column="27" />
@@ -776,11 +796,11 @@
         <mark key="." line="42" column="13" />
         <mark key="^" line="42" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/Ladder.java" timestamp="1558052506431">
-        <mark key="[" line="44" column="36" />
-        <mark key="]" line="44" column="34" />
-        <mark key="." line="44" column="34" />
-        <mark key="^" line="44" column="34" />
+      <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/Ladder.java" timestamp="1558065623875">
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="26" column="11" />
+        <mark key="^" line="26" column="11" />
+        <mark key="." line="26" column="11" />
       </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/ConsoleUserInterface.java" timestamp="1553858686561">
         <mark key="[" line="20" column="28" />
@@ -824,7 +844,7 @@
         <mark key="^" line="20" column="108" />
         <mark key="." line="20" column="105" />
       </file>
-      <file name="/fragment.java" timestamp="1557968573369">
+      <file name="/fragment.java" timestamp="1558063926510">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -841,40 +861,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53b293YWNvdXJzZS5sYWRkZXIuZG9tYWluLkxhZGRlcjsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEJvb2xlYW4+IHJvdyAgPSA7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>explore</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHBhcnRpY2lwYW50cy5zZXQoeSwgdCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHBhcnRpY2lwYW50cy5zZXQoeCwgbmV3UGFydGljaXBhbnRzLmdldCh5KSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFQgdCA9IG5ld1BhcnRpY2lwYW50cy5nZXQoeCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBjaGVja0FuZFN3YXAoTGlzdDxTdHJpbmc+IHBhcnRpY2lwYW50cywgaW50IGkpIHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRMaXN0U2l6ZShwYXJ0aWNpcGFudHMsIGRlc3RpbmF0aW9ucyk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAocGFydGljaXBhbnRzLmlzRSkKICAgIH0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0LnNldChmcm9tLCBsaXN0LmdldCh0bykpOwogICAgICAgIGxpc3Quc2V0KHRvLCB0bXApOwo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgYXNzZXJ0TGlzdFNpemUoTGlzdDxTdHJpbmc+IHBhcnRpY2lwYW50cywgTGlzdDxTdHJpbmc+IGRlc3RpbmF0aW9ucykgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorLeftWithSelection</text>
+        <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>explore</text>
       </register>
     </registers>
     <search>
@@ -884,10 +904,10 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -920,7 +940,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
