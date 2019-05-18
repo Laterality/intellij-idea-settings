@@ -15,7 +15,7 @@
         <mark key="^" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
-      <file name="/a.dummy" timestamp="1558060887439">
+      <file name="/a.dummy" timestamp="1558141402129">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/test/java/domain/AppMain.java" timestamp="1553855404350">
@@ -491,11 +491,11 @@
         <mark key="^" line="10" column="31" />
         <mark key="." line="10" column="31" />
       </file>
-      <file name="D:/Dev/GitHub/java-ladder/src/main/java/com/woowacourse/ladder/domain/Position.java" timestamp="1558106199100">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="10" column="26" />
-        <mark key="^" line="10" column="26" />
-        <mark key="." line="10" column="26" />
+      <file name="D:/Dev/GitHub/java-ladder/src/main/java/com/woowacourse/ladder/domain/Position.java" timestamp="1558141165599">
+        <mark key="[" line="8" column="47" />
+        <mark key="]" line="8" column="34" />
+        <mark key="^" line="8" column="34" />
+        <mark key="." line="8" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcarwithoutif/RacingcarController.java" timestamp="1557459112613">
         <mark key="[" line="20" column="8" />
@@ -692,11 +692,11 @@
         <mark key="^" line="20" column="27" />
         <mark key="." line="20" column="27" />
       </file>
-      <file name="D:/Dev/GitHub/java-ladder/src/test/java/com/woowacourse/ladder/domain/PositionTest.java" timestamp="1558106372334">
-        <mark key="[" line="14" column="32" />
-        <mark key="]" line="14" column="31" />
-        <mark key="^" line="14" column="31" />
-        <mark key="." line="14" column="31" />
+      <file name="D:/Dev/GitHub/java-ladder/src/test/java/com/woowacourse/ladder/domain/PositionTest.java" timestamp="1558141046635">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="15" column="9" />
+        <mark key="^" line="16" column="41" />
+        <mark key="." line="15" column="9" />
       </file>
       <file name="D:/Dev/java/spring-security-demo/src/main/java/kr/latera/springsecuritydemo/WebSecurityConfig.java" timestamp="1554821245316">
         <mark key="[" line="20" column="5" />
@@ -876,7 +876,7 @@
         <text encoding="base64">ICAgICAgICBzdXBlcigpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>testMove</text>
+        <text>hasLeft</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByZXZpb3VzU3RhdGUgPSBjdXJyZW50U3RhdGU7CiAgICAgICAgICAgIH0K</text>
@@ -906,7 +906,7 @@
         <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>testMove</text>
+        <text>hasLeft</text>
       </register>
     </registers>
     <search>
