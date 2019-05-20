@@ -18,6 +18,12 @@
       <file name="/a.dummy" timestamp="1558162832254">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-ladder/src/test/kotlin/com/woowacourse/stringadder/AdderTest.java" timestamp="1558329692731">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="4" />
+        <mark key="^" line="8" column="30" />
+        <mark key="." line="7" column="4" />
+      </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/test/java/domain/AppMain.java" timestamp="1553855404350">
         <mark key="[" line="8" column="12" />
         <mark key="]" line="7" column="15" />
@@ -29,6 +35,12 @@
         <mark key="]" line="8" column="44" />
         <mark key="^" line="8" column="44" />
         <mark key="." line="8" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-ladder/src/test/kotlin/com/woowacourse/stringadder/AdderTest.kt" timestamp="1558329732111">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/TestUserInterface.java" timestamp="1553335638824">
         <mark key="[" line="45" column="15" />
@@ -131,6 +143,9 @@
         <mark key="]" line="39" column="62" />
         <mark key="." line="39" column="62" />
         <mark key="^" line="39" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-ladder/build.gradle" timestamp="1558329633947">
+        <mark key="[" line="12" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaRacingcar/Game.java" timestamp="1557299920842">
         <mark key="[" line="20" column="4" />
@@ -305,11 +320,6 @@
         <mark key="]" line="68" column="16" />
         <mark key="^" line="68" column="16" />
         <mark key="." line="68" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/view/InputValidator.java" timestamp="1557970127647">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/ladder/build.gradle" timestamp="1558329442855">
         <mark key="[" line="12" column="60" />
@@ -698,11 +708,6 @@
         <mark key="^" line="20" column="4" />
         <mark key="." line="20" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-ladder/src/test/java/com/woowacourse/ladder/view/InputValidatorTest.java" timestamp="1557970021085">
-        <mark key="[" line="68" column="5" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/LadderState.java" timestamp="1558074087499">
         <mark key="[" line="33" column="28" />
         <mark key="]" line="33" column="28" />
@@ -870,7 +875,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByZXZpb3VzU3RhdGUgPSBjdXJyZW50U3RhdGU7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">TGFkZGVyUmVzdWx0IA==</text>
+        <text>void</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHByZXZpb3VzU3RhdGUpIHsKICAgICAgICAgICAgICAgIHJvdy5hZGQodHJ1ZSk7Cg==</text>
@@ -900,7 +905,7 @@
         <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TGFkZGVyUmVzdWx0IA==</text>
+        <text>void</text>
       </register>
     </registers>
     <search>
