@@ -132,7 +132,7 @@
         <mark key="^" line="62" column="89" />
         <mark key="." line="62" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/kotlin/com/woowacourse/stringadder/StringParser.kt" timestamp="1558417797686">
+      <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/kotlin/com/woowacourse/stringadder/StringParser.kt" timestamp="1558482129558">
         <mark key="[" line="23" column="27" />
         <mark key="]" line="23" column="35" />
         <mark key="." line="23" column="35" />
@@ -508,10 +508,9 @@
         <mark key="." line="14" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-coordinate/README.md" timestamp="1558406424766">
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="32" column="2" />
-        <mark key="." line="32" column="2" />
-        <mark key="^" line="32" column="2" />
+        <mark key="]" line="3" column="2" />
+        <mark key="." line="3" column="2" />
+        <mark key="^" line="3" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/LadderResultQueryProcessor.java" timestamp="1557912914009">
         <mark key="[" line="18" column="41" />
