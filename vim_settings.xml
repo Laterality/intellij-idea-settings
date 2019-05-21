@@ -555,11 +555,10 @@
         <mark key="^" line="25" column="49" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-ladder/src/test/kotlin/com/woowacourse/ladder/domain/DestinationGroupTest.kt" timestamp="1558400342937">
-        <mark key="[" line="25" column="5" />
-        <mark key="]" line="23" column="36" />
-        <mark key="^" line="21" column="19" />
-        <mark key="." line="23" column="36" />
+      <file name="$USER_HOME$/Documents/Github/java-ladder/src/test/kotlin/com/woowacourse/ladder/domain/DestinationGroupTest.kt" timestamp="1558402100758">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/CalculatorTest.java" timestamp="1557294407542">
         <mark key="[" line="44" column="49" />
@@ -1073,34 +1072,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>3rd</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGluaXQgewogICAgICAgIHRoaXMuZGVzdGluYXRpb24gPSAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnByaW50LmF0dHJpYnV0ZS5zdGFuZGFyZC5EZXN0aW5hdGlvbgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBmdW4gCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0KCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGluaXQgewogICAgICAgIHRoaXMuZGVzdGluYXRpb24gPSAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LnByaW50LmF0dHJpYnV0ZS5zdGFuZGFyZC5EZXN0aW5hdGlvbgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGNoZWNrSWZFbXB0eShuYW1lOiBTdHJpbmcpOiBCb29sZWFuIHsKICAgICAgICByZXR1cm4gbmFtZS5pc05vdEVtcHR5KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action EditorLeftWithSelection</text>
