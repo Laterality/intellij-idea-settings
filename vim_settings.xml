@@ -507,6 +507,12 @@
         <mark key="^" line="14" column="55" />
         <mark key="." line="14" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-coordinate/README.md" timestamp="1558406424766">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="32" column="2" />
+        <mark key="." line="32" column="2" />
+        <mark key="^" line="32" column="2" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/LadderResultQueryProcessor.java" timestamp="1557912914009">
         <mark key="[" line="18" column="41" />
         <mark key="]" line="18" column="11" />
@@ -1072,34 +1078,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMgv+y+xsfRxdfFqcTavbogxNq15biuuuQKKiBbv8K288DOIMTateUguK665CCw+sGkXShodHRwczovL2dpdGh1Yi5jb20vd29vd2Fjb3Vyc2Uvd29vd2Fjb3Vyc2UtZG9jcy9ibG9iL21hc3Rlci9tYWluY291cnNlL1JFQURNRS5tZCkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMgv+y+xsfRxdfFqcTavbogxNq15biuuuQKKiBbv8K288DOIMTateUguK665CCw+sGkXShodHRwczovL2dpdGh1Yi5jb20vd29vd2Fjb3Vyc2Uvd29vd2Fjb3Vyc2UtZG9jcy9ibG9iL21hc3Rlci9tYWluY291cnNlL1JFQURNRS5tZCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBmdW4gCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGluaXQgewogICAgICAgIHRoaXMuZGVzdGluYXRpb24gPSAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnByaW50LmF0dHJpYnV0ZS5zdGFuZGFyZC5EZXN0aW5hdGlvbgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBmdW4gCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0KCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGluaXQgewogICAgICAgIHRoaXMuZGVzdGluYXRpb24gPSAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LnByaW50LmF0dHJpYnV0ZS5zdGFuZGFyZC5EZXN0aW5hdGlvbgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorLeftWithSelection</text>
