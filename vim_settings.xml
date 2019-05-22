@@ -596,6 +596,9 @@
         <mark key="." line="52" column="97" />
         <mark key="^" line="52" column="97" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-coordinate/src/main/java/com/woowacourse/coordinate/domain/Point.java" timestamp="1558515424780">
+        <mark key="[" line="26" column="90" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaracingcarwithoutif/RacingcarUtilTest.java" timestamp="1557387051756">
         <mark key="[" line="47" column="56" />
         <mark key="]" line="47" column="56" />
@@ -1080,8 +1083,8 @@
       <register name="1" type="2">
         <text encoding="base64">IyMgv+y+xsfRxdfFqcTavbogxNq15biuuuQKKiBbv8K288DOIMTateUguK665CCw+sGkXShodHRwczovL2dpdGh1Yi5jb20vd29vd2Fjb3Vyc2Uvd29vd2Fjb3Vyc2UtZG9jcy9ibG9iL21hc3Rlci9tYWluY291cnNlL1JFQURNRS5tZCkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyMgv+y+xsfRxdfFqcTavbogxNq15biuuuQKKiBbv8K288DOIMTateUguK665CCw+sGkXShodHRwczovL2dpdGh1Yi5jb20vd29vd2Fjb3Vyc2Uvd29vd2Fjb3Vyc2UtZG9jcy9ibG9iL21hc3Rlci9tYWluY291cnNlL1JFQURNRS5tZCkK</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1108,10 +1111,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorLeftWithSelection</text>
+        <text>action EditorRightWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>3rd</text>
+        <text>t</text>
       </register>
     </registers>
     <search>
@@ -1121,10 +1124,10 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action EditorRightWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorRightWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
