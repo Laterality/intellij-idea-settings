@@ -426,11 +426,11 @@
         <mark key="^" line="43" column="46" />
         <mark key="." line="43" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-coordinate/src/main/java/com/woowacourse/coordinate/domain/PointGroup.java" timestamp="1558658897160">
-        <mark key="[" line="26" column="31" />
-        <mark key="]" line="26" column="64" />
-        <mark key="^" line="26" column="64" />
-        <mark key="." line="26" column="64" />
+      <file name="$USER_HOME$/Documents/Github/java-coordinate/src/main/java/com/woowacourse/coordinate/domain/PointGroup.java" timestamp="1558661294580">
+        <mark key="[" line="34" column="11" />
+        <mark key="]" line="34" column="11" />
+        <mark key="." line="34" column="11" />
+        <mark key="^" line="35" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/view/ConsoleInputView.java" timestamp="1557970105862">
         <mark key="[" line="44" column="15" />
@@ -462,11 +462,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-coordinate/src/test/java/com/woowacourse/coordinate/domain/PointGroupTest.java" timestamp="1558659031787">
-        <mark key="[" line="26" column="94" />
-        <mark key="]" line="26" column="93" />
-        <mark key="." line="26" column="93" />
-        <mark key="^" line="26" column="93" />
+      <file name="$USER_HOME$/Documents/Github/java-coordinate/src/test/java/com/woowacourse/coordinate/domain/PointGroupTest.java" timestamp="1558661310733">
+        <mark key="[" line="27" column="123" />
+        <mark key="]" line="27" column="67" />
+        <mark key="." line="27" column="67" />
+        <mark key="^" line="27" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/test/kotlin/com/woowacourse/stringadder/PositiveIntegerAdderControllerTest.kt" timestamp="1558334632354">
         <mark key="[" line="8" column="59" />
@@ -1207,31 +1207,31 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFBvaW50PiAK</text>
+        <text encoding="base64">ICAgICAgICBlYWV0dXJuIDA7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFBvaW50PiAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZG91YmxlIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFBvaW50PiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYwo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTGlzdDxQb2ludD4gcG9pbnRzOwoK</text>
+        <text encoding="base64">ICAgIHB1YmxpYwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgT3V0cHV0Vmlldy5wcmludENvb3JkaW5hdGUocG9pbnRzKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTGlzdDxQb2ludD4gcG9pbnRzOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgT3V0cHV0Vmlldy5wcmludENvb3JkaW5hdGUocG9pbnRzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJlYW0ub2YoMSwgMiwgMywgNCwgNSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuYW5ub3RhdGlvbnMuVGVzdE9ubHkK</text>
+        <text encoding="base64">ICAgICAgICBTdHJlYW0ub2YoMSwgMiwgMywgNCwgNSkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuYW5ub3RhdGlvbnMuVGVzdE9ubHkK</text>
@@ -1240,7 +1240,7 @@
         <text>action EditorDownWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>point1Idx</text>
+        <text encoding="base64">ZG91YmxlIA==</text>
       </register>
     </registers>
     <search>
