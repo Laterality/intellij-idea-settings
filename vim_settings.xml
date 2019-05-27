@@ -15,6 +15,12 @@
         <mark key="^" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
+      <file name="C:/Workspace/java/learningtest/src/test/java/kr/latera/learningtest/MatcherLearning.java" timestamp="1558945879695">
+        <mark key="[" line="13" column="69" />
+        <mark key="]" line="13" column="43" />
+        <mark key="^" line="13" column="43" />
+        <mark key="." line="13" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/kotlin/com/woowacourse/stringadder/StringAdderController.kt" timestamp="1558334578644">
         <mark key="[" line="4" column="30" />
         <mark key="]" line="4" column="44" />
@@ -1216,40 +1222,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KG0uZmluZCgpKS5pc1RydWUoKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KG0uZmluZCgpKS5pc1RydWUoKTsK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gIrvnsKLH/CI7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ewogICAgICAgIA==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gIrvvsKLH/CI7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5zaW1pbGFyaXR5LmNvbXBhcmVUbyhvdGhlci5zaW1pbGFyaXR5KQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICBmaW5hbCBpbnQgY3VycmVudFkgPSB5Owo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICBMaXN0PFBvaW50PiBwb2ludHNUb1ByaW50ID0gcG9pbnRzLnN0cmVhbSgpCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICBMaXN0PFBvaW50PiBwb2ludHNUb1ByaW50ID0gcG9pbnRzLnN0cmVhbSgpCiAgICAgICAgICAgIGFwcGVuZFgoc2IsIHBvaW50cywgeSk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmZpbHRlcihwIC0+IHAubWF0Y2hZKGN1cnJlbnRZKSkKLy8gICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>action EditorDownWithSelection</text>
+        <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3RyaW5nQnVpbGRlciA=</text>
+        <text>abcd</text>
       </register>
     </registers>
     <search>
@@ -1261,8 +1267,8 @@
       <history-cmd>
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
