@@ -66,17 +66,17 @@
         <mark key="^" line="32" column="56" />
         <mark key="." line="32" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-coordinate/src/main/java/com/woowacourse/coordinate/view/OutputView.java" timestamp="1558687152596">
-        <mark key="[" line="12" column="0" />
+      <file name="$USER_HOME$/Documents/Github/java-coordinate/src/main/java/com/woowacourse/coordinate/view/OutputView.java" timestamp="1558935717139">
+        <mark key="[" line="68" column="57" />
         <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="37" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-coordinate/src/main/java/com/woowacourse/coordinate/domain/Line.java" timestamp="1558686762120">
-        <mark key="[" line="8" column="20" />
-        <mark key="]" line="8" column="34" />
-        <mark key="^" line="8" column="34" />
-        <mark key="." line="8" column="34" />
+      <file name="$USER_HOME$/Documents/Github/java-coordinate/src/main/java/com/woowacourse/coordinate/domain/Line.java" timestamp="1558935945738">
+        <mark key="[" line="39" column="5" />
+        <mark key="]" line="37" column="24" />
+        <mark key="^" line="37" column="24" />
+        <mark key="." line="37" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaracingcar/RacingcarControllerTest.java" timestamp="1557412299171">
         <mark key="[" line="13" column="0" />
@@ -231,11 +231,11 @@
         <mark key="." line="9" column="42" />
         <mark key="^" line="9" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-coordinate/src/main/java/com/woowacourse/coordinate/domain/Square.java" timestamp="1558687078541">
-        <mark key="[" line="18" column="48" />
-        <mark key="]" line="18" column="48" />
-        <mark key="^" line="18" column="48" />
-        <mark key="." line="18" column="48" />
+      <file name="$USER_HOME$/Documents/Github/java-coordinate/src/main/java/com/woowacourse/coordinate/domain/Square.java" timestamp="1558935849397">
+        <mark key="[" line="54" column="21" />
+        <mark key="]" line="54" column="21" />
+        <mark key="." line="54" column="21" />
+        <mark key="^" line="58" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/kotlin/com/woowacourse/stringadder/StringAdder.kt" timestamp="1558330352790">
         <mark key="[" line="5" column="12" />
@@ -381,6 +381,9 @@
         <mark key="^" line="12" column="48" />
         <mark key="." line="12" column="48" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-coordinate/src/main/java/com/woowacourse/coordinate/domain/Shape.java" timestamp="1558935524548">
+        <mark key="[" line="3" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaracingcarwithoutif/TestUserInterface.java" timestamp="1557412475196">
         <mark key="[" line="22" column="8" />
         <mark key="]" line="22" column="8" />
@@ -411,6 +414,11 @@
         <mark key="^" line="68" column="4" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/sibylla/src/microservice/article-api/src/main/kotlin/kr/latera/sibylla/articleapi/retrofit/dto/ArticleSimilarityPair.kt" timestamp="1558935189377">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/AppMain.java" timestamp="1553339326631">
         <mark key="[" line="10" column="45" />
         <mark key="]" line="9" column="36" />
@@ -438,11 +446,11 @@
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-coordinate/src/main/java/com/woowacourse/coordinate/domain/PointGroup.java" timestamp="1558686918504">
-        <mark key="[" line="67" column="94" />
-        <mark key="]" line="67" column="94" />
-        <mark key="^" line="101" column="53" />
-        <mark key="." line="67" column="94" />
+      <file name="$USER_HOME$/Documents/Github/java-coordinate/src/main/java/com/woowacourse/coordinate/domain/PointGroup.java" timestamp="1558936143053">
+        <mark key="[" line="123" column="24" />
+        <mark key="]" line="123" column="21" />
+        <mark key="^" line="123" column="21" />
+        <mark key="." line="123" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/view/ConsoleInputView.java" timestamp="1557970105862">
         <mark key="[" line="44" column="15" />
@@ -546,11 +554,11 @@
         <mark key="." line="47" column="31" />
         <mark key="^" line="47" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-coordinate/src/main/java/com/woowacourse/coordinate/domain/Triangle.java" timestamp="1558686800793">
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="54" column="52" />
-        <mark key="." line="54" column="52" />
-        <mark key="^" line="54" column="52" />
+      <file name="$USER_HOME$/Documents/Github/java-coordinate/src/main/java/com/woowacourse/coordinate/domain/Triangle.java" timestamp="1558935776603">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+        <mark key="^" line="8" column="31" />
       </file>
       <file name="C:/Workspace/java/woowacourse-offline/src/main/java/kr/latera/woowacourseoffline/TestClass.java" timestamp="1555390618699">
         <mark key="[" line="9" column="32" />
@@ -762,7 +770,6 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/ladder/engine/Ladder.java" timestamp="1558665698866" />
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/kotlin/com/woowacourse/stringadder/PositiveIntegerAdder.kt" timestamp="1558334487265">
         <mark key="[" line="6" column="24" />
         <mark key="]" line="6" column="45" />
@@ -1209,40 +1216,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBmaW5hbCBpbnQgY3VycmVudFkgPSB5Owo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIrvnsKLH/CI7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBmaW5hbCBpbnQgY3VycmVudFkgPSB5Owo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">U3RyaW5nQnVpbGRlciA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBMaXN0PFBvaW50PiBwb2ludHNUb1ByaW50ID0gcG9pbnRzLnN0cmVhbSgpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ewogICAgICAgIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBMaXN0PFBvaW50PiBwb2ludHNUb1ByaW50ID0gcG9pbnRzLnN0cmVhbSgpCiAgICAgICAgICAgIGFwcGVuZFgoc2IsIHBvaW50cywgeSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIrvvsKLH/CI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmZpbHRlcihwIC0+IHAubWF0Y2hZKGN1cnJlbnRZKSkKLy8gICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5zaW1pbGFyaXR5LmNvbXBhcmVUbyhvdGhlci5zaW1pbGFyaXR5KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5zd2FwKHBvaW50cywgMCwgMSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBmaW5hbCBpbnQgY3VycmVudFkgPSB5Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KG5ldyBUcmlhbmdsZShwb2ludHMpKS5pc0VxdWFsVG8obmV3IFRyaWFuZ2xlKHBvaW50cykpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBMaXN0PFBvaW50PiBwb2ludHNUb1ByaW50ID0gcG9pbnRzLnN0cmVhbSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5zd2FwKHBvaW50cywgMCwgMSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBMaXN0PFBvaW50PiBwb2ludHNUb1ByaW50ID0gcG9pbnRzLnN0cmVhbSgpCiAgICAgICAgICAgIGFwcGVuZFgoc2IsIHBvaW50cywgeSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZWFyUG9pbnRzLnJlbW92ZShtYXhEaXN0YW5jZSk7CiAgICAgICAgcmV0dXJuIG5lYXJQb2ludHMuZ2V0KDApLmNhbGN1bGF0ZURpc3RhbmNlKG5lYXJQb2ludHMuZ2V0KDEpKSAqIG5lYXJQb2ludHMuZ2V0KDApLmNhbGN1bGF0ZURpc3RhbmNlKG5lYXJQb2ludHMuZ2V0KDIpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmZpbHRlcihwIC0+IHAubWF0Y2hZKGN1cnJlbnRZKSkKLy8gICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgbWF4RGlzdGFuY2UgPSBnZXRNYXhEaXN0YW5jZShwb2ludHMpOwogICAgICAgIExpc3Q8UG9pbnQ+IG5lYXJQb2ludHMgPSBuZXcgQXJyYXlMaXN0PD4ocG9pbnRzKTsK</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5zd2FwKHBvaW50cywgMCwgMSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorUpWithSelection</text>
+        <text>action EditorDownWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">U3RyaW5nQnVpbGRlciA=</text>
       </register>
     </registers>
     <search>
@@ -1254,8 +1261,8 @@
       <history-cmd>
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorDownWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
