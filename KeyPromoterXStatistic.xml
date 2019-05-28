@@ -6,7 +6,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>3</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -14,7 +14,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>38</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -23,6 +23,14 @@
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="GoTo">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B'</ShortCut>
+          <Description>GoTo</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -54,7 +62,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>3</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh">
@@ -62,7 +70,7 @@
           <IdeaActionID>FileChooser.Refresh</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Refresh</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove Watch">
@@ -71,14 +79,6 @@
           <ShortCut>'Delete'</ShortCut>
           <Description>Remove Watch</Description>
           <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'ConsoleUILottoApplication'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'Ctrl+F5'</ShortCut>
-          <Description>Rerun 'ConsoleUILottoApplication'</Description>
-          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'InputValidatorTest.공백만입력했을때'">
@@ -134,15 +134,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>26</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'ConsoleUILottoApplication'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Shift+F10'</ShortCut>
-          <Description>Run 'ConsoleUILottoApplication'</Description>
-          <Count>1</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'StringProcessorTest'">
@@ -169,14 +161,6 @@
           <Count>4</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'ConsoleUILottoApplication'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'ConsoleUILottoApplication'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop 'InputValidatorTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -190,6 +174,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'StringProcessorTest.커스텀구분자안에_숫자와문자가_같이_있을때_예외테스트'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'TriangleTest.rightAngled'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'TriangleTest.rightAngled'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
