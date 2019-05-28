@@ -150,6 +150,12 @@
         <mark key="." line="39" column="62" />
         <mark key="^" line="39" column="62" />
       </file>
+      <file name="D:/Dev/GitHub/java-lotto-1/src/test/java/com/woowacourse/lotto/domain/LottoFactoryTest.java" timestamp="1559038352244">
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="16" column="7" />
+        <mark key="^" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaRacingcar/Game.java" timestamp="1557299920842">
         <mark key="[" line="20" column="4" />
         <mark key="]" line="21" column="0" />
@@ -296,6 +302,12 @@
         <mark key="]" line="81" column="67" />
         <mark key="." line="81" column="67" />
         <mark key="^" line="81" column="67" />
+      </file>
+      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/view/ConsoleInputView.java" timestamp="1559038521672">
+        <mark key="[" line="70" column="56" />
+        <mark key="]" line="71" column="54" />
+        <mark key="^" line="71" column="54" />
+        <mark key="." line="71" column="54" />
       </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/interfaces/InputValidator.java" timestamp="1553849642565">
         <mark key="[" line="5" column="43" />
@@ -641,6 +653,9 @@
         <mark key="^" line="68" column="4" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/domain/LottoFactory.java" timestamp="1559038269436">
+        <mark key="[" line="14" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/AppMain.java" timestamp="1553339326631">
         <mark key="[" line="10" column="45" />
         <mark key="]" line="9" column="36" />
@@ -817,6 +832,12 @@
         <mark key="]" line="33" column="28" />
         <mark key="^" line="32" column="62" />
         <mark key="." line="33" column="28" />
+      </file>
+      <file name="D:/Dev/GitHub/java-lotto-1/README.md" timestamp="1559037905854">
+        <mark key="[" line="16" column="40" />
+        <mark key="]" line="16" column="39" />
+        <mark key="^" line="16" column="39" />
+        <mark key="." line="16" column="39" />
       </file>
       <file name="C:/Workspace/java/test-project/src/main/java/kr/latera/testproject/Car.java" timestamp="1557476840761">
         <mark key="[" line="10" column="5" />
@@ -1006,40 +1027,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIE1hcDxQYXJ0aWNpcGFudCwgRGVzdGluYXRpb24+IHJlc3VsdFBhaXJzID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIE1hcDxQYXJ0aWNpcGFudCwgRGVzdGluYXRpb24+IHJlc3VsdFBhaXJzID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRTaW5nbGVSZXN1bHQocmVzdWx0LmdldChyZXN1bHQua2V5U2V0KCkuaXRlcmF0b3IoKS5uZXh0KCkpLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IG51bXMgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0UGFpcnMucHV0KHAsIExhZGRlci5tYXRjaChwb3MsIHN0YXRlKS5nZXRNYXRjaERlc3RpbmF0aW9uKGRlc3RpbmF0aW9ucykpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIE1hcDxQYXJ0aWNpcGFudCwgRGVzdGluYXRpb24+IHJlc3VsdFBhaXJzID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBwYXJ0aWNpcGFudExpc3RUb1ByaW50LmFkZChwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRTaW5nbGVSZXN1bHQocmVzdWx0LmdldChyZXN1bHQua2V5U2V0KCkuaXRlcmF0b3IoKS5uZXh0KCkpLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBkZXN0aW5hdGlvbnNUb1ByaW50LmFkZChMYWRkZXIubWF0Y2gocG9zLCBzdGF0ZSkuZ2V0TWF0Y2hEZXN0aW5hdGlvbihkZXN0aW5hdGlvbnMpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0UGFpcnMucHV0KHAsIExhZGRlci5tYXRjaChwb3MsIHN0YXRlKS5nZXRNYXRjaERlc3RpbmF0aW9uKGRlc3RpbmF0aW9ucykpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBPdXRwdXRWaWV3LnByaW50U2luZ2xlUmVzdWx0KGRlc3RpbmF0aW9ucy5nZXQoMCkudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBwYXJ0aWNpcGFudExpc3RUb1ByaW50LmFkZChwKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgcHVibGljIHN0YXRpYyB2b2lkIHByaW50UmVzdWx0KExpc3Q8UGFydGljaXBhbnQ+IHBhcnRpY2lwYW50cywgTGlzdDxEZXN0aW5hdGlvbj4gZGVzdGluYXRpb25zKSB7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBkZXN0aW5hdGlvbnNUb1ByaW50LmFkZChMYWRkZXIubWF0Y2gocG9zLCBzdGF0ZSkuZ2V0TWF0Y2hEZXN0aW5hdGlvbihkZXN0aW5hdGlvbnMpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIE1hcMC7IMXrx9EgvPjIuL+hvK0gvPi8rbimILq4wOXHz7HiIMCnx9EgsKoK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBPdXRwdXRWaWV3LnByaW50U2luZ2xlUmVzdWx0KGRlc3RpbmF0aW9ucy5nZXQoMCkudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGlkOwo=</text>
+        <text encoding="base64">Ly8gICAgcHVibGljIHN0YXRpYyB2b2lkIHByaW50UmVzdWx0KExpc3Q8UGFydGljaXBhbnQ+IHBhcnRpY2lwYW50cywgTGlzdDxEZXN0aW5hdGlvbj4gZGVzdGluYXRpb25zKSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorUpWithSelection</text>
+        <text>action EditorLeftWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>Names</text>
+        <text encoding="base64">TG90dG8g</text>
       </register>
     </registers>
     <search>
@@ -1051,8 +1072,8 @@
       <history-cmd>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
