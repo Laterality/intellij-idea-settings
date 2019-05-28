@@ -73,6 +73,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ConsoleUILottoApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ConsoleUILottoApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'InputValidatorTest.공백만입력했을때'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -151,6 +159,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'AppMain'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ConsoleUILottoApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ConsoleUILottoApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'InputValidatorTest'">

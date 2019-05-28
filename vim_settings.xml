@@ -24,6 +24,12 @@
       <file name="/a.dummy" timestamp="1558162832254">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/lotto/ConsoleUILottoApplication.java" timestamp="1559039906666">
+        <mark key="[" line="26" column="46" />
+        <mark key="]" line="23" column="49" />
+        <mark key="^" line="23" column="49" />
+        <mark key="." line="23" column="49" />
+      </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/test/java/domain/AppMain.java" timestamp="1553855404350">
         <mark key="[" line="8" column="12" />
         <mark key="]" line="7" column="15" />
@@ -41,6 +47,12 @@
         <mark key="]" line="44" column="8" />
         <mark key="." line="44" column="8" />
         <mark key="^" line="45" column="14" />
+      </file>
+      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/view/ConsoleOutputView.java" timestamp="1559039811359">
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="13" column="11" />
+        <mark key="^" line="13" column="11" />
+        <mark key="." line="13" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/interfaces/InputView.java" timestamp="1557907477756">
         <mark key="[" line="7" column="27" />
@@ -303,11 +315,11 @@
         <mark key="." line="81" column="67" />
         <mark key="^" line="81" column="67" />
       </file>
-      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/view/ConsoleInputView.java" timestamp="1559038521672">
-        <mark key="[" line="70" column="56" />
-        <mark key="]" line="71" column="54" />
-        <mark key="^" line="71" column="54" />
-        <mark key="." line="71" column="54" />
+      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/view/ConsoleInputView.java" timestamp="1559040270207">
+        <mark key="[" line="69" column="16" />
+        <mark key="]" line="69" column="34" />
+        <mark key="^" line="69" column="34" />
+        <mark key="." line="69" column="34" />
       </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/interfaces/InputValidator.java" timestamp="1553849642565">
         <mark key="[" line="5" column="43" />
@@ -1029,8 +1041,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>nLottos</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IG51bXMgPSAK</text>
@@ -1060,7 +1072,7 @@
         <text>action EditorLeftWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TG90dG8g</text>
+        <text>nLottos</text>
       </register>
     </registers>
     <search>
@@ -1071,8 +1083,8 @@
       <history-search />
       <history-cmd>
         <entry>action EditorDownWithSelection</entry>
-        <entry>action EditorRightWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorRightWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
