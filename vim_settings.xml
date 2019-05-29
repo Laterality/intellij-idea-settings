@@ -954,6 +954,12 @@
         <mark key="." line="39" column="62" />
         <mark key="^" line="39" column="62" />
       </file>
+      <file name="C:/Workspace/java/test-app/src/kr/latera/Main3.java" timestamp="1559120613908">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="3" />
+        <mark key="^" line="20" column="3" />
+        <mark key="." line="20" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/build.gradle" timestamp="1558329633947">
         <mark key="[" line="12" column="60" />
       </file>
@@ -1407,10 +1413,10 @@
         <mark key="[" line="2" column="25" />
       </file>
       <file name="C:/Workspace/java/spark-java-ex/src/main/java/kr/latera/sparkjavaex/AppMain.java" timestamp="1559118669288">
-        <mark key="[" line="23" column="57" />
-        <mark key="]" line="23" column="57" />
-        <mark key="." line="23" column="57" />
-        <mark key="^" line="23" column="36" />
+        <mark key="[" line="20" column="57" />
+        <mark key="]" line="20" column="57" />
+        <mark key="." line="20" column="57" />
+        <mark key="^" line="20" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-coordinate/src/test/java/coordinate/domain/figure/FigureFactoryTest.java" timestamp="1559012157097">
         <mark key="[" line="59" column="124" />
@@ -1540,40 +1546,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJib2R5OiAiICsgcmVxLmJvZHkoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGludCBoZWlnaHQ7CiAgICBpbnQgd2VpZ2h0Owo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>username</text>
+        <text encoding="base64">RmlndXJlIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ1c2VybmFtZTogIiArIHBhcmFtcy5nZXQoInVzZXJuYW1lIikpOwo=</text>
+        <text encoding="base64">ICAgIGludCBoZWlnaHQ7CiAgICBpbnQgd2VpZ2h0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJlbWFpbDogIiArIHJlcS5hdHRyaWJ1dGUoImVtYWlsIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJib2R5OiAiICsgcmVxLmJvZHkoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBwYXJhbXMgPSByZXEuYm9keSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ1c2VybmFtZTogIiArIHBhcmFtcy5nZXQoInVzZXJuYW1lIikpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmxvZyhMZXZlbC5JTkZPLCAiZW1haWw6IHt9IiwgbmV3IE9iamVjdFtdIHtyZXEuYXR0cmlidXRlKCJlbWFpbCIpfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJlbWFpbDogIiArIHJlcS5hdHRyaWJ1dGUoImVtYWlsIikpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmxvZyhMZXZlbC5JTkZPLCAidXNlcm5hbWU6IHt9IiwgbmV3IE9iamVjdFtdIHtyZXEuYXR0cmlidXRlKCJ1c2VybmFtZSIpfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBwYXJhbXMgPSByZXEuYm9keSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGdldCgiLyIsIChyZXEsIHJlcykgLT4gbmV3IE1vZGVsQW5kVmlldyhudWxsLCAiaW5kZXguaHRtbCIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmxvZyhMZXZlbC5JTkZPLCAiZW1haWw6IHt9IiwgbmV3IE9iamVjdFtdIHtyZXEuYXR0cmlidXRlKCJlbWFpbCIpfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmxvZyhMZXZlbC5JTkZPLCAidXNlcm5hbWU6IHt9IiwgbmV3IE9iamVjdFtdIHtyZXEuYXR0cmlidXRlKCJ1c2VybmFtZSIpfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlIGdyb3VwOiAnanVuaXQnLCBuYW1lOiAnanVuaXQnLCB2ZXJzaW9uOiAnNC4xMicK</text>
+        <text encoding="base64">Ly8gICAgICAgIGdldCgiLyIsIChyZXEsIHJlcykgLT4gbmV3IE1vZGVsQW5kVmlldyhudWxsLCAiaW5kZXguaHRtbCIpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorLeftWithSelection</text>
+        <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>username</text>
+        <text encoding="base64">RmlndXJlIA==</text>
       </register>
     </registers>
     <search>
@@ -1585,8 +1591,8 @@
       <history-cmd>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
