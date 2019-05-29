@@ -1406,11 +1406,11 @@
       <file name="$USER_HOME$/Documents/Github/java-coordinate/src/test/java/com/woowacourse/coordinate/domain/PointGroup.java" timestamp="1558658104636">
         <mark key="[" line="2" column="25" />
       </file>
-      <file name="C:/Workspace/java/spark-java-ex/src/main/java/kr/latera/sparkjavaex/AppMain.java" timestamp="1559116711433">
-        <mark key="[" line="21" column="89" />
-        <mark key="]" line="21" column="89" />
-        <mark key="^" line="21" column="85" />
-        <mark key="." line="21" column="89" />
+      <file name="C:/Workspace/java/spark-java-ex/src/main/java/kr/latera/sparkjavaex/AppMain.java" timestamp="1559118669288">
+        <mark key="[" line="23" column="57" />
+        <mark key="]" line="23" column="57" />
+        <mark key="." line="23" column="57" />
+        <mark key="^" line="23" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-coordinate/src/test/java/coordinate/domain/figure/FigureFactoryTest.java" timestamp="1559012157097">
         <mark key="[" line="59" column="124" />
@@ -1540,40 +1540,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJib2R5OiAiICsgcmVxLmJvZHkoKSk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>html</text>
+        <text>username</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlIGdyb3VwOiAnanVuaXQnLCBuYW1lOiAnanVuaXQnLCB2ZXJzaW9uOiAnNC4xMicK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ1c2VybmFtZTogIiArIHBhcmFtcy5nZXQoInVzZXJuYW1lIikpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJlbWFpbDogIiArIHJlcS5hdHRyaWJ1dGUoImVtYWlsIikpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBwYXJhbXMgPSByZXEuYm9keSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEFic3RyYWN0UGl6emFGYWN0b3J5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmxvZyhMZXZlbC5JTkZPLCAiZW1haWw6IHt9IiwgbmV3IE9iamVjdFtdIHtyZXEuYXR0cmlidXRlKCJlbWFpbCIpfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZ1biBjcmVhdGVQaXp6YSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmxvZyhMZXZlbC5JTkZPLCAidXNlcm5hbWU6IHt9IiwgbmV3IE9iamVjdFtdIHtyZXEuYXR0cmlidXRlKCJ1c2VybmFtZSIpfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGdldCgiLyIsIChyZXEsIHJlcykgLT4gbmV3IE1vZGVsQW5kVmlldyhudWxsLCAiaW5kZXguaHRtbCIpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgQ2xpZW50IHsKCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlIGdyb3VwOiAnanVuaXQnLCBuYW1lOiAnanVuaXQnLCB2ZXJzaW9uOiAnNC4xMicK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorUpWithSelection</text>
+        <text>action EditorLeftWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>html</text>
+        <text>username</text>
       </register>
     </registers>
     <search>
@@ -1585,8 +1585,8 @@
       <history-cmd>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
-        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
