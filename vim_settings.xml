@@ -1421,11 +1421,11 @@
       <file name="$USER_HOME$/Documents/Github/java-coordinate/src/test/java/com/woowacourse/coordinate/domain/PointGroup.java" timestamp="1558658104636">
         <mark key="[" line="2" column="25" />
       </file>
-      <file name="C:/Workspace/java/spark-java-ex/src/main/java/kr/latera/sparkjavaex/AppMain.java" timestamp="1559180762237">
-        <mark key="[" line="22" column="30" />
-        <mark key="]" line="22" column="29" />
-        <mark key="." line="22" column="29" />
-        <mark key="^" line="22" column="29" />
+      <file name="C:/Workspace/java/spark-java-ex/src/main/java/kr/latera/sparkjavaex/AppMain.java" timestamp="1559283536955">
+        <mark key="[" line="34" column="31" />
+        <mark key="]" line="35" column="29" />
+        <mark key="." line="35" column="29" />
+        <mark key="^" line="35" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-coordinate/src/test/java/coordinate/domain/figure/FigureFactoryTest.java" timestamp="1559012157097">
         <mark key="[" line="59" column="124" />
@@ -1558,7 +1558,7 @@
         <text encoding="base64">ICAgICAgICBpbnQgaW5pdGlhbE1vbmV5ID0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>i</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBuZXcgSlNPTlBhcnNlcihqc29uU3RyKS5wYXJzZSgpCg==</text>
@@ -1588,7 +1588,7 @@
         <text>action EditorDownWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>i</text>
       </register>
     </registers>
     <search>
