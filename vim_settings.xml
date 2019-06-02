@@ -426,11 +426,11 @@
         <mark key="." line="26" column="64" />
         <mark key="^" line="26" column="64" />
       </file>
-      <file name="D:/Dev/java/selenium-ex/src/test/kotlin/kr/latera/seleniumex/ScrapeTest.kt" timestamp="1559406421079">
-        <mark key="[" line="21" column="54" />
-        <mark key="]" line="21" column="53" />
-        <mark key="^" line="21" column="53" />
-        <mark key="." line="21" column="53" />
+      <file name="D:/Dev/java/selenium-ex/src/test/kotlin/kr/latera/seleniumex/ScrapeTest.kt" timestamp="1559435103434">
+        <mark key="[" line="22" column="26" />
+        <mark key="]" line="22" column="24" />
+        <mark key="." line="22" column="24" />
+        <mark key="^" line="22" column="24" />
       </file>
       <file name="C:/Workspace/java/kt-design-pattern/src/main/kotlin/kr/latera/designpattern/abstractfactory/AbstractDough.kt" timestamp="1559110380957">
         <mark key="[" line="2" column="0" />
@@ -1559,34 +1559,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25zLnNldEJpbmFyeShGaWxlKCJEOlxcRGV2XFxqYXZhXFxzZWxlbml1bS1leFxcY2hyb21lZHJpdmVyLmV4ZSIpKQo=</text>
+        <text encoding="base64">ICAgICAgICB3ZC5maW5kRWxlbWVudEJ5Q3NzU2VsZWN0b3IoIiIpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25zLnNldEJpbmFyeShGaWxlKCJEOlxcRGV2XFxqYXZhXFxzZWxlbml1bS1leFxcY2hyb21lZHJpdmVyLmV4ZSIpKQo=</text>
+        <text encoding="base64">ICAgICAgICB3ZC5maW5kRWxlbWVudEJ5Q3NzU2VsZWN0b3IoIiIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25zLmFkZEFyZ3VtZW50cygpCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25zLmFkZEFyZ3VtZW50cygpCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmZpbGUuRmlsZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaW5pdGlhbE1vbmV5ID0K</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb25zLnNldEJpbmFyeShGaWxlKCJEOlxcRGV2XFxqYXZhXFxzZWxlbml1bS1leFxcY2hyb21lZHJpdmVyLmV4ZSIpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSlNPTlBhcnNlcihqc29uU3RyKS5wYXJzZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb25zLmFkZEFyZ3VtZW50cygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSnNvblBhcnNlcigpLnBhcnNlVmFsdWUoanNvblN0cik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb25zLmFkZEFyZ3VtZW50cygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGludCBoZWlnaHQ7CiAgICBpbnQgd2VpZ2h0Owo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgaW5pdGlhbE1vbmV5ID0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGludCBoZWlnaHQ7CiAgICBpbnQgd2VpZ2h0Owo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgSlNPTlBhcnNlcihqc29uU3RyKS5wYXJzZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJib2R5OiAiICsgcmVxLmJvZHkoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgSnNvblBhcnNlcigpLnBhcnNlVmFsdWUoanNvblN0cik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorLeftWithSelection</text>
