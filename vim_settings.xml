@@ -1168,11 +1168,11 @@
         <mark key="^" line="11" column="32" />
         <mark key="." line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/lotto/WebUILottoApplication.java" timestamp="1559608219657">
-        <mark key="[" line="16" column="38" />
-        <mark key="]" line="16" column="35" />
-        <mark key="^" line="16" column="35" />
-        <mark key="." line="16" column="35" />
+      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/lotto/WebUILottoApplication.java" timestamp="1559608925352">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="57" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/ParticipantGroup.java" timestamp="1557977359343">
         <mark key="[" line="15" column="0" />
@@ -1559,34 +1559,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaW5pdGlhbE1vbmV5ID0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwucHV0KCJuYW1lIiwgImpvaG4iKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwucHV0KCJuYW1lIiwgImpvaG4iKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSlNPTlBhcnNlcihqc29uU3RyKS5wYXJzZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgaW5pdGlhbE1vbmV5ID0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSnNvblBhcnNlcigpLnBhcnNlVmFsdWUoanNvblN0cik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgSlNPTlBhcnNlcihqc29uU3RyKS5wYXJzZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGludCBoZWlnaHQ7CiAgICBpbnQgd2VpZ2h0Owo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgSnNvblBhcnNlcigpLnBhcnNlVmFsdWUoanNvblN0cik7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIGludCBoZWlnaHQ7CiAgICBpbnQgd2VpZ2h0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJib2R5OiAiICsgcmVxLmJvZHkoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGludCBoZWlnaHQ7CiAgICBpbnQgd2VpZ2h0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ1c2VybmFtZTogIiArIHBhcmFtcy5nZXQoInVzZXJuYW1lIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJib2R5OiAiICsgcmVxLmJvZHkoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJlbWFpbDogIiArIHJlcS5hdHRyaWJ1dGUoImVtYWlsIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ1c2VybmFtZTogIiArIHBhcmFtcy5nZXQoInVzZXJuYW1lIikpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBwYXJhbXMgPSByZXEuYm9keSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJlbWFpbDogIiArIHJlcS5hdHRyaWJ1dGUoImVtYWlsIikpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDownWithSelection</text>
