@@ -1183,11 +1183,11 @@
         <mark key="^" line="11" column="32" />
         <mark key="." line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/lotto/WebUILottoApplication.java" timestamp="1559608925352">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="17" column="57" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/lotto/WebUILottoApplication.java" timestamp="1559626966536">
+        <mark key="[" line="32" column="62" />
+        <mark key="]" line="32" column="59" />
+        <mark key="^" line="32" column="59" />
+        <mark key="." line="32" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/ParticipantGroup.java" timestamp="1557977359343">
         <mark key="[" line="15" column="0" />
@@ -1583,7 +1583,7 @@
         <text encoding="base64">ICAgICAgICB1c2VyLnNldE5hbWUoImNoYW5nZWRVc2VyTmFtZSIpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text>value</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSBuZXcgVXNlcigidGVzdFVzZXJJZCIsICJ0ZXN0VXNlck5hbWUiKTsK</text>
@@ -1613,7 +1613,7 @@
         <text>action EditorRightWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text>value</text>
       </register>
     </registers>
     <search>
