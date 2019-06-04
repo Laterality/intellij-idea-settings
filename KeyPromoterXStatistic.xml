@@ -193,6 +193,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ConsoleUILottoApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ConsoleUILottoApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'InputValidatorTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
