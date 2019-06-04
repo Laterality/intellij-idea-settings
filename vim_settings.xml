@@ -483,6 +483,12 @@
         <mark key="^" line="19" column="13" />
         <mark key="." line="19" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/jdbc-example/src/test/java/com/woowacourse/jdbcexample/UserDAOTest.java" timestamp="1559615403901">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/PlayerImpl.java" timestamp="1553338177103">
         <mark key="[" line="35" column="44" />
         <mark key="]" line="35" column="30" />
@@ -848,6 +854,9 @@
         <mark key="^" line="8" column="10" />
         <mark key="." line="9" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/jdbc-example/build.gradle" timestamp="1559614848106">
+        <mark key="[" line="13" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-coordinate/src/main/java/coordinate/domain/figure/FigureKind.java" timestamp="1559012414869">
         <mark key="[" line="17" column="25" />
         <mark key="]" line="17" column="25" />
@@ -1095,6 +1104,12 @@
         <mark key="]" line="20" column="45" />
         <mark key="^" line="20" column="45" />
         <mark key="." line="20" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/jdbc-example/src/main/java/com/woowacourse/jdbcexample/UserDAO.java" timestamp="1559615626785">
+        <mark key="[" line="47" column="43" />
+        <mark key="]" line="48" column="29" />
+        <mark key="^" line="48" column="29" />
+        <mark key="." line="48" column="29" />
       </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/interfaces/UserInterface.java" timestamp="1553849721575">
         <mark key="[" line="7" column="10" />
@@ -1521,6 +1536,12 @@
         <mark key="^" line="43" column="66" />
         <mark key="." line="43" column="66" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/jdbc-example/src/main/java/com/woowacourse/jdbcexample/User.java" timestamp="1559615611087">
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+      </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/RandomNumberGenerator.java" timestamp="1553851513182">
         <mark key="[" line="12" column="39" />
         <mark key="]" line="12" column="46" />
@@ -1561,8 +1582,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbW9kZWwucHV0KCJuYW1lIiwgImpvaG4iKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwucHV0KCJuYW1lIiwgImpvaG4iKTsK</text>
+      <register name="&quot;" type="4">
+        <text>root</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBpbnQgaW5pdGlhbE1vbmV5ID0K</text>
@@ -1589,10 +1610,10 @@
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJlbWFpbDogIiArIHJlcS5hdHRyaWJ1dGUoImVtYWlsIikpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDownWithSelection</text>
+        <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>root</text>
       </register>
     </registers>
     <search>
@@ -1604,8 +1625,8 @@
       <history-cmd>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
