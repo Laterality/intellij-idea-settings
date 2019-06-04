@@ -54,11 +54,11 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-lotto-1/README.md" timestamp="1559027418489">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="7" />
-        <mark key="^" line="8" column="7" />
-        <mark key="." line="8" column="7" />
+      <file name="$USER_HOME$/Documents/Github/java-lotto-1/README.md" timestamp="1559637359165">
+        <mark key="[" line="27" column="68" />
+        <mark key="]" line="27" column="38" />
+        <mark key="^" line="27" column="38" />
+        <mark key="." line="27" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/stringcalculator/StringProcessor.java" timestamp="1557801348344">
         <mark key="[" line="8" column="44" />
@@ -1582,8 +1582,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlbmRlcihtb2RlbCwgImluZGV4Lmh0bWwiKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlbmRlcihtb2RlbCwgImluZGV4Lmh0bWwiKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB1c2VyLnNldE5hbWUoImNoYW5nZWRVc2VyTmFtZSIpOwo=</text>
@@ -1613,7 +1613,7 @@
         <text>action EditorRightWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
