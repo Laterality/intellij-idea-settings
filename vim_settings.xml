@@ -657,6 +657,12 @@
         <mark key="^" line="26" column="29" />
         <mark key="." line="26" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/controller/LottoWebController.java" timestamp="1559695559622">
+        <mark key="[" line="58" column="60" />
+        <mark key="]" line="58" column="60" />
+        <mark key="^" line="58" column="60" />
+        <mark key="." line="58" column="60" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaracingcar/RacingcarModelTest.java" timestamp="1557370936243">
         <mark key="[" line="43" column="34" />
         <mark key="]" line="2" column="0" />
@@ -1577,7 +1583,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlbmRlcihtb2RlbCwgImluZGV4Lmh0bWwiKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB1c2VyLnNldE5hbWUoImNoYW5nZWRVc2VyTmFtZSIpOwo=</text>
@@ -1607,7 +1613,7 @@
         <text>action EditorRightWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
     </registers>
     <search>
