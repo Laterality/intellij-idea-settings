@@ -1301,8 +1301,8 @@
         <mark key="^" line="25" column="49" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/controller/LottoWebController.java" timestamp="1559788253219">
-        <mark key="[" line="66" column="5" />
+      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/controller/LottoWebController.java" timestamp="1559795098777">
+        <mark key="[" line="72" column="82" />
         <mark key="]" line="17" column="41" />
         <mark key="^" line="17" column="41" />
         <mark key="." line="17" column="41" />
@@ -1619,6 +1619,9 @@
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="31" />
       </file>
+      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/domain/dto/AggregationDto.java" timestamp="1559795501926">
+        <mark key="[" line="15" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-coordinate/src/main/java/coordinate/domain/Point.java" timestamp="1559011126756">
         <mark key="[" line="18" column="18" />
         <mark key="]" line="18" column="47" />
@@ -1718,9 +1721,9 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
       </history-cmd>
       <history-expr />
