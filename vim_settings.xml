@@ -447,6 +447,9 @@
         <mark key="." line="26" column="64" />
         <mark key="^" line="26" column="64" />
       </file>
+      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/domain/dto/AggregationWithLottoDto.java" timestamp="1559788897784">
+        <mark key="[" line="2" column="38" />
+      </file>
       <file name="D:/Dev/java/selenium-ex/src/test/kotlin/kr/latera/seleniumex/ScrapeTest.kt" timestamp="1559435103434">
         <mark key="[" line="22" column="26" />
         <mark key="]" line="22" column="24" />
@@ -774,8 +777,11 @@
         <mark key="^" line="29" column="94" />
         <mark key="." line="29" column="92" />
       </file>
-      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/lotto/WebUILottoApplication.java" timestamp="1559781746727">
-        <mark key="[" line="13" column="14" />
+      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/lotto/WebUILottoApplication.java" timestamp="1559788478868">
+        <mark key="[" line="15" column="59" />
+        <mark key="]" line="15" column="58" />
+        <mark key="^" line="15" column="58" />
+        <mark key="." line="15" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcarwithoutif/domain/Car.java" timestamp="1557454009863">
         <mark key="[" line="12" column="21" />
@@ -1292,8 +1298,8 @@
         <mark key="^" line="25" column="49" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/controller/LottoWebController.java" timestamp="1559659477750">
-        <mark key="[" line="17" column="41" />
+      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/controller/LottoWebController.java" timestamp="1559788253219">
+        <mark key="[" line="66" column="5" />
         <mark key="]" line="17" column="41" />
         <mark key="^" line="17" column="41" />
         <mark key="." line="17" column="41" />
@@ -1465,6 +1471,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="4" column="25" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="D:/Dev/GitHub/java-lotto-1/src/test/java/com/woowacourse/lotto/domain/dao/AggregationDaoTest.java" timestamp="1559788864367">
+        <mark key="[" line="70" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/Utility.java" timestamp="1553263997159">
         <mark key="[" line="16" column="42" />
