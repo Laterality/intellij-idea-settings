@@ -700,7 +700,7 @@
         <mark key="^" line="26" column="29" />
         <mark key="." line="26" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/controller/LottoWebController.java" timestamp="1560152238988">
+      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/controller/LottoWebController.java" timestamp="1560154359494">
         <mark key="[" line="102" column="7" />
         <mark key="]" line="102" column="7" />
         <mark key="^" line="218" column="50" />
@@ -1245,11 +1245,11 @@
         <mark key="^" line="11" column="32" />
         <mark key="." line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/lotto/WebUILottoApplication.java" timestamp="1560151304559">
-        <mark key="[" line="17" column="29" />
-        <mark key="]" line="17" column="30" />
-        <mark key="^" line="17" column="30" />
-        <mark key="." line="17" column="30" />
+      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/lotto/WebUILottoApplication.java" timestamp="1560154102366">
+        <mark key="[" line="17" column="91" />
+        <mark key="]" line="15" column="27" />
+        <mark key="^" line="15" column="27" />
+        <mark key="." line="15" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/ParticipantGroup.java" timestamp="1557977359343">
         <mark key="[" line="15" column="0" />
@@ -1661,37 +1661,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>자</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uID0gQ29ubmVjdGlvbkZhY3RvcnkuZ2V0Q29ubmVjdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25uID0gQ29ubmVjdGlvbkZhY3RvcnkuZ2V0Q29ubmVjdGlvbigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGdldFdpbm5pbmdOdW1iZXIK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMb3R0b0R0byB0b0luc2VydCA9IG5ldyBMb3R0b0R0bygpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGdldFdpbm5pbmdOdW1iZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMb3R0byBsID0gTG90dG9GYWN0b3J5LmNyZWF0ZUxvdHRvKExvdHRvTnVtYmVyLm9mKEFycmF5cy5hc0xpc3QoMSwgMiwgMywgNCwgNSwgNikpKTsK</text>
+        <text encoding="base64">ICAgICAgICBMb3R0b0R0byB0b0luc2VydCA9IG5ldyBMb3R0b0R0bygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGluc2VydGVkOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb3R0byBsID0gTG90dG9GYWN0b3J5LmNyZWF0ZUxvdHRvKExvdHRvTnVtYmVyLm9mKEFycmF5cy5hc0xpc3QoMSwgMiwgMywgNCwgNSwgNikpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgU0VMRUNUX09ORV9MQVRFU1Q9ICJTRUxFQ1QgKiBGUk9NIGxvdHRvIE9SREVSIEJZIHJlZ19kYXRlIExJTUlUIDEiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGluc2VydGVkOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorUpWithSelection</text>
+        <text>action EditorDownWithSelection</text>
       </register>
       <register name="-" type="4">
         <text>자</text>
@@ -1705,9 +1705,9 @@
       <history-search />
       <history-cmd>
         <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorDownWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
