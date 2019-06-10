@@ -141,6 +141,12 @@
         <mark key="^" line="62" column="89" />
         <mark key="." line="62" column="89" />
       </file>
+      <file name="D:/Dev/java/Test Project/src/AppMain.java" timestamp="1560180055021">
+        <mark key="[" line="28" column="53" />
+        <mark key="]" line="29" column="39" />
+        <mark key="^" line="29" column="39" />
+        <mark key="." line="29" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/kotlin/com/woowacourse/stringadder/StringParser.kt" timestamp="1558482129558">
         <mark key="[" line="23" column="27" />
         <mark key="]" line="23" column="35" />
@@ -1381,11 +1387,11 @@
         <mark key="^" line="25" column="49" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/controller/LottoWebController.java" timestamp="1559816448857">
-        <mark key="[" line="190" column="9" />
-        <mark key="]" line="192" column="33" />
-        <mark key="^" line="192" column="33" />
-        <mark key="." line="192" column="33" />
+      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/controller/LottoWebController.java" timestamp="1560180065990">
+        <mark key="[" line="94" column="45" />
+        <mark key="]" line="94" column="43" />
+        <mark key="^" line="94" column="43" />
+        <mark key="." line="94" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/test/kotlin/com/woowacourse/ladder/domain/ParticipantGroupTest.kt" timestamp="1558399085048">
         <mark key="[" line="26" column="58" />
@@ -1781,8 +1787,8 @@
       <register name="1" type="2">
         <text encoding="base64">Pj4+Pj4+PiBMYXRlcmFsaXR5Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBMYXRlcmFsaXR5Cg==</text>
+      <register name="&quot;" type="4">
+        <text>of</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZGQ9Cg==</text>
@@ -1812,7 +1818,7 @@
         <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>FIFTH</text>
+        <text>of</text>
       </register>
     </registers>
     <search>
