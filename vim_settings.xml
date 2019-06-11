@@ -1266,6 +1266,12 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/persistence/dto/AggregationDto.java" timestamp="1560229892912">
+        <mark key="[" line="97" column="5" />
+        <mark key="]" line="99" column="0" />
+        <mark key="^" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/test/java/com/woowacourse/ladder/domain/LadderResultTest.java" timestamp="1558071604648">
         <mark key="[" line="23" column="55" />
         <mark key="]" line="23" column="59" />
@@ -1797,7 +1803,7 @@
         <text encoding="base64">ICAgICAgICBsb3R0b0Rhby5hZGRMb3R0byhjcmVhdGVMb3R0b0R0bygxLCAyLCAzLCA0LCA1LCA2KSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorRightWithSelection</text>
+        <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
         <text>res</text>
@@ -1812,8 +1818,8 @@
       <history-cmd>
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
