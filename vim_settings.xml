@@ -45,8 +45,14 @@
         <mark key="^" line="23" column="67" />
         <mark key="." line="23" column="67" />
       </file>
-      <file name="/a.dummy" timestamp="1559868000133">
+      <file name="/a.dummy" timestamp="1559883084776">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/lotto/ConsoleUILottoApplication.java" timestamp="1559881965531">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="20" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/test/kotlin/com/woowacourse/stringadder/AdderTest.java" timestamp="1558329692731">
         <mark key="[" line="7" column="4" />
@@ -135,11 +141,23 @@
         <mark key="^" line="62" column="89" />
         <mark key="." line="62" column="89" />
       </file>
+      <file name="D:/Dev/java/Test Project/src/AppMain.java" timestamp="1560180055021">
+        <mark key="[" line="28" column="53" />
+        <mark key="]" line="29" column="39" />
+        <mark key="^" line="29" column="39" />
+        <mark key="." line="29" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/kotlin/com/woowacourse/stringadder/StringParser.kt" timestamp="1558482129558">
         <mark key="[" line="23" column="27" />
         <mark key="]" line="23" column="35" />
         <mark key="." line="23" column="35" />
         <mark key="^" line="23" column="35" />
+      </file>
+      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/domain/LottoResult.java" timestamp="1559868531144">
+        <mark key="[" line="41" column="32" />
+        <mark key="]" line="41" column="36" />
+        <mark key="^" line="41" column="36" />
+        <mark key="." line="41" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/ResultQueryProcessor.java" timestamp="1557912724203">
         <mark key="[" line="7" column="5" />
@@ -279,10 +297,6 @@
         <mark key="^" line="20" column="22" />
         <mark key="." line="20" column="22" />
       </file>
-      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/persistence/dto/LottoDto.java" timestamp="1559806214210">
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Github/java-movie/src/test/java/service/PaymentServiceTest.java" timestamp="1555394683714">
         <mark key="[" line="11" column="32" />
         <mark key="]" line="11" column="91" />
@@ -303,12 +317,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/kotlin/com/woowacourse/ladder/domain/BooleanGenerator.kt" timestamp="1558337427078">
         <mark key="[" line="2" column="0" />
-      </file>
-      <file name="D:/Dev/GitHub/java-lotto-1/src/test/java/com/woowacourse/lotto/domain/LottoTest.java" timestamp="1559808144712">
-        <mark key="[" line="31" column="115" />
-        <mark key="]" line="29" column="23" />
-        <mark key="." line="29" column="23" />
-        <mark key="^" line="29" column="23" />
       </file>
       <file name="D:/Dev/java/spring-security-demo/src/main/java/kr/latera/springsecuritydemo/SpringSecurityDemoApplication.java" timestamp="1554820648452">
         <mark key="[" line="8" column="43" />
@@ -400,12 +408,6 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/test/java/com/woowacourse/lotto/persistence/dao/AggregationDaoTest.java" timestamp="1560221541908">
-        <mark key="[" line="117" column="30" />
-        <mark key="]" line="117" column="30" />
-        <mark key="." line="117" column="30" />
-        <mark key="^" line="116" column="30" />
-      </file>
       <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/controller/LottoWebUIController.java" timestamp="1559659194966">
         <mark key="[" line="8" column="35" />
         <mark key="]" line="8" column="29" />
@@ -420,12 +422,6 @@
         <mark key="]" line="26" column="42" />
         <mark key="." line="26" column="42" />
         <mark key="^" line="26" column="42" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/persistence/dao/WinningLottoDao.java" timestamp="1560236563548">
-        <mark key="[" line="46" column="15" />
-        <mark key="]" line="46" column="15" />
-        <mark key="." line="46" column="15" />
-        <mark key="^" line="46" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcar/domain/RacingcarGame.java" timestamp="1557793090100">
         <mark key="[" line="32" column="51" />
@@ -468,6 +464,9 @@
         <mark key="]" line="18" column="11" />
         <mark key="^" line="18" column="11" />
         <mark key="." line="18" column="11" />
+      </file>
+      <file name="D:/Dev/GitHub/java-lotto-1/src/test/java/com/woowacourse/lotto/domain/LottoQuantityTest.java" timestamp="1559868249602">
+        <mark key="[" line="21" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcarwithoutif/ConsoleUserInterface.java" timestamp="1557466859844">
         <mark key="[" line="56" column="27" />
@@ -514,6 +513,12 @@
         <mark key="^" line="9" column="4" />
         <mark key="." line="9" column="4" />
       </file>
+      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/domain/LottoNumber.java" timestamp="1559875518238">
+        <mark key="[" line="45" column="48" />
+        <mark key="]" line="45" column="46" />
+        <mark key="." line="45" column="46" />
+        <mark key="^" line="45" column="46" />
+      </file>
       <file name="C:/Workspace/java/learningtest/build.gradle" timestamp="1557496326349">
         <mark key="[" line="15" column="22" />
         <mark key="]" line="15" column="22" />
@@ -540,12 +545,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Github/java-coordinate/src/main/java/coordinate/FigureKind.java" timestamp="1558667174134">
         <mark key="[" line="2" column="24" />
-      </file>
-      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/domain/WinningLotto.java" timestamp="1559807114489">
-        <mark key="[" line="34" column="41" />
-        <mark key="]" line="35" column="18" />
-        <mark key="." line="35" column="18" />
-        <mark key="^" line="35" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcarwithoutif/RacingcarController.java" timestamp="1557459112613">
         <mark key="[" line="20" column="8" />
@@ -610,12 +609,6 @@
         <mark key="." line="19" column="125" />
         <mark key="^" line="19" column="125" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/service/LottoService.java" timestamp="1560236488742">
-        <mark key="[" line="73" column="77" />
-        <mark key="]" line="73" column="77" />
-        <mark key="^" line="73" column="76" />
-        <mark key="." line="73" column="77" />
-      </file>
       <file name="C:/Workspace/java/kt-design-pattern/src/main/kotlin/kr/latera/designpattern/abstractfactory/ThinDough.kt" timestamp="1559110462517">
         <mark key="[" line="3" column="36" />
         <mark key="]" line="5" column="0" />
@@ -639,11 +632,6 @@
         <mark key="]" line="9" column="36" />
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="36" />
-      </file>
-      <file name="D:/Dev/GitHub/nmap-place-crawler/src/main/kotlin/kr/latera/nmapplacecrawler/domain/Place.kt" timestamp="1559471939179">
-        <mark key="]" line="6" column="15" />
-        <mark key="^" line="6" column="15" />
-        <mark key="." line="6" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcar/interfaces/NumberGenerator.java" timestamp="1557456538480">
         <mark key="[" line="6" column="4" />
@@ -753,11 +741,6 @@
         <mark key="^" line="26" column="29" />
         <mark key="." line="26" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/controller/LottoWebController.java" timestamp="1560238728451">
-        <mark key="[" line="236" column="39" />
-        <mark key="]" line="236" column="39" />
-        <mark key="." line="236" column="39" />
-      </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaracingcar/RacingcarModelTest.java" timestamp="1557370936243">
         <mark key="[" line="43" column="34" />
         <mark key="]" line="2" column="0" />
@@ -769,6 +752,9 @@
         <mark key="]" line="34" column="69" />
         <mark key="." line="34" column="69" />
         <mark key="^" line="34" column="69" />
+      </file>
+      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/domain/LottoQuantity.java" timestamp="1559868222768">
+        <mark key="[" line="25" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/JudgeImpl.java" timestamp="1553337366514">
         <mark key="[" line="34" column="17" />
@@ -806,6 +792,11 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="8" column="31" />
       </file>
+      <file name="C:/Workspace/java/spark-java-ex/build.gradle" timestamp="1559112773622">
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="C:/Workspace/java/woowacourse-offline/src/main/java/kr/latera/woowacourseoffline/TestClass.java" timestamp="1555390618699">
         <mark key="[" line="9" column="32" />
         <mark key="]" line="9" column="32" />
@@ -832,6 +823,12 @@
         <mark key="]" line="29" column="92" />
         <mark key="^" line="29" column="94" />
         <mark key="." line="29" column="92" />
+      </file>
+      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/lotto/WebUILottoApplication.java" timestamp="1560170853439">
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="24" column="12" />
+        <mark key="^" line="24" column="12" />
+        <mark key="." line="24" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcarwithoutif/domain/Car.java" timestamp="1557454009863">
         <mark key="[" line="12" column="21" />
@@ -868,6 +865,12 @@
         <mark key="]" line="21" column="61" />
         <mark key="^" line="21" column="61" />
         <mark key="." line="21" column="61" />
+      </file>
+      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/domain/WinningAggregator.java" timestamp="1559869480351">
+        <mark key="[" line="23" column="19" />
+        <mark key="]" line="18" column="45" />
+        <mark key="^" line="18" column="45" />
+        <mark key="." line="18" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/RandomBooleanGenerator.java" timestamp="1557906039321">
         <mark key="[" line="9" column="28" />
@@ -941,8 +944,14 @@
         <mark key="^" line="2" column="38" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1560233525189">
+      <file name="/fragment.java" timestamp="1559883081230">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Dev/GitHub/java-lotto-1/src/test/java/com/woowacourse/lotto/domain/LottoNumberTest.java" timestamp="1559874889011">
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="19" column="74" />
+        <mark key="^" line="19" column="74" />
+        <mark key="." line="19" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/Github/kt-test-app/build.gradle" timestamp="1558596648388">
         <mark key="[" line="14" column="42" />
@@ -991,6 +1000,12 @@
         <mark key="]" line="44" column="8" />
         <mark key="." line="44" column="8" />
         <mark key="^" line="45" column="14" />
+      </file>
+      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/view/ConsoleOutputView.java" timestamp="1559878959831">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="21" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="3" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/domain/WinningLotto.java" timestamp="1559096358968">
         <mark key="[" line="17" column="88" />
@@ -1102,6 +1117,11 @@
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/build.gradle" timestamp="1558329633947">
         <mark key="[" line="12" column="60" />
+      </file>
+      <file name="C:/Workspace/java/spark-java-ex/src/test/java/kr/latera/sparkjavaex/JSONParseTest.java" timestamp="1559180934897">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/StopOrGo.java" timestamp="1553854400742">
         <mark key="[" line="13" column="10" />
@@ -1265,18 +1285,6 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/persistence/dao/LottoDao.java" timestamp="1560235798061">
-        <mark key="'" line="97" column="8" />
-        <mark key="[" line="50" column="5" />
-        <mark key="]" line="48" column="29" />
-        <mark key="." line="48" column="29" />
-        <mark key="^" line="48" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/persistence/dto/AggregationDto.java" timestamp="1560236404247">
-        <mark key="]" line="99" column="0" />
-        <mark key="^" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/test/java/com/woowacourse/ladder/domain/LadderResultTest.java" timestamp="1558071604648">
         <mark key="[" line="23" column="55" />
         <mark key="]" line="23" column="59" />
@@ -1337,11 +1345,11 @@
         <mark key="^" line="11" column="32" />
         <mark key="." line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/lotto/WebUILottoApplication.java" timestamp="1560226250302">
-        <mark key="[" line="19" column="74" />
-        <mark key="]" line="19" column="24" />
-        <mark key="^" line="19" column="24" />
-        <mark key="." line="19" column="24" />
+      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/lotto/WebUILottoApplication.java" timestamp="1559608925352">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="57" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/ParticipantGroup.java" timestamp="1557977359343">
         <mark key="[" line="15" column="0" />
@@ -1379,11 +1387,11 @@
         <mark key="^" line="25" column="49" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/controller/LottoWebController.java" timestamp="1559816448857">
-        <mark key="[" line="190" column="9" />
-        <mark key="]" line="192" column="33" />
-        <mark key="^" line="192" column="33" />
-        <mark key="." line="192" column="33" />
+      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/controller/LottoWebController.java" timestamp="1560180065990">
+        <mark key="[" line="94" column="45" />
+        <mark key="]" line="94" column="43" />
+        <mark key="^" line="94" column="43" />
+        <mark key="." line="94" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/test/kotlin/com/woowacourse/ladder/domain/ParticipantGroupTest.kt" timestamp="1558399085048">
         <mark key="[" line="26" column="58" />
@@ -1490,11 +1498,10 @@
         <mark key="^" line="31" column="82" />
         <mark key="." line="31" column="82" />
       </file>
-      <file name="D:/Dev/GitHub/java-lotto-1/src/test/java/com/woowacourse/lotto/domain/WinningLottoTest.java" timestamp="1559806953198">
-        <mark key="[" line="42" column="60" />
-        <mark key="]" line="42" column="60" />
-        <mark key="^" line="42" column="60" />
-        <mark key="." line="42" column="60" />
+      <file name="D:/Dev/GitHub/java-lotto-1/src/test/java/com/woowacourse/lotto/domain/WinningLottoTest.java" timestamp="1559882103800">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/RandomNumberGenerator.java" timestamp="1559023967844">
         <mark key="[" line="15" column="52" />
@@ -1526,11 +1533,6 @@
         <mark key="^" line="24" column="37" />
         <mark key="." line="24" column="37" />
       </file>
-      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/domain/Lotto.java" timestamp="1559808268589">
-        <mark key="]" line="2" column="8" />
-        <mark key="^" line="2" column="8" />
-        <mark key="." line="2" column="8" />
-      </file>
       <file name="$USER_HOME$/Documents/Github/java-coordinate/src/main/java/coordinate/domain/figure/FigureFactory.java" timestamp="1559011518066">
         <mark key="[" line="20" column="53" />
         <mark key="]" line="20" column="52" />
@@ -1557,6 +1559,11 @@
         <mark key="]" line="42" column="29" />
         <mark key="^" line="42" column="29" />
         <mark key="." line="42" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/view/ConsoleInputView.java" timestamp="1559096469868">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="C:/Workspace/java/kt-design-pattern/src/main/kotlin/kr/latera/designpattern/abstractfactory/AbstractPizzaFactory.kt" timestamp="1559110561191">
         <mark key="[" line="4" column="23" />
@@ -1775,45 +1782,43 @@
       <jump line="59" column="38" filename="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcarwithoutif/RacingcarUtil.java" />
       <jump line="72" column="129" filename="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/domain/dao/AggregationDao.java" />
       <jump line="77" column="0" filename="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/domain/dao/AggregationDao.java" />
-      <jump line="72" column="58" filename="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/persistence/dao/LottoDao.java" />
-      <jump line="73" column="8" filename="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/persistence/dao/LottoDao.java" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxBZ2dyZWdhdGlvbkR0bz4gYWdncyA9IDsK</text>
+        <text encoding="base64">Pj4+Pj4+PiBMYXRlcmFsaXR5Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>aggs</text>
+        <text>of</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSXRlcmF0b3I8QWdncmVnYXRpb25EdG8+IGl0ID0gYWdncy5pdGVyYXRvcigpOwo=</text>
+        <text encoding="base64">ZGQ9Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGR0bzsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgYXNzZXJ0VGhyb3dzKElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbi5jbGFzcywgKCkgLT4gbmV3IFdpbm5pbmdMb3R0byhMb3R0b051bWJlckdyb3VwLm9mKHdpbm5pbmdOdW1zKSwgNDIpKTsKICAgIH0KCiAgICBAVGVzdAogICAgdm9pZCBjb252ZXJ0VG9EdG8oKSB7CiAgICAgICAgV2lubmluZ0xvdHRvIHdpbm5pbmdMb3R0byA9IG5ldyBXaW5uaW5nTG90dG8oTG90dG9OdW1iZXJHcm91cC5vZihBcnJheXMuYXNMaXN0KDEsIDIsIDMsIDQsIDUsIDYpKSwgNyk7CiAgICAgICAgV2lubmluZ0xvdHRvRHRvIGR0byA9IHdpbm5pbmdMb3R0by50b0R0bygpOwogICAgICAgIGFzc2VydFRoYXQoZHRvLmdldFdpbm5pbmdOdW1iZXIwKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KGR0by5nZXRXaW5uaW5nTnVtYmVyMSgpKS5pc0VxdWFsVG8oMik7CiAgICAgICAgYXNzZXJ0VGhhdChkdG8uZ2V0V2lubmluZ051bWJlcjIoKSkuaXNFcXVhbFRvKDMpOwogICAgICAgIGFzc2VydFRoYXQoZHRvLmdldFdpbm5pbmdOdW1iZXIzKCkpLmlzRXF1YWxUbyg0KTsKICAgICAgICBhc3NlcnRUaGF0KGR0by5nZXRXaW5uaW5nTnVtYmVyNCgpKS5pc0VxdWFsVG8oNSk7CiAgICAgICAgYXNzZXJ0VGhhdChkdG8uZ2V0V2lubmluZ0JvbnVzTnVtYmVyKCkpLmlzRXF1YWxUbyg3KTsKPT09PT09</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG1hcFJlc3VsdHMocnMpOwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBMYXRlcmFsaXR5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBMYXRlcmFsaXR5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBMYXRlcmFsaXR5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMb3R0b0R0byBkdG8gPSBuZXcgTG90dG9EdG8oKTsK</text>
+        <text encoding="base64">Pj4+Pj4+PiBMYXRlcmFsaXR5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkdG8uc2V0SWQocnMuZ2V0TG9uZygiaWQiKSk7Cg==</text>
+        <text encoding="base64">PGQ9PQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFwUmVzdWx0KHJzKTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">PDw8PDw8IEhFQUQKICAgIH0KCiAgICBAVGVzdAogICAgdm9pZCBjcmVhdGVXaXRoTG90dG9EdG8oKSB7CiAgICAgICAgTG90dG9EdG8gZHRvID0gbmV3IExvdHRvRHRvKCk7CiAgICAgICAgZHRvLnNldE51bWJlcjAoMSk7CiAgICAgICAgZHRvLnNldE51bWJlcjEoMik7CiAgICAgICAgZHRvLnNldE51bWJlcjIoMyk7CiAgICAgICAgZHRvLnNldE51bWJlcjMoNCk7CiAgICAgICAgZHRvLnNldE51bWJlcjQoNSk7CiAgICAgICAgZHRvLnNldE51bWJlcjUoNik7CiAgICAgICAgTG90dG8gbG90dG8gPSBMb3R0by5mcm9tKGR0byk7CiAgICAgICAgYXNzZXJ0VGhhdChsb3R0bykuaXNFcXVhbFRvKExvdHRvRmFjdG9yeS5jcmVhdGVMb3R0byhMb3R0b051bWJlckdyb3VwLm9mKEFycmF5cy5hc0xpc3QoMSwgMiwgMywgNCwgNSwgNikpKSk7Cj09PT09</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorLeftWithSelection</text>
+        <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>aggs</text>
+        <text>of</text>
       </register>
     </registers>
     <search>
@@ -1824,9 +1829,9 @@
       <history-search />
       <history-cmd>
         <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
-        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
