@@ -400,6 +400,12 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/test/java/com/woowacourse/lotto/persistence/dao/AggregationDaoTest.java" timestamp="1560214757506">
+        <mark key="[" line="122" column="41" />
+        <mark key="]" line="123" column="20" />
+        <mark key="^" line="123" column="20" />
+        <mark key="." line="123" column="20" />
+      </file>
       <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/controller/LottoWebUIController.java" timestamp="1559659194966">
         <mark key="[" line="8" column="35" />
         <mark key="]" line="8" column="29" />
@@ -1745,38 +1751,38 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhZ2dyZWdhdG9yLmFkZFJlc3VsdCh3aW5uaW5nTG90dG8ubWF0Y2goKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkdG8uc2V0TnVtYmVyNigyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhZ2dyZWdhdG9yLmFkZFJlc3VsdCh3aW5uaW5nTG90dG8ubWF0Y2goKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkdG8uc2V0V2lubmluZ051bWJlcjAoKTsK</text>
+        <text encoding="base64">ICAgICAgICBkdG8uc2V0TnVtYmVyNigyKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IG51bWJlcjY7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzTWFwLnB1dCgicmVzdWx0IiwgUkVTVUxUX0VSUk9SKTsK</text>
+        <text encoding="base64">ICAgICAgICBkdG8uc2V0V2lubmluZ051bWJlcjAoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzTWFwLnB1dCgicmVzdWx0IiwgUkVTVUxUX0ZBSUwpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IG51bWJlcjY7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PExvdHRvPiBsb3R0b3MgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzTWFwLnB1dCgicmVzdWx0IiwgUkVTVUxUX0VSUk9SKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorRightWithSelection</text>
+        <text>action EditorLeftWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>0</text>
       </register>
     </registers>
     <search>
@@ -1786,10 +1792,10 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action EditorUpWithSelection</entry>
-        <entry>action EditorDownWithSelection</entry>
-        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
