@@ -1094,11 +1094,12 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/domain/LottoNumber.java" timestamp="1559292466492">
-        <mark key="[" line="45" column="15" />
-        <mark key="]" line="45" column="14" />
-        <mark key="." line="45" column="14" />
-        <mark key="^" line="45" column="14" />
+      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/domain/LottoNumber.java" timestamp="1560319865174">
+        <mark key="'" line="16" column="42" />
+        <mark key="[" line="17" column="40" />
+        <mark key="]" line="17" column="55" />
+        <mark key="." line="17" column="55" />
+        <mark key="^" line="17" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/.gitignore" timestamp="1558329941344">
         <mark key="[" line="0" column="0" />
@@ -1794,13 +1795,14 @@
       <jump line="59" column="38" filename="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcarwithoutif/RacingcarUtil.java" />
       <jump line="72" column="129" filename="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/domain/dao/AggregationDao.java" />
       <jump line="77" column="0" filename="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/domain/dao/AggregationDao.java" />
+      <jump line="16" column="42" filename="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/domain/LottoNumber.java" />
     </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBOdW1iZXJHZW5lcmF0b3IgbnVtYmVyR2VuZXJhdG9yID0gbmV3IFJhbmRvbU51bWJlckdlbmVyYXRvcihMb3R0b051bWJlci5MT1RUT19OVU1CRVJfTUlOLCBMb3R0b051bWJlci5MT1RUT19OVU1CRVJfTUFYKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>request</text>
+        <text>5</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLmZvckVhY2gobG90dG9zOjphZGQpOwo=</text>
@@ -1830,7 +1832,7 @@
         <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>request</text>
+        <text>5</text>
       </register>
     </registers>
     <search>
