@@ -45,7 +45,7 @@
         <mark key="^" line="23" column="67" />
         <mark key="." line="23" column="67" />
       </file>
-      <file name="/a.dummy" timestamp="1560305685324">
+      <file name="/a.dummy" timestamp="1560306517251">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/lotto/ConsoleUILottoApplication.java" timestamp="1559881965531">
@@ -741,11 +741,11 @@
         <mark key="^" line="26" column="29" />
         <mark key="." line="26" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/controller/LottoWebController.java" timestamp="1560305889410">
-        <mark key="[" line="112" column="5" />
-        <mark key="]" line="105" column="4" />
-        <mark key="." line="105" column="4" />
-        <mark key="^" line="105" column="4" />
+      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/controller/LottoWebController.java" timestamp="1560306611616">
+        <mark key="[" line="180" column="64" />
+        <mark key="]" line="180" column="75" />
+        <mark key="." line="180" column="75" />
+        <mark key="^" line="180" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaracingcar/RacingcarModelTest.java" timestamp="1557370936243">
         <mark key="[" line="43" column="34" />
@@ -1799,8 +1799,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBOdW1iZXJHZW5lcmF0b3IgbnVtYmVyR2VuZXJhdG9yID0gbmV3IFJhbmRvbU51bWJlckdlbmVyYXRvcihMb3R0b051bWJlci5MT1RUT19OVU1CRVJfTUlOLCBMb3R0b051bWJlci5MT1RUT19OVU1CRVJfTUFYKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBOdW1iZXJHZW5lcmF0b3IgbnVtYmVyR2VuZXJhdG9yID0gbmV3IFJhbmRvbU51bWJlckdlbmVyYXRvcihMb3R0b051bWJlci5MT1RUT19OVU1CRVJfTUlOLCBMb3R0b051bWJlci5MT1RUT19OVU1CRVJfTUFYKTsK</text>
+      <register name="&quot;" type="4">
+        <text>request</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLmZvckVhY2gobG90dG9zOjphZGQpOwo=</text>
@@ -1830,7 +1830,7 @@
         <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>lottos</text>
+        <text>request</text>
       </register>
     </registers>
     <search>
