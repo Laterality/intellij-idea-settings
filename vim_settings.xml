@@ -1136,8 +1136,11 @@
         <mark key="." line="39" column="62" />
         <mark key="^" line="39" column="62" />
       </file>
-      <file name="C:/Workspace/java/test-app/src/kr/latera/Main3.java" timestamp="1559202038923">
-        <mark key="[" line="6" column="1" />
+      <file name="C:/Workspace/java/test-app/src/kr/latera/Main3.java" timestamp="1560404161018">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/build.gradle" timestamp="1558329633947">
         <mark key="[" line="12" column="60" />
@@ -1852,7 +1855,7 @@
         <text encoding="base64">ICAgICAgICBURU1QX0xPVFRPLnNldAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDownWithSelection</text>
+        <text>action EditorLeftWithSelection</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -1866,9 +1869,9 @@
       <history-search />
       <history-cmd>
         <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
