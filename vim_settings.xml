@@ -372,6 +372,12 @@
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-study/src/main/java/techcourse/fp/mission/Calculator.java" timestamp="1560478442501">
+        <mark key="[" line="28" column="31" />
+        <mark key="]" line="28" column="23" />
+        <mark key="^" line="28" column="23" />
+        <mark key="." line="28" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/StreamUserInterfaceTest.java" timestamp="1553333002301">
         <mark key="[" line="13" column="2" />
         <mark key="]" line="11" column="9" />
@@ -1867,7 +1873,7 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorRightWithSelection</text>
+        <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -1882,8 +1888,8 @@
       <history-cmd>
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
