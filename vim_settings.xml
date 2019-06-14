@@ -372,11 +372,10 @@
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-study/src/main/java/techcourse/fp/mission/Calculator.java" timestamp="1560478855605">
-        <mark key="[" line="28" column="31" />
-        <mark key="]" line="28" column="23" />
-        <mark key="^" line="28" column="23" />
-        <mark key="." line="28" column="23" />
+      <file name="$USER_HOME$/Documents/Github/java-study/src/main/java/techcourse/fp/mission/Calculator.java" timestamp="1560481968027">
+        <mark key="]" line="7" column="47" />
+        <mark key="." line="7" column="47" />
+        <mark key="^" line="7" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/StreamUserInterfaceTest.java" timestamp="1553333002301">
         <mark key="[" line="13" column="2" />
@@ -944,11 +943,11 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-study/src/main/java/techcourse/fp/mission/StreamStudy.java" timestamp="1560480315534">
-        <mark key="[" line="35" column="13" />
-        <mark key="]" line="35" column="13" />
-        <mark key="." line="35" column="13" />
-        <mark key="^" line="32" column="53" />
+      <file name="$USER_HOME$/Documents/Github/java-study/src/main/java/techcourse/fp/mission/StreamStudy.java" timestamp="1560481770870">
+        <mark key="[" line="58" column="59" />
+        <mark key="]" line="58" column="69" />
+        <mark key="." line="58" column="69" />
+        <mark key="^" line="58" column="69" />
       </file>
       <file name="D:/Dev/GitHub/nmap-place-crawler/build.gradle" timestamp="1559470971616">
         <mark key="[" line="12" column="60" />
@@ -1849,40 +1848,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>intValue</text>
+        <text>total</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IHJlc3VsdCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmFkZCgyICogbnVtYmVyKTsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IHJlc3VsdCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmFkZCgyICogbnVtYmVyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IoSW50ZWdlciBudW1iZXI6IG51bWJlcnMpIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1hcFRvSW50KFN0cmluZzo6bGVuZ3RoKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IoSW50ZWdlciBudW1iZXI6IG51bWJlcnMpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uc3VuLmRlcGxveS50cmFjZS5UcmFjZS5wcmludDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm1hcFRvSW50KFN0cmluZzo6bGVuZ3RoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQoIi8qIiwgTG90dG9XZWJDb250cm9sbGVyOjppbmRleCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uc3VuLmRlcGxveS50cmFjZS5UcmFjZS5wcmludDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5uaW5nTG90dG9EYW8uZGVsZXRlQnlJZCh3aW5uaW5nSWQxKTsKICAgICAgICB3aW5uaW5nTG90dG9EYW8uZGVsZXRlQnlJZCh3aW5uaW5nSWQyKTsK</text>
+        <text encoding="base64">ICAgICAgICBnZXQoIi8qIiwgTG90dG9XZWJDb250cm9sbGVyOjppbmRleCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDownWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>intValue</text>
+        <text>total</text>
       </register>
     </registers>
     <search>
@@ -1892,8 +1891,8 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
       </history-cmd>
