@@ -1110,11 +1110,11 @@
         <mark key="^" line="43" column="11" />
         <mark key="." line="43" column="11" />
       </file>
-      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/persistence/dao/AggregationDao.java" timestamp="1560695952090">
-        <mark key="[" line="40" column="61" />
-        <mark key="]" line="132" column="23" />
-        <mark key="." line="132" column="23" />
-        <mark key="^" line="132" column="23" />
+      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/persistence/dao/AggregationDao.java" timestamp="1560696991045">
+        <mark key="[" line="41" column="32" />
+        <mark key="]" line="47" column="18" />
+        <mark key="^" line="47" column="18" />
+        <mark key="." line="47" column="18" />
       </file>
       <file name="D:/Dev/java/selenium-ex/build.gradle" timestamp="1559470962785">
         <mark key="[" line="16" column="50" />
@@ -1880,7 +1880,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorUpWithSelection</text>
+        <text>action EditorRightWithSelection</text>
       </register>
       <register name="-" type="4">
         <text>Test</text>
@@ -1894,10 +1894,10 @@
       <history-search />
       <history-cmd>
         <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorRightWithSelection</entry>
         <entry>!git checkout</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorRightWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
