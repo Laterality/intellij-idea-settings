@@ -1110,11 +1110,11 @@
         <mark key="^" line="43" column="11" />
         <mark key="." line="43" column="11" />
       </file>
-      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/persistence/dao/AggregationDao.java" timestamp="1560696991045">
-        <mark key="[" line="41" column="32" />
-        <mark key="]" line="47" column="18" />
-        <mark key="^" line="47" column="18" />
-        <mark key="." line="47" column="18" />
+      <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/persistence/dao/AggregationDao.java" timestamp="1560697717146">
+        <mark key="[" line="23" column="32" />
+        <mark key="]" line="23" column="36" />
+        <mark key="^" line="23" column="36" />
+        <mark key="." line="23" column="36" />
       </file>
       <file name="D:/Dev/java/selenium-ex/build.gradle" timestamp="1559470962785">
         <mark key="[" line="16" column="50" />
@@ -1853,7 +1853,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Test</text>
+        <text>winningLottoId</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgQ29ubmVjdGlvbiBjb25uOwo=</text>
@@ -1883,7 +1883,7 @@
         <text>action EditorRightWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>Test</text>
+        <text>winningLottoId</text>
       </register>
     </registers>
     <search>
