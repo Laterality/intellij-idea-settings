@@ -45,7 +45,7 @@
         <mark key="^" line="23" column="67" />
         <mark key="." line="23" column="67" />
       </file>
-      <file name="/a.dummy" timestamp="1560695066635">
+      <file name="/a.dummy" timestamp="1560822269432">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/lotto/ConsoleUILottoApplication.java" timestamp="1559881965531">
@@ -246,6 +246,12 @@
         <mark key="^" line="13" column="83" />
         <mark key="." line="13" column="83" />
       </file>
+      <file name="C:/Workspace/java/chess-sandbox/src/main/java/kr/latera/chesssandbox/PieceTeamProvider.java" timestamp="1560822291500">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="30" />
+        <mark key="^" line="4" column="30" />
+        <mark key="." line="4" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcar/domain/Car.java" timestamp="1557453675571">
         <mark key="[" line="60" column="25" />
         <mark key="]" line="41" column="31" />
@@ -372,11 +378,6 @@
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-study/src/main/java/techcourse/fp/mission/Calculator.java" timestamp="1560481968027">
-        <mark key="]" line="7" column="47" />
-        <mark key="." line="7" column="47" />
-        <mark key="^" line="7" column="47" />
-      </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/StreamUserInterfaceTest.java" timestamp="1553333002301">
         <mark key="[" line="13" column="2" />
         <mark key="]" line="11" column="9" />
@@ -446,11 +447,11 @@
         <mark key="." line="21" column="13" />
         <mark key="^" line="21" column="13" />
       </file>
-      <file name="C:/Workspace/java/chess-sandbox/src/main/java/kr/latera/chesssandbox/ChessPiece.java" timestamp="1560819291766">
+      <file name="C:/Workspace/java/chess-sandbox/src/main/java/kr/latera/chesssandbox/ChessPiece.java" timestamp="1560822304295">
         <mark key="[" line="6" column="40" />
-        <mark key="]" line="6" column="41" />
-        <mark key="." line="6" column="41" />
-        <mark key="^" line="6" column="41" />
+        <mark key="]" line="6" column="69" />
+        <mark key="." line="6" column="69" />
+        <mark key="^" line="6" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/test/java/com/woowacourse/lotto/NumberGenerator.java" timestamp="1559023430645">
         <mark key="[" line="3" column="4" />
@@ -481,6 +482,12 @@
         <mark key="]" line="14" column="4" />
         <mark key="^" line="14" column="55" />
         <mark key="." line="14" column="4" />
+      </file>
+      <file name="C:/Workspace/java/chess-sandbox/src/main/java/kr/latera/chesssandbox/PieceLocationProvider.java" timestamp="1560822253218">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="32" />
+        <mark key="^" line="4" column="32" />
+        <mark key="." line="4" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/LadderResultQueryProcessor.java" timestamp="1557912914009">
         <mark key="[" line="18" column="41" />
@@ -746,11 +753,11 @@
         <mark key="^" line="8" column="73" />
         <mark key="." line="8" column="73" />
       </file>
-      <file name="C:/Workspace/java/chess-sandbox/src/main/java/kr/latera/chesssandbox/PieceMovingStrategy.java" timestamp="1560819380965">
+      <file name="C:/Workspace/java/chess-sandbox/src/main/java/kr/latera/chesssandbox/PieceMovingStrategy.java" timestamp="1560822158435">
         <mark key="[" line="3" column="4" />
-        <mark key="]" line="2" column="37" />
-        <mark key="^" line="2" column="37" />
-        <mark key="." line="2" column="37" />
+        <mark key="]" line="3" column="32" />
+        <mark key="^" line="3" column="32" />
+        <mark key="." line="3" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/test/java/com/woowacourse/lotto/persistence/dao/WinningLottoDaoTest.java" timestamp="1560325343863">
         <mark key="[" line="61" column="91" />
@@ -962,6 +969,12 @@
         <mark key="^" line="29" column="85" />
         <mark key="." line="29" column="85" />
       </file>
+      <file name="C:/Workspace/java/chess-sandbox/src/main/java/kr/latera/chesssandbox/Rook.java" timestamp="1560822544493">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="34" />
+        <mark key="^" line="7" column="34" />
+        <mark key="." line="7" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/test/kotlin/com/woowacourse/ladder/domain/Ladder.kt" timestamp="1558340507689">
         <mark key="[" line="4" column="93" />
         <mark key="]" line="4" column="90" />
@@ -1016,7 +1029,7 @@
         <mark key="^" line="2" column="38" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1560695319378">
+      <file name="/fragment.java" timestamp="1560822171684">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Dev/GitHub/java-lotto-1/src/test/java/com/woowacourse/lotto/domain/LottoNumberTest.java" timestamp="1559874889011">
@@ -1024,6 +1037,9 @@
         <mark key="]" line="19" column="74" />
         <mark key="^" line="19" column="74" />
         <mark key="." line="19" column="74" />
+      </file>
+      <file name="C:/Workspace/java/chess-sandbox/src/main/java/kr/latera/chesssandbox/Client.java" timestamp="1560822314036">
+        <mark key="[" line="2" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Github/kt-test-app/build.gradle" timestamp="1558596648388">
         <mark key="[" line="14" column="42" />
@@ -1903,7 +1919,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y2xhc3Mg</text>
+        <text>PieceLocation</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgQ29ubmVjdGlvbiBjb25uOwo=</text>
@@ -1933,7 +1949,7 @@
         <text>action EditorRightWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2xhc3Mg</text>
+        <text>PieceLocation</text>
       </register>
     </registers>
     <search>
