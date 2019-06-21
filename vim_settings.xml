@@ -258,12 +258,19 @@
         <mark key="^" line="41" column="31" />
         <mark key="." line="41" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/domain/ChessPiece.java" timestamp="1561101282657">
+        <mark key="[" line="15" column="56" />
+        <mark key="]" line="15" column="65" />
+        <mark key="." line="15" column="65" />
+        <mark key="^" line="15" column="65" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-coordinate/src/main/java/com/woowacourse/coordinate/domain/FigureKind.java" timestamp="1558683651264">
         <mark key="[" line="19" column="29" />
         <mark key="]" line="19" column="29" />
         <mark key="^" line="14" column="50" />
         <mark key="." line="19" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/domain/Knight.java" timestamp="1561101686553" />
       <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/interfaces/NumberGenerator.java" timestamp="1553851230689">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="7" />
@@ -1160,6 +1167,9 @@
         <mark key="^" line="20" column="25" />
         <mark key="." line="20" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/domain/ChessGame.java" timestamp="1561101316315">
+        <mark key="[" line="5" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/kt-test-app/src/main/kotlin/kr/latera/kttestapp/AppMain.kt" timestamp="1558594864142">
         <mark key="[" line="2" column="0" />
       </file>
@@ -1926,7 +1936,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>chess_db</text>
+        <text encoding="base64">UGllY2VUZWFtUHJvdmlkZXIg</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgQ29ubmVjdGlvbiBjb25uOwo=</text>
@@ -1956,7 +1966,7 @@
         <text>action EditorRightWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>chess_db</text>
+        <text encoding="base64">UGllY2VUZWFtUHJvdmlkZXIg</text>
       </register>
     </registers>
     <search>
