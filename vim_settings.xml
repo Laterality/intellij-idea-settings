@@ -1184,6 +1184,11 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/persistence/DataSourceFactory.java" timestamp="1561100973466">
+        <mark key="[" line="8" column="43" />
+        <mark key="]" line="8" column="43" />
+        <mark key="." line="8" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/domain/LottoNumber.java" timestamp="1560321937572">
         <mark key="[" line="26" column="76" />
         <mark key="]" line="17" column="26" />
@@ -1921,7 +1926,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>PieceLocation</text>
+        <text>chess_db</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgQ29ubmVjdGlvbiBjb25uOwo=</text>
@@ -1951,7 +1956,7 @@
         <text>action EditorRightWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>PieceLocation</text>
+        <text>chess_db</text>
       </register>
     </registers>
     <search>
