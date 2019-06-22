@@ -45,7 +45,7 @@
         <mark key="^" line="23" column="67" />
         <mark key="." line="23" column="67" />
       </file>
-      <file name="/a.dummy" timestamp="1561126239807">
+      <file name="/a.dummy" timestamp="1561172974298">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/lotto/ConsoleUILottoApplication.java" timestamp="1559881965531">
@@ -173,6 +173,9 @@
         <mark key="]" line="32" column="89" />
         <mark key="^" line="32" column="89" />
         <mark key="." line="32" column="89" />
+      </file>
+      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/CoordinateY.java" timestamp="1561173331563">
+        <mark key="[" line="48" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/test/java/com/woowacourse/lotto/domain/LottoTest.java" timestamp="1559094827919">
         <mark key="[" line="41" column="83" />
@@ -483,7 +486,7 @@
         <mark key="^" line="14" column="55" />
         <mark key="." line="14" column="4" />
       </file>
-      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/King.java" timestamp="1561167958780">
+      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/King.java" timestamp="1561173448774">
         <mark key="[" line="31" column="41" />
         <mark key="]" line="31" column="14" />
         <mark key="." line="31" column="14" />
@@ -560,6 +563,12 @@
         <mark key="]" line="7" column="38" />
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="38" />
+      </file>
+      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/EmptyCell.java" timestamp="1561173402417">
+        <mark key="[" line="21" column="61" />
+        <mark key="]" line="21" column="57" />
+        <mark key="." line="21" column="57" />
+        <mark key="^" line="21" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/GeneratorTest/JudgeTest.java" timestamp="1553264913797">
         <mark key="[" line="29" column="37" />
@@ -734,6 +743,9 @@
         <mark key="]" line="20" column="31" />
         <mark key="^" line="20" column="31" />
         <mark key="." line="20" column="31" />
+      </file>
+      <file name="D:/Dev/GitHub/java-chess/src/test/java/chess/domain/CoordinateXTest.java" timestamp="1561173369111">
+        <mark key="[" line="18" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/DestinationGroup.java" timestamp="1558059067285">
         <mark key="[" line="4" column="0" />
@@ -990,11 +1002,11 @@
         <mark key="^" line="15" column="49" />
         <mark key="." line="15" column="49" />
       </file>
-      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/Pawn.java" timestamp="1561172324705">
-        <mark key="[" line="67" column="8" />
-        <mark key="]" line="67" column="8" />
-        <mark key="." line="67" column="8" />
-        <mark key="^" line="63" column="29" />
+      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/Pawn.java" timestamp="1561173504893">
+        <mark key="[" line="96" column="5" />
+        <mark key="]" line="91" column="37" />
+        <mark key="^" line="91" column="36" />
+        <mark key="." line="91" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-movie/src/test/java/service/MovieBookingSersviceTest.java" timestamp="1555398566527">
         <mark key="[" line="61" column="46" />
@@ -1067,6 +1079,9 @@
       </file>
       <file name="$USER_HOME$/Documents/Github/jdbc-example/build.gradle" timestamp="1559614848106">
         <mark key="[" line="13" column="14" />
+      </file>
+      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/CoordinateX.java" timestamp="1561173353789">
+        <mark key="[" line="48" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-coordinate/src/main/java/coordinate/domain/figure/FigureKind.java" timestamp="1559012414869">
         <mark key="[" line="17" column="25" />
@@ -1164,8 +1179,11 @@
         <mark key="^" line="20" column="25" />
         <mark key="." line="20" column="25" />
       </file>
-      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/Knight.java" timestamp="1561128296726">
-        <mark key="[" line="36" column="79" />
+      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/Knight.java" timestamp="1561174790089">
+        <mark key="[" line="62" column="41" />
+        <mark key="]" line="62" column="39" />
+        <mark key="^" line="62" column="39" />
+        <mark key="." line="62" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Github/kt-test-app/src/main/kotlin/kr/latera/kttestapp/AppMain.kt" timestamp="1558594864142">
         <mark key="[" line="2" column="0" />
@@ -1182,15 +1200,14 @@
         <mark key="^" line="23" column="36" />
         <mark key="." line="23" column="36" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/util/Optional.java" timestamp="1561130605014" />
       <file name="D:/Dev/java/selenium-ex/build.gradle" timestamp="1559470962785">
         <mark key="[" line="16" column="50" />
       </file>
-      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/ChessPiece.java" timestamp="1561170905278">
-        <mark key="[" line="56" column="5" />
-        <mark key="]" line="55" column="45" />
-        <mark key="^" line="55" column="45" />
-        <mark key="." line="55" column="45" />
+      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/ChessPiece.java" timestamp="1561174207053">
+        <mark key="[" line="43" column="26" />
+        <mark key="]" line="42" column="51" />
+        <mark key="^" line="42" column="51" />
+        <mark key="." line="42" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/kotlin/com/woowacourse/ladder/domain/ResultPairContainer.kt" timestamp="1558578769739">
         <mark key="[" line="6" column="8" />
@@ -1775,11 +1792,11 @@
         <mark key="^" line="27" column="51" />
         <mark key="." line="27" column="51" />
       </file>
-      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/Direction.java" timestamp="1561132518277">
-        <mark key="[" line="29" column="29" />
-        <mark key="]" line="28" column="29" />
-        <mark key="." line="28" column="29" />
-        <mark key="^" line="28" column="29" />
+      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/Direction.java" timestamp="1561174355628">
+        <mark key="[" line="47" column="44" />
+        <mark key="]" line="47" column="43" />
+        <mark key="." line="47" column="43" />
+        <mark key="^" line="47" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-coordinate/src/test/java/com/woowacourse/coordinate/domain/PointGroup.java" timestamp="1558658104636">
         <mark key="[" line="2" column="25" />
@@ -1949,40 +1966,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbW92YWJsZUNvb3JkaW5hdGVzOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxEaXJlY3Rpb24+IG5lYXJlc3REaXJlY3Rpb25zOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>checkIfWhiteFirstMove</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbW92YWJsZUNvb3JkaW5hdGVzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBpZiAoZ2V0VHlwZSgpLmdldFRlYW0oKSA9PSBUZWFtLldISVRFKSB7CiAgICAgICAgICAgIGlmIChpc0VtcHR5QXQocGllY2VUZWFtUHJvdmlkZXIsIENvb3JkaW5hdGVQYWlyLnZhbHVlT2YoZnJvbS5nZXRYKCksIGZyb20uZ2V0WSgpLm1vdmUoMSkuZ2V0KCkpKSkgewogICAgICAgICAgICAgICAgY2FuZGlkYXRlcy5hZGQoQ29vcmRpbmF0ZVBhaXIudmFsdWVPZihmcm9tLmdldFgoKSwgZnJvbS5nZXRZKCkubW92ZSgxKS5nZXQoKSkpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBmcm9tLmdldFgoKS5tb3ZlKC0xKQogICAgICAgICAgICAgICAgLmlmUHJlc2VudCgoeCkgLT4gaXNFbmVteUF0KHBpZWNlVGVhbVByb3ZpZGVyLCBDb29yZGluYXRlUGFpci52YWx1ZU9mKHgsIGZyb20uZ2V0WSgpLm1vdmUoMSkuZ2V0KCkpKQogICAgICAgICAgICAgICAgICAgIC5pZlByZXNlbnQoY2FuZGlkYXRlczo6YWRkKSk7CiAgICAgICAgICAgIGZyb20uZ2V0WCgpLm1vdmUoMSkKICAgICAgICAgICAgICAgIC5pZlByZXNlbnQoKHgpIC0+IGlzRW5lbXlBdChwaWVjZVRlYW1Qcm92aWRlciwgQ29vcmRpbmF0ZVBhaXIudmFsdWVPZih4LCBmcm9tLmdldFkoKS5tb3ZlKDEpLmdldCgpKSkKICAgICAgICAgICAgICAgICAgICAuaWZQcmVzZW50KGNhbmRpZGF0ZXM6OmFkZCkpOwoKCiAgICAgICAgICAgIGlmIChmcm9tLmdldFkoKSA9PSBDb29yZGluYXRlWS5SQU5LXzIpIHsKICAgICAgICAgICAgICAgIGlzRW1wdHlBdChwaWVjZVRlYW1Qcm92aWRlciwgQ29vcmRpbmF0ZVBhaXIudmFsdWVPZihmcm9tLmdldFgoKSwgZnJvbS5nZXRZKCkubW92ZSgyKS5nZXQoKSkpLmlmUHJlc2VudChjYW5kaWRhdGVzOjphZGQpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBjYW5kaWRhdGVzOwogICAgICAgIH0=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pZlByZXNlbnQoY2FuZGlkYXRlczo6YWRkKTsK</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8Q29vcmRpbmF0ZVBhaXI+IG1vdmFibGVDb29yZGluYXRlcyA9IG5ldyBIYXNoU2V0PD4oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2FuZGlkYXRlcy5zdHJlYW0oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b1NldCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbW92YWJsZUNvb3JkaW5hdGVzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>checkIfWhiteFirstMove</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
     </registers>
     <search>
