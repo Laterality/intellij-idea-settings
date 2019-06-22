@@ -990,11 +990,11 @@
         <mark key="^" line="15" column="49" />
         <mark key="." line="15" column="49" />
       </file>
-      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/Pawn.java" timestamp="1561129935228">
-        <mark key="[" line="40" column="93" />
-        <mark key="]" line="73" column="4" />
-        <mark key="^" line="73" column="4" />
-        <mark key="." line="73" column="4" />
+      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/Pawn.java" timestamp="1561172324705">
+        <mark key="[" line="67" column="8" />
+        <mark key="]" line="67" column="8" />
+        <mark key="." line="67" column="8" />
+        <mark key="^" line="63" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-movie/src/test/java/service/MovieBookingSersviceTest.java" timestamp="1555398566527">
         <mark key="[" line="61" column="46" />
@@ -1013,6 +1013,12 @@
         <mark key="]" line="37" column="55" />
         <mark key="^" line="37" column="55" />
         <mark key="." line="37" column="55" />
+      </file>
+      <file name="D:/Dev/GitHub/java-chess/README.md" timestamp="1561170356533">
+        <mark key="[" line="19" column="7" />
+        <mark key="]" line="18" column="3" />
+        <mark key="^" line="18" column="3" />
+        <mark key="." line="18" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/test/java/com/woowacourse/lotto/LottoFactoryTest.java" timestamp="1559023630308">
         <mark key="[" line="14" column="43" />
@@ -1067,6 +1073,12 @@
         <mark key="]" line="17" column="25" />
         <mark key="." line="17" column="25" />
         <mark key="^" line="14" column="15" />
+      </file>
+      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/Team.java" timestamp="1561170828006">
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="15" column="18" />
+        <mark key="^" line="15" column="18" />
+        <mark key="." line="15" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/test/kotlin/com/woowacourse/stringadder/AdderTest.kt" timestamp="1558334675695">
         <mark key="[" line="10" column="53" />
@@ -1174,11 +1186,11 @@
       <file name="D:/Dev/java/selenium-ex/build.gradle" timestamp="1559470962785">
         <mark key="[" line="16" column="50" />
       </file>
-      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/ChessPiece.java" timestamp="1561167362182">
-        <mark key="[" line="79" column="1" />
-        <mark key="]" line="79" column="4" />
-        <mark key="^" line="79" column="4" />
-        <mark key="." line="79" column="4" />
+      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/ChessPiece.java" timestamp="1561170905278">
+        <mark key="[" line="56" column="5" />
+        <mark key="]" line="55" column="45" />
+        <mark key="^" line="55" column="45" />
+        <mark key="." line="55" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/kotlin/com/woowacourse/ladder/domain/ResultPairContainer.kt" timestamp="1558578769739">
         <mark key="[" line="6" column="8" />
@@ -1937,40 +1949,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2FuZGlkYXRlcy5zdHJlYW0oKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbW92YWJsZUNvb3JkaW5hdGVzOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>entry</text>
+        <text>checkIfWhiteFirstMove</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b1NldCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbW92YWJsZUNvb3JkaW5hdGVzOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ci8vICAgICAgICBmcm9tLmdldFgoKS5tb3ZlKC0xKQovLyAgICAgICAgICAgIC5pZlByZXNlbnQoeCAtPiB7Ci8vICAgICAgICAgICAgICAgIGNhbmRpZGF0ZXMuYWRkKENvb3JkaW5hdGVQYWlyLnZhbHVlT2YoeCwgZnJvbS5nZXRZKCkpLmdldCgpKTsKLy8gICAgICAgICAgICAgICAgZnJvbS5nZXRZKCkubW92ZSgtMSkuaWZQcmVzZW50KHkgLT4gY2FuZGlkYXRlcy5hZGQoQ29vcmRpbmF0ZVBhaXIudmFsdWVPZih4LCB5KS5nZXQoKSkpOwovLyAgICAgICAgICAgICAgICBmcm9tLmdldFkoKS5tb3ZlKDEpLmlmUHJlc2VudCh5IC0+IGNhbmRpZGF0ZXMuYWRkKENvb3JkaW5hdGVQYWlyLnZhbHVlT2YoeCwgeSkuZ2V0KCkpKTsKLy8gICAgICAgICAgICB9KTsKLy8gICAgICAgIGZyb20uZ2V0WCgpLm1vdmUoMSkKLy8gICAgICAgICAgICAuaWZQcmVzZW50KHggLT4gewovLyAgICAgICAgICAgICAgICBjYW5kaWRhdGVzLmFkZChDb29yZGluYXRlUGFpci52YWx1ZU9mKHgsIGZyb20uZ2V0WSgpKS5nZXQoKSk7Ci8vICAgICAgICAgICAgICAgIGZyb20uZ2V0WSgpLm1vdmUoLTEpLmlmUHJlc2VudCh5IC0+IGNhbmRpZGF0ZXMuYWRkKENvb3JkaW5hdGVQYWlyLnZhbHVlT2YoeCwgeSkuZ2V0KCkpKTsKLy8gICAgICAgICAgICAgICAgZnJvbS5nZXRZKCkubW92ZSgxKS5pZlByZXNlbnQoeSAtPiBjYW5kaWRhdGVzLmFkZChDb29yZGluYXRlUGFpci52YWx1ZU9mKHgsIHkpLmdldCgpKSk7Ci8vICAgICAgICAgICAgfSk7Ci8vCi8vICAgICAgICBmcm9tLmdldFkoKS5tb3ZlKDEpLmlmUHJlc2VudCh5IC0+IGNhbmRpZGF0ZXMuYWRkKENvb3JkaW5hdGVQYWlyLnZhbHVlT2YoZnJvbS5nZXRYKCksIHkpLmdldCgpKSk7Ci8vICAgICAgICBmcm9tLmdldFkoKS5tb3ZlKC0xKS5pZlByZXNlbnQoeSAtPiBjYW5kaWRhdGVzLmFkZChDb29yZGluYXRlUGFpci52YWx1ZU9mKGZyb20uZ2V0WCgpLCB5KS5nZXQoKSkpOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZvckVhY2goY2FuZGlhKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBpZiAoZ2V0VHlwZSgpLmdldFRlYW0oKSA9PSBUZWFtLldISVRFKSB7CiAgICAgICAgICAgIGlmIChpc0VtcHR5QXQocGllY2VUZWFtUHJvdmlkZXIsIENvb3JkaW5hdGVQYWlyLnZhbHVlT2YoZnJvbS5nZXRYKCksIGZyb20uZ2V0WSgpLm1vdmUoMSkuZ2V0KCkpKSkgewogICAgICAgICAgICAgICAgY2FuZGlkYXRlcy5hZGQoQ29vcmRpbmF0ZVBhaXIudmFsdWVPZihmcm9tLmdldFgoKSwgZnJvbS5nZXRZKCkubW92ZSgxKS5nZXQoKSkpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBmcm9tLmdldFgoKS5tb3ZlKC0xKQogICAgICAgICAgICAgICAgLmlmUHJlc2VudCgoeCkgLT4gaXNFbmVteUF0KHBpZWNlVGVhbVByb3ZpZGVyLCBDb29yZGluYXRlUGFpci52YWx1ZU9mKHgsIGZyb20uZ2V0WSgpLm1vdmUoMSkuZ2V0KCkpKQogICAgICAgICAgICAgICAgICAgIC5pZlByZXNlbnQoY2FuZGlkYXRlczo6YWRkKSk7CiAgICAgICAgICAgIGZyb20uZ2V0WCgpLm1vdmUoMSkKICAgICAgICAgICAgICAgIC5pZlByZXNlbnQoKHgpIC0+IGlzRW5lbXlBdChwaWVjZVRlYW1Qcm92aWRlciwgQ29vcmRpbmF0ZVBhaXIudmFsdWVPZih4LCBmcm9tLmdldFkoKS5tb3ZlKDEpLmdldCgpKSkKICAgICAgICAgICAgICAgICAgICAuaWZQcmVzZW50KGNhbmRpZGF0ZXM6OmFkZCkpOwoKCiAgICAgICAgICAgIGlmIChmcm9tLmdldFkoKSA9PSBDb29yZGluYXRlWS5SQU5LXzIpIHsKICAgICAgICAgICAgICAgIGlzRW1wdHlBdChwaWVjZVRlYW1Qcm92aWRlciwgQ29vcmRpbmF0ZVBhaXIudmFsdWVPZihmcm9tLmdldFgoKSwgZnJvbS5nZXRZKCkubW92ZSgyKS5nZXQoKSkpLmlmUHJlc2VudChjYW5kaWRhdGVzOjphZGQpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBjYW5kaWRhdGVzOwogICAgICAgIH0=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgU2V0PENvb3JkaW5hdGVQYWlyPiBwcm9iZURpYWdvbmFsKFBpZWNlVGVhbVByb3ZpZGVyIHBpZWNlVGVhbVByb3ZpZGVyLCBDb29yZGluYXRlUGFpciBmcm9tKSB7CiAgICAgICAgU2V0PENvb3JkaW5hdGVQYWlyPiBtb3ZhYmxlQ29vcmRzID0gbmV3IEhhc2hTZXQ8PigpOwogICAgICAgIExpc3Q8Q29vcmRpbmF0ZVg+IHhDb29yZHMgPSBDb29yZGluYXRlWC5nZXREZXNjZW5kaW5nQ29vcmRpbmF0ZXMoZnJvbS5nZXRYKCkpOwogICAgICAgIExpc3Q8Q29vcmRpbmF0ZVk+IHlDb29yZHMgPSBDb29yZGluYXRlWS5nZXREZXNjZW5kaW5nQ29vcmRpbmF0ZXMoZnJvbS5nZXRZKCkpOwoKICAgICAgICBtb3ZhYmxlQ29vcmRzLmFkZEFsbChwcm9iZURpYWdvbmFsKHBpZWNlVGVhbVByb3ZpZGVyLCB4Q29vcmRzLCB5Q29vcmRzKSk7CgogICAgICAgIHlDb29yZHMgPSBDb29yZGluYXRlWS5nZXRBc2NlbmRpbmdDb29yZGluYXRlcyhmcm9tLmdldFkoKSk7CiAgICAgICAgbW92YWJsZUNvb3Jkcy5hZGRBbGwocHJvYmVEaWFnb25hbChwaWVjZVRlYW1Qcm92aWRlciwgeENvb3JkcywgeUNvb3JkcykpOwoKICAgICAgICB4Q29vcmRzID0gQ29vcmRpbmF0ZVguZ2V0QXNjZW5kaW5nQ29vcmRpbmF0ZXMoZnJvbS5nZXRYKCkpOwogICAgICAgIG1vdmFibGVDb29yZHMuYWRkQWxsKHByb2JlRGlhZ29uYWwocGllY2VUZWFtUHJvdmlkZXIsIHhDb29yZHMsIHlDb29yZHMpKTsKCiAgICAgICAgeUNvb3JkcyA9IENvb3JkaW5hdGVZLmdldERlc2NlbmRpbmdDb29yZGluYXRlcyhmcm9tLmdldFkoKSk7CiAgICAgICAgbW92YWJsZUNvb3Jkcy5hZGRBbGwocHJvYmVEaWFnb25hbChwaWVjZVRlYW1Qcm92aWRlciwgeENvb3JkcywgeUNvb3JkcykpOwogICAgICAgIHJldHVybiBtb3ZhYmxlQ29vcmRzOwogICAgfQoKICAgIHByaXZhdGUgU2V0PENvb3JkaW5hdGVQYWlyPiBwcm9iZURpYWdvbmFsKFBpZWNlVGVhbVByb3ZpZGVyIHBpZWNlVGVhbVByb3ZpZGVyLCBMaXN0PENvb3JkaW5hdGVYPiB4Q29vcmRzLCBMaXN0PENvb3JkaW5hdGVZPiB5Q29vcmRzKSB7CiAgICAgICAgU2V0PENvb3JkaW5hdGVQYWlyPiBtb3ZhYmxlQ29vcmRzID0gbmV3IEhhc2hTZXQ8PigpOwoKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IE1hdGgubWluKHhDb29yZHMuc2l6ZSgpLCB5Q29vcmRzLnNpemUoKSk7IGkrKykgewogICAgICAgICAgICBpZiAoY2hlY2tDZWxsKHBpZWNlVGVhbVByb3ZpZGVyLCBtb3ZhYmxlQ29vcmRzLCBDb29yZGluYXRlUGFpci52YWx1ZU9mKHhDb29yZHMuZ2V0KGkpLCB5Q29vcmRzLmdldChpKSkpKSB7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gbW92YWJsZUNvb3JkczsKICAgIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUZWFtIHRhcmdldFRlYW0gPSBwaWVjZVRlYW1Qcm92aWRlci5nZXRUZWFtQXQoY29vcmQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pZlByZXNlbnQoY2FuZGlkYXRlczo6YWRkKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gT3B0aW9uYWwuZW1wdHkoKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY2FuZGlkYXRlcy5zdHJlYW0oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KERpcmVjdGlvbi5MRUZUX1RPUC5tb3ZlKENvb3JkaW5hdGVQYWlyLnZhbHVlT2YoImMxIikuZ2V0KCkpKQogICAgICAgICAgICAuaXNFcXVhbFRvKE9wdGlvbmFsLmVtcHR5KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b1NldCgpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorRightWithSelection</text>
+        <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>entry</text>
+        <text>checkIfWhiteFirstMove</text>
       </register>
     </registers>
     <search>
@@ -1981,10 +1993,10 @@
       <history-search />
       <history-cmd>
         <entry>!git checkout</entry>
+        <entry>action EditorRightWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
-        <entry>action EditorRightWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
