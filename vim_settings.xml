@@ -456,11 +456,11 @@
         <mark key="." line="32" column="48" />
         <mark key="^" line="32" column="48" />
       </file>
-      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/ChessScoreCounter.java" timestamp="1561176882898">
-        <mark key="[" line="16" column="128" />
-        <mark key="]" line="16" column="29" />
-        <mark key="^" line="16" column="29" />
-        <mark key="." line="16" column="29" />
+      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/ChessScoreCounter.java" timestamp="1561178658818">
+        <mark key="[" line="37" column="93" />
+        <mark key="]" line="37" column="102" />
+        <mark key="." line="37" column="102" />
+        <mark key="^" line="37" column="102" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcar/RacingcarController.java" timestamp="1557459124336">
         <mark key="[" line="22" column="8" />
@@ -1964,28 +1964,28 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>PAWN_WHITE</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlcigpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZnJvbS5nZXRYKCkubW92ZSgyKQogICAgICAgICAgICAuaWZQcmVzZW50KCh4KSAtPiB7CiAgICAgICAgICAgICAgICBmcm9tLmdldFkoKS5tb3ZlKDEpLmlmUHJlc2VudCh5IC0+IGNhbmRpZGF0ZXMuYWRkKENvb3JkaW5hdGVQYWlyLnZhbHVlT2YoeCwgeSkpKTsKICAgICAgICAgICAgICAgIGZyb20uZ2V0WSgpLm1vdmUoLTEpLmlmUHJlc2VudCh5IC0+IGNhbmRpZGF0ZXMuYWRkKENvb3JkaW5hdGVQYWlyLnZhbHVlT2YoeCwgeSkpKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgZnJvbS5nZXRYKCkubW92ZSgtMikKICAgICAgICAgICAgLmlmUHJlc2VudCgoeCkgLT4gewogICAgICAgICAgICAgICAgZnJvbS5nZXRZKCkubW92ZSgxKS5pZlByZXNlbnQoeSAtPiBjYW5kaWRhdGVzLmFkZChDb29yZGluYXRlUGFpci52YWx1ZU9mKHgsIHkpKSk7CiAgICAgICAgICAgICAgICBmcm9tLmdldFkoKS5tb3ZlKC0xKS5pZlByZXNlbnQoeSAtPiBjYW5kaWRhdGVzLmFkZChDb29yZGluYXRlUGFpci52YWx1ZU9mKHgsIHkpKSk7CiAgICAgICAgICAgIH0pOwogICAgICAgIGZyb20uZ2V0WSgpLm1vdmUoMikKICAgICAgICAgICAgLmlmUHJlc2VudCgoeSkgLT4gewogICAgICAgICAgICAgICAgZnJvbS5nZXRYKCkubW92ZSgxKS5pZlByZXNlbnQoeCAtPiBjYW5kaWRhdGVzLmFkZChDb29yZGluYXRlUGFpci52YWx1ZU9mKHgsIHkpKSk7CiAgICAgICAgICAgICAgICBmcm9tLmdldFgoKS5tb3ZlKC0xKS5pZlByZXNlbnQoeCAtPiBjYW5kaWRhdGVzLmFkZChDb29yZGluYXRlUGFpci52YWx1ZU9mKHgsIHkpKSk7CiAgICAgICAgICAgIH0pOwogICAgICAgIGZyb20uZ2V0WSgpLm1vdmUoLTIpCiAgICAgICAgICAgIC5pZlByZXNlbnQoKHkpIC0+IHsKICAgICAgICAgICAgICAgIGZyb20uZ2V0WCgpLm1vdmUoMSkuaWZQcmVzZW50KHggLT4gY2FuZGlkYXRlcy5hZGQoQ29vcmRpbmF0ZVBhaXIudmFsdWVPZih4LCB5KSkpOwogICAgICAgICAgICAgICAgZnJvbS5nZXRYKCkubW92ZSgtMSkuaWZQcmVzZW50KHggLT4gY2FuZGlkYXRlcy5hZGQoQ29vcmRpbmF0ZVBhaXIudmFsdWVPZih4LCB5KSkpOwogICAgICAgICAgICB9KQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxEaXJlY3Rpb24+IG5lYXJlc3REaXJlY3Rpb25zOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ZnJvbS5nZXRYKCkubW92ZSgyKQogICAgICAgICAgICAuaWZQcmVzZW50KCh4KSAtPiB7CiAgICAgICAgICAgICAgICBmcm9tLmdldFkoKS5tb3ZlKDEpLmlmUHJlc2VudCh5IC0+IGNhbmRpZGF0ZXMuYWRkKENvb3JkaW5hdGVQYWlyLnZhbHVlT2YoeCwgeSkpKTsKICAgICAgICAgICAgICAgIGZyb20uZ2V0WSgpLm1vdmUoLTEpLmlmUHJlc2VudCh5IC0+IGNhbmRpZGF0ZXMuYWRkKENvb3JkaW5hdGVQYWlyLnZhbHVlT2YoeCwgeSkpKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgZnJvbS5nZXRYKCkubW92ZSgtMikKICAgICAgICAgICAgLmlmUHJlc2VudCgoeCkgLT4gewogICAgICAgICAgICAgICAgZnJvbS5nZXRZKCkubW92ZSgxKS5pZlByZXNlbnQoeSAtPiBjYW5kaWRhdGVzLmFkZChDb29yZGluYXRlUGFpci52YWx1ZU9mKHgsIHkpKSk7CiAgICAgICAgICAgICAgICBmcm9tLmdldFkoKS5tb3ZlKC0xKS5pZlByZXNlbnQoeSAtPiBjYW5kaWRhdGVzLmFkZChDb29yZGluYXRlUGFpci52YWx1ZU9mKHgsIHkpKSk7CiAgICAgICAgICAgIH0pOwogICAgICAgIGZyb20uZ2V0WSgpLm1vdmUoMikKICAgICAgICAgICAgLmlmUHJlc2VudCgoeSkgLT4gewogICAgICAgICAgICAgICAgZnJvbS5nZXRYKCkubW92ZSgxKS5pZlByZXNlbnQoeCAtPiBjYW5kaWRhdGVzLmFkZChDb29yZGluYXRlUGFpci52YWx1ZU9mKHgsIHkpKSk7CiAgICAgICAgICAgICAgICBmcm9tLmdldFgoKS5tb3ZlKC0xKS5pZlByZXNlbnQoeCAtPiBjYW5kaWRhdGVzLmFkZChDb29yZGluYXRlUGFpci52YWx1ZU9mKHgsIHkpKSk7CiAgICAgICAgICAgIH0pOwogICAgICAgIGZyb20uZ2V0WSgpLm1vdmUoLTIpCiAgICAgICAgICAgIC5pZlByZXNlbnQoKHkpIC0+IHsKICAgICAgICAgICAgICAgIGZyb20uZ2V0WCgpLm1vdmUoMSkuaWZQcmVzZW50KHggLT4gY2FuZGlkYXRlcy5hZGQoQ29vcmRpbmF0ZVBhaXIudmFsdWVPZih4LCB5KSkpOwogICAgICAgICAgICAgICAgZnJvbS5nZXRYKCkubW92ZSgtMSkuaWZQcmVzZW50KHggLT4gY2FuZGlkYXRlcy5hZGQoQ29vcmRpbmF0ZVBhaXIudmFsdWVPZih4LCB5KSkpOwogICAgICAgICAgICB9KQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxEaXJlY3Rpb24+IG5lYXJlc3REaXJlY3Rpb25zOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -1997,7 +1997,7 @@
         <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>checkTop</text>
+        <text>PAWN_WHITE</text>
       </register>
     </registers>
     <search>
@@ -2008,9 +2008,9 @@
       <history-search />
       <history-cmd>
         <entry>!git checkout</entry>
-        <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorRightWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
       </history-cmd>
       <history-expr />
