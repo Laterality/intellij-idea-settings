@@ -186,10 +186,11 @@
       <file name="$USER_HOME$/Documents/Github/java-lotto-1/build.gradle" timestamp="1559112756692">
         <mark key="[" line="15" column="50" />
       </file>
-      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/service/RoomServiceImpl.java" timestamp="1561185109118">
-        <mark key="[" line="88" column="5" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
+      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/service/RoomServiceImpl.java" timestamp="1561220119628">
+        <mark key="[" line="41" column="35" />
+        <mark key="]" line="41" column="35" />
+        <mark key="." line="41" column="35" />
+        <mark key="^" line="41" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/Github/ladder/build.gradle" timestamp="1558329442855">
         <mark key="[" line="12" column="60" />
@@ -704,6 +705,12 @@
         <mark key="." line="13" column="10" />
         <mark key="^" line="2" column="6" />
       </file>
+      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/GameBoardState.java" timestamp="1561220175948">
+        <mark key="[" line="29" column="127" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="29" column="55" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/kotlin/com/woowacourse/stringadder/PositiveIntegerAdder.kt" timestamp="1558334487265">
         <mark key="[" line="6" column="24" />
         <mark key="]" line="6" column="45" />
@@ -878,11 +885,6 @@
         <mark key="^" line="92" column="27" />
         <mark key="." line="92" column="25" />
       </file>
-      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/service/ChessServiceImpl.java" timestamp="1561189963619">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/test/java/com/woowacourse/lotto/domain/BuyingMoneyTest.java" timestamp="1559094948063">
         <mark key="[" line="21" column="66" />
         <mark key="]" line="21" column="66" />
@@ -895,11 +897,11 @@
         <mark key="^" line="31" column="82" />
         <mark key="." line="31" column="82" />
       </file>
-      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/service/GameServiceImpl.java" timestamp="1561195816219">
-        <mark key="[" line="26" column="12" />
-        <mark key="]" line="26" column="46" />
-        <mark key="^" line="26" column="46" />
-        <mark key="." line="26" column="46" />
+      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/service/GameServiceImpl.java" timestamp="1561219934945">
+        <mark key="[" line="62" column="9" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="59" column="41" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="D:/Dev/GitHub/java-chess/src/test/java/chess/persistence/dao/BoardStateDaoTest.java" timestamp="1561189272410">
         <mark key="[" line="108" column="61" />
@@ -957,6 +959,9 @@
         <mark key="]" line="29" column="32" />
         <mark key="." line="29" column="32" />
         <mark key="^" line="29" column="32" />
+      </file>
+      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/BoardStateFactory.java" timestamp="1561219955660">
+        <mark key="[" line="10" column="42" />
       </file>
       <file name="C:/Workspace/java/test-project/src/main/java/kr/latera/testproject/Car.java" timestamp="1557476840761">
         <mark key="[" line="10" column="5" />
@@ -1286,11 +1291,11 @@
         <mark key="." line="32" column="48" />
         <mark key="^" line="32" column="48" />
       </file>
-      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/ChessScoreCounter.java" timestamp="1561180064133">
-        <mark key="[" line="17" column="15" />
-        <mark key="]" line="17" column="19" />
-        <mark key="." line="17" column="19" />
-        <mark key="^" line="17" column="19" />
+      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/ChessScoreCounter.java" timestamp="1561219417004">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="16" column="19" />
+        <mark key="." line="16" column="19" />
+        <mark key="^" line="16" column="19" />
       </file>
       <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/service/LottoService.java" timestamp="1560695525158">
         <mark key="[" line="23" column="28" />
@@ -1394,11 +1399,11 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="33" column="40" />
       </file>
-      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/ChessGame.java" timestamp="1561180255248">
-        <mark key="[" line="15" column="50" />
-        <mark key="]" line="15" column="49" />
-        <mark key="^" line="15" column="49" />
-        <mark key="." line="15" column="49" />
+      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/ChessGame.java" timestamp="1561220229216">
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="16" column="19" />
+        <mark key="." line="16" column="19" />
+        <mark key="^" line="8" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-coordinate/src/main/java/com/woowacourse/coordinate/domain/FigureFactory.java" timestamp="1558682675791">
         <mark key="[" line="5" column="25" />
@@ -1723,6 +1728,12 @@
         <mark key="." line="11" column="38" />
         <mark key="^" line="11" column="38" />
       </file>
+      <file name="D:/Dev/GitHub/java-chess/src/test/java/chess/domain/TestBoardStateFactory.java" timestamp="1561220280292">
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="22" column="33" />
+        <mark key="^" line="22" column="33" />
+        <mark key="." line="22" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/StreamUserInterface.java" timestamp="1553337863752">
         <mark key="[" line="68" column="16" />
         <mark key="]" line="68" column="16" />
@@ -1949,8 +1960,11 @@
         <mark key="^" line="7" column="30" />
         <mark key="." line="7" column="30" />
       </file>
-      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/AbstractStateInitiatorFactory.java" timestamp="1561185166031">
-        <mark key="[" line="3" column="0" />
+      <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/AbstractStateInitiatorFactory.java" timestamp="1561219898165">
+        <mark key="[" line="5" column="39" />
+        <mark key="]" line="5" column="32" />
+        <mark key="^" line="5" column="32" />
+        <mark key="." line="5" column="32" />
       </file>
       <file name="D:/Dev/GitHub/java-lotto-1/src/test/java/com/woowacourse/lotto/persistence/dao/WinningLottoDaoTest.java" timestamp="1560695493907">
         <mark key="[" line="34" column="71" />
@@ -2095,40 +2109,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGR0b01hcC5wdXQoc3RhdGVEdG8uZ2V0Q29vcmRYKCkgKyBzdGF0ZUR0by5nZXRDb29yZFkoKSwgc3RhdGVEdG8pKTsK</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZS5lbnRyeVNldCgpLmZvckVhY2goY29uc3VtZXIpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>state</text>
+        <text>forEachEntries</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBCb2FyZFN0YXRlRHRvPiBkdG9NYXAgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29sbGVjdGlvbnMuZW1wdHlNYXAoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29sbGVjdGlvbnMuZW1wdHlNYXAoKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29vcmRpbmF0ZVBhaXIuZm9yRWFjaENvb3JkaW5hdGUoY29vcmQgLT4gZHRvTWFwLnB1dCgpKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBib29sZWFuIGVxdWFscyhPYmplY3QgbykgewogICAgICAgIGlmICh0aGlzID09IG8pIHJldHVybiB0cnVlOwogICAgICAgIGlmIChvID09IG51bGwgfHwgZ2V0Q2xhc3MoKSAhPSBvLmdldENsYXNzKCkpIHJldHVybiBmYWxzZTsKICAgICAgICBDaGVzc0dhbWUgY2hlc3NHYW1lID0gKENoZXNzR2FtZSkgbzsKICAgICAgICByZXR1cm4gT2JqZWN0cy5lcXVhbHMoYm9hcmRTdGF0ZSwgY2hlc3NHYW1lLmJvYXJkU3RhdGUpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCBoYXNoQ29kZSgpIHsKICAgICAgICByZXR1cm4gT2JqZWN0cy5oYXNoKGJvYXJkU3RhdGUpOwogICAgfQ==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ewogICAgICogICAgICAgICAgICAiaWQiOiA0NiwKICAgICAqICAgICAgICAgICAgInRpdGxlIjogIr7GuauzqiC/wLy8v+QhISEiCiAgICAgKiAgICAgICAgICAgIH0sCiAgICAgKiAgICAgICAgICAgIHsKICAgICAqICAgICAgICAgICAgImlkIjogNDUsCiAgICAgKiAgICAgICAgICAgICJ0aXRsZSI6ICK+xrmrs6ogv8C8vL/kISEiCiAgICAgKiAgICAgICAgICAgIH0sCiAgICAgKiAgICAgICAgICAgIHsKICAgICAqICAgICAgICAgICAgImlkIjogNDQsCiAgICAgKiAgICAgICAgICAgICJ0aXRsZSI6ICK+xrmrs6ogv8C8vL/kISIKICAgICAqICAgICAgICAgICAgfSwKICAgICAqICAgICAgICAgICAgewogICAgICogICAgICAgICAgICAiaWQiOiA0MywKICAgICAqICAgICAgICAgICAgInRpdGxlIjogIr7GuauzqiC/wLy8v+QiCiAgICAgKiAgICAgICAgICAgIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmJvYXJkU3RhdGUgPSBzdGF0ZUluaXRpYXRvckZhY3RvcnkuY3JlYXRlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTWFwPENvb3JkaW5hdGVQYWlyLCBDaGVzc1BpZWNlPiBib2FyZFN0YXRlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwb3N0KCIvYXBpL2RyYXciLCBMb3R0b1dlYkNvbnRyb2xsZXI6OmRyYXcsIGdzb246OnRvSnNvbik7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHRoaXMuc3RhdGUgPSBuZXcgSGFzaE1hcDw+KHN0YXRlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQoIi9hcGkvcmVzdWx0LzppZCIsIExvdHRvV2ViQ29udHJvbGxlcjo6cmV0cmlldmVTaW5nbGVBZ2dyZWdhdGlvbiwgZ3Nvbjo6dG9Kc29uKTsKICAgICAgICBwb3N0KCIvYXBpL2J1eSIsIExvdHRvV2ViQ29udHJvbGxlcjo6YnV5TG90dG8sIGdzb246OnRvSnNvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGR0b01hcC5wdXQoc3RhdGVEdG8uZ2V0Q29vcmRYKCkgKyBzdGF0ZUR0by5nZXRDb29yZFkoKSwgc3RhdGVEdG8pKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQoIi9hcGkvcmVzdWx0cyIsIExvdHRvV2ViQ29udHJvbGxlcjo6cmV0cmlldmVBZ2dyZWdhdGlvbnMsIGdzb246OnRvSnNvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBCb2FyZFN0YXRlRHRvPiBkdG9NYXAgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorUpWithSelection</text>
+        <text>action EditorLeftWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>state</text>
+        <text>forEachEntries</text>
       </register>
     </registers>
     <search>
@@ -2141,8 +2155,8 @@
         <entry>!git checkout</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
