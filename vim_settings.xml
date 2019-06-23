@@ -2143,7 +2143,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGR0b01hcC5wdXQoc3RhdGVEdG8uZ2V0Q29vcmRYKCkgKyBzdGF0ZUR0by5nZXRDb29yZFkoKSwgc3RhdGVEdG8pKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDownWithSelection</text>
+        <text>action EditorRightWithSelection</text>
       </register>
       <register name="-" type="4">
         <text>room</text>
@@ -2157,10 +2157,10 @@
       <history-search />
       <history-cmd>
         <entry>!git checkout</entry>
-        <entry>action EditorRightWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorRightWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
