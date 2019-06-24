@@ -78,6 +78,12 @@
         <mark key="^" line="8" column="44" />
         <mark key="." line="8" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/persistence/dao/GameSessionDao.java" timestamp="1561352916238">
+        <mark key="[" line="52" column="44" />
+        <mark key="]" line="55" column="33" />
+        <mark key="." line="55" column="33" />
+        <mark key="^" line="55" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/interfaces/InputView.java" timestamp="1557907477756">
         <mark key="[" line="7" column="27" />
         <mark key="]" line="7" column="26" />
@@ -161,6 +167,12 @@
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/ResultQueryProcessor.java" timestamp="1557912724203">
         <mark key="[" line="7" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/persistence/dao/BoardStateDao.java" timestamp="1561352875046">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="67" column="14" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/model/PaymentType.java" timestamp="1555394527563">
         <mark key="[" line="3" column="16" />
@@ -414,11 +426,11 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/test/java/com/woowacourse/lotto/persistence/dao/AggregationDaoTest.java" timestamp="1561348790644">
-        <mark key="[" line="96" column="64" />
-        <mark key="]" line="96" column="63" />
-        <mark key="." line="96" column="63" />
-        <mark key="^" line="96" column="63" />
+      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/test/java/com/woowacourse/lotto/persistence/dao/AggregationDaoTest.java" timestamp="1561353693573">
+        <mark key="[" line="103" column="62" />
+        <mark key="]" line="96" column="67" />
+        <mark key="." line="96" column="67" />
+        <mark key="^" line="96" column="67" />
       </file>
       <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/controller/LottoWebUIController.java" timestamp="1559659194966">
         <mark key="[" line="8" column="35" />
@@ -435,11 +447,11 @@
         <mark key="." line="26" column="42" />
         <mark key="^" line="26" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/persistence/dao/WinningLottoDao.java" timestamp="1561342916529">
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="20" column="4" />
-        <mark key="^" line="17" column="23" />
-        <mark key="." line="20" column="4" />
+      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/persistence/dao/WinningLottoDao.java" timestamp="1561353552802">
+        <mark key="[" line="69" column="28" />
+        <mark key="]" line="69" column="39" />
+        <mark key="^" line="69" column="39" />
+        <mark key="." line="69" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcar/domain/RacingcarGame.java" timestamp="1557793090100">
         <mark key="[" line="32" column="51" />
@@ -495,11 +507,6 @@
         <mark key="^" line="4" column="32" />
         <mark key="." line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/domain/Bishop.java" timestamp="1561105596648">
-        <mark key="[" line="2" column="52" />
-        <mark key="]" line="2" column="52" />
-        <mark key="." line="2" column="52" />
-      </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/LadderResultQueryProcessor.java" timestamp="1557912914009">
         <mark key="[" line="18" column="41" />
         <mark key="]" line="18" column="11" />
@@ -529,6 +536,12 @@
         <mark key="]" line="22" column="24" />
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/service/SessionServiceImpl.java" timestamp="1561354615237">
+        <mark key="[" line="23" column="41" />
+        <mark key="]" line="23" column="24" />
+        <mark key="." line="23" column="24" />
+        <mark key="^" line="52" column="61" />
       </file>
       <file name="C:/Workspace/java/kt-design-pattern/src/main/kotlin/kr/latera/designpattern/abstractfactory/AbstractDough.kt" timestamp="1559110380957">
         <mark key="[" line="2" column="0" />
@@ -776,6 +789,12 @@
         <mark key="^" line="3" column="32" />
         <mark key="." line="3" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/service/GameServiceImpl.java" timestamp="1561354604702">
+        <mark key="[" line="22" column="41" />
+        <mark key="]" line="22" column="54" />
+        <mark key="." line="22" column="54" />
+        <mark key="^" line="22" column="54" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/test/java/com/woowacourse/lotto/persistence/dao/WinningLottoDaoTest.java" timestamp="1561343027143">
         <mark key="[" line="33" column="75" />
         <mark key="]" line="33" column="75" />
@@ -836,11 +855,11 @@
       <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/domain/LottoQuantity.java" timestamp="1559868222768">
         <mark key="[" line="25" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/persistence/dao/AggregationDao.java" timestamp="1561342848217">
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="12" column="3" />
-        <mark key="^" line="12" column="3" />
-        <mark key="." line="12" column="3" />
+      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/persistence/dao/AggregationDao.java" timestamp="1561353214768">
+        <mark key="[" line="135" column="60" />
+        <mark key="]" line="135" column="41" />
+        <mark key="^" line="135" column="41" />
+        <mark key="." line="135" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/JudgeImpl.java" timestamp="1553337366514">
         <mark key="[" line="34" column="17" />
@@ -991,6 +1010,12 @@
         <mark key="]" line="26" column="11" />
         <mark key="^" line="26" column="11" />
         <mark key="." line="26" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/persistence/dto/GameSessionDto.java" timestamp="1561352020539">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="12" column="18" />
+        <mark key="^" line="12" column="18" />
+        <mark key="." line="12" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/kotlin/com/woowacourse/ladder/domain/DestinationGroup.kt" timestamp="1558399612674">
         <mark key="[" line="29" column="86" />
@@ -1211,10 +1236,11 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/persistence/DataSourceFactory.java" timestamp="1561100973466">
-        <mark key="[" line="8" column="43" />
-        <mark key="]" line="8" column="43" />
-        <mark key="." line="8" column="43" />
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/persistence/DataSourceFactory.java" timestamp="1561354473194">
+        <mark key="[" line="19" column="5" />
+        <mark key="]" line="21" column="32" />
+        <mark key="." line="21" column="32" />
+        <mark key="^" line="21" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/domain/LottoNumber.java" timestamp="1560321937572">
         <mark key="[" line="26" column="76" />
@@ -1233,6 +1259,11 @@
         <mark key="]" line="64" column="18" />
         <mark key="^" line="64" column="18" />
         <mark key="." line="64" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/test/java/chess/persistence/DataSourceFactoryTest.java" timestamp="1561354723595">
+        <mark key="[" line="10" column="50" />
+        <mark key="]" line="10" column="33" />
+        <mark key="." line="10" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaracingcar/domain/CarTest.java" timestamp="1557473875681">
         <mark key="[" line="39" column="64" />
@@ -1273,8 +1304,11 @@
         <mark key="^" line="54" column="70" />
         <mark key="." line="54" column="70" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-chess/src/test/java/chess/persistence/dao/GameSessionDaoTest.java" timestamp="1561337699847">
-        <mark key="[" line="63" column="103" />
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/test/java/chess/persistence/dao/GameSessionDaoTest.java" timestamp="1561354711850">
+        <mark key="[" line="18" column="50" />
+        <mark key="]" line="18" column="63" />
+        <mark key="^" line="18" column="63" />
+        <mark key="." line="18" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/kotlin/com/woowacourse/stringadder/PositiveIntegerAdder.kt" timestamp="1558334487265">
         <mark key="[" line="6" column="24" />
@@ -1426,18 +1460,18 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/persistence/dao/LottoDao.java" timestamp="1561342856411">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="22" column="4" />
-        <mark key="^" line="11" column="36" />
-        <mark key="." line="22" column="4" />
+      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/persistence/dao/LottoDao.java" timestamp="1561353380582">
+        <mark key="[" line="98" column="28" />
+        <mark key="]" line="98" column="39" />
+        <mark key="^" line="98" column="39" />
+        <mark key="." line="98" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/persistence/dto/AggregationDto.java" timestamp="1561347583861">
-        <mark key="'" line="21" column="36" />
-        <mark key="[" line="23" column="50" />
-        <mark key="]" line="24" column="19" />
-        <mark key="^" line="24" column="19" />
-        <mark key="." line="24" column="19" />
+      <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/persistence/dto/AggregationDto.java" timestamp="1561353154005">
+        <mark key="'" line="19" column="36" />
+        <mark key="[" line="32" column="42" />
+        <mark key="]" line="33" column="29" />
+        <mark key="^" line="33" column="29" />
+        <mark key="." line="33" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/test/java/com/woowacourse/ladder/domain/LadderResultTest.java" timestamp="1558071604648">
         <mark key="[" line="23" column="55" />
@@ -1811,6 +1845,12 @@
         <mark key="^" line="31" column="4" />
         <mark key="." line="31" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/test/java/chess/persistence/dao/BoardStateDaoTest.java" timestamp="1561354698375">
+        <mark key="[" line="26" column="41" />
+        <mark key="]" line="26" column="54" />
+        <mark key="^" line="26" column="54" />
+        <mark key="." line="26" column="54" />
+      </file>
       <file name="D:/Dev/java/spring-security-demo/pom.xml" timestamp="1554817256791">
         <mark key="[" line="27" column="24" />
         <mark key="]" line="27" column="51" />
@@ -1973,6 +2013,12 @@
         <mark key="." line="11" column="36" />
         <mark key="^" line="11" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/persistence/dto/BoardStateDto.java" timestamp="1561351926126">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="13" column="27" />
+        <mark key="." line="15" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="28" column="16" filename="C:/Workspace/java/woowahan-tech-course-online-test/src/main/java/Q6.java" />
@@ -1991,43 +2037,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>winningId2</text>
+        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="-" type="4">
-        <text>winningId2</text>
+        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnRcPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lubmluZzIuZ2V0SWQoKSwgQXJyYXlzLmFzTGlzdChsb3R0b0R0bzIuZ2V0SWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGR0by5zZXRHYW1lU2Vzc2lvbklkKHJvb21JZCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lubmluZ0lkMSwgKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gT3B0aW9uYWwub2YoZm91bmQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBURU1QX0xPVFRPLnNldFByaWNlKDEwMDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwUmVzdWx0KHJzKS5pZlByZXNlbnQobG90dG9zOjphZGQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBURU1QX0xPVFRPLnNldE51bWJlcjQoMjkpOwogICAgICAgIFRFTVBfTE9UVE8uc2V0TnVtYmVyNSgxNyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RhdGU7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBURU1QX0xPVFRPLnNldE51bWJlcjIoNDQpOwogICAgICAgIFRFTVBfTE9UVE8uc2V0TnVtYmVyMygzMSk7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">KCk7CiAgICAgICAg</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBURU1QX0xPVFRPLnNldE51bWJlcjAoMjIpOwogICAgICAgIFRFTVBfTE9UVE8uc2V0TnVtYmVyMSgzMyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZS5zZXRDb29yZFkocnMuZ2V0U3RyaW5nKCJsb2NfeSIpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZS5zZXRUeXBlKHJzLmdldFN0cmluZygicGllY2VfdHlwZSIpKTsKICAgICAgICBzdGF0ZS5zZXRDb29yZFgocnMuZ2V0U3RyaW5nKCJsb2NfeCIpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBBZ2dyZWdhdGlvbkR0bygpIHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGUuc2V0SWQocnMuZ2V0TG9uZygiaWQiKSkgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorRightWithSelection</text>
+        <text>action EditorUpWithSelection</text>
       </register>
     </registers>
     <search>
@@ -2042,10 +2088,10 @@
         <entry encoding="base64">XDxpbnRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>action EditorDownWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
-        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
