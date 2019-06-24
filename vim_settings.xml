@@ -258,19 +258,12 @@
         <mark key="^" line="41" column="31" />
         <mark key="." line="41" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/domain/ChessPiece.java" timestamp="1561105614407">
-        <mark key="[" line="118" column="46" />
-        <mark key="]" line="118" column="46" />
-        <mark key="." line="118" column="46" />
-        <mark key="^" line="118" column="46" />
-      </file>
       <file name="$USER_HOME$/Documents/Github/java-coordinate/src/main/java/com/woowacourse/coordinate/domain/FigureKind.java" timestamp="1558683651264">
         <mark key="[" line="19" column="29" />
         <mark key="]" line="19" column="29" />
         <mark key="^" line="14" column="50" />
         <mark key="." line="19" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/domain/Knight.java" timestamp="1561101686553" />
       <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/interfaces/NumberGenerator.java" timestamp="1553851230689">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="7" />
@@ -292,7 +285,6 @@
         <mark key="^" line="18" column="65" />
         <mark key="." line="18" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/domain/Team.java" timestamp="1561078510432" />
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaRacingcar/RacingCarUtil.java" timestamp="1557297249456">
         <mark key="[" line="13" column="58" />
         <mark key="]" line="17" column="0" />
@@ -364,12 +356,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Github/java-lotto-1/build.gradle" timestamp="1559112756692">
         <mark key="[" line="15" column="50" />
-      </file>
-      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/domain/Queen.java" timestamp="1561105684955">
-        <mark key="[" line="30" column="45" />
-        <mark key="]" line="30" column="45" />
-        <mark key="^" line="30" column="44" />
-        <mark key="." line="30" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/kotlin/com/woowacourse/stringadder/StringAdder.kt" timestamp="1558330352790">
         <mark key="[" line="5" column="12" />
@@ -504,9 +490,9 @@
         <mark key="." line="4" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/domain/Bishop.java" timestamp="1561105596648">
-        <mark key="[" line="30" column="52" />
-        <mark key="]" line="30" column="52" />
-        <mark key="." line="30" column="52" />
+        <mark key="[" line="2" column="52" />
+        <mark key="]" line="2" column="52" />
+        <mark key="." line="2" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/LadderResultQueryProcessor.java" timestamp="1557912914009">
         <mark key="[" line="18" column="41" />
@@ -1072,7 +1058,6 @@
         <mark key="^" line="13" column="52" />
         <mark key="." line="13" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/domain/ChessBoard.java" timestamp="1561078621656" />
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/AbstractPlayer.java" timestamp="1553336468432">
         <mark key="[" line="9" column="2" />
         <mark key="]" line="9" column="2" />
@@ -1178,9 +1163,6 @@
         <mark key="^" line="20" column="25" />
         <mark key="." line="20" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/domain/ChessGame.java" timestamp="1561101316315">
-        <mark key="[" line="5" column="23" />
-      </file>
       <file name="$USER_HOME$/Documents/Github/kt-test-app/src/main/kotlin/kr/latera/kttestapp/AppMain.kt" timestamp="1558594864142">
         <mark key="[" line="2" column="0" />
       </file>
@@ -1243,6 +1225,12 @@
       <file name="$USER_HOME$/Documents/Github/java-ladder/build.gradle" timestamp="1558329633947">
         <mark key="[" line="12" column="60" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/WebUIChessApplication.java" timestamp="1561337650409">
+        <mark key="[" line="30" column="39" />
+        <mark key="]" line="30" column="39" />
+        <mark key="." line="30" column="39" />
+        <mark key="^" line="30" column="44" />
+      </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/StopOrGo.java" timestamp="1553854400742">
         <mark key="[" line="13" column="10" />
         <mark key="]" line="13" column="10" />
@@ -1260,6 +1248,9 @@
         <mark key="]" line="54" column="70" />
         <mark key="^" line="54" column="70" />
         <mark key="." line="54" column="70" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/test/java/chess/persistence/dao/GameSessionDaoTest.java" timestamp="1561337699847">
+        <mark key="[" line="63" column="103" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/kotlin/com/woowacourse/stringadder/PositiveIntegerAdder.kt" timestamp="1558334487265">
         <mark key="[" line="6" column="24" />
@@ -1950,40 +1941,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtb3ZhYmxlQ29vcmRzLmFkZEFsbChwcm9iZURpYWdvbmFsKHBpZWNlVGVhbVByb3ZpZGVyLCB4Q29vcmRzLCB5Q29vcmRzKSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>null</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgeUNvb3JkcyA9IENoZXNzWUNvb3JkaW5hdGUuZ2V0RGVzY2VuZGluZ0Nvb3JkaW5hdGVzKGZyb21ZKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB4Q29vcmRzID0gQ2hlc3NYQ29vcmRpbmF0ZS5nZXRBc2NlbmRpbmdDb29yZGluYXRlcyhmcm9tWCk7CiAgICAgICAgbW92YWJsZUNvb3Jkcy5hZGRBbGwocHJvYmVEaWFnb25hbChwaWVjZVRlYW1Qcm92aWRlciwgeENvb3JkcywgeUNvb3JkcykpOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBtb3ZhYmxlQ29vcmRzLmFkZEFsbChwcm9iZURpYWdvbmFsKHBpZWNlVGVhbVByb3ZpZGVyLCB4Q29vcmRzLCB5Q29vcmRzKSk7Cgo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICAgICAgeUNvb3JkcyA9IENoZXNzWUNvb3JkaW5hdGUuZ2V0RGVzY2VuZGluZ0Nvb3JkaW5hdGVzKGZyb21ZKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB4Q29vcmRzID0gQ2hlc3NYQ29vcmRpbmF0ZS5nZXRBc2NlbmRpbmdDb29yZGluYXRlcyhmcm9tWCk7CiAgICAgICAgbW92YWJsZUNvb3Jkcy5hZGRBbGwocHJvYmVEaWFnb25hbChwaWVjZVRlYW1Qcm92aWRlciwgeENvb3JkcywgeUNvb3JkcykpOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgeUNvb3JkcyA9IENoZXNzWUNvb3JkaW5hdGUuZ2V0QXNjZW5kaW5nQ29vcmRpbmF0ZXMoZnJvbVkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtb3ZhYmxlQ29vcmRzLmFkZEFsbChwcm9iZURpYWdvbmFsKHBpZWNlVGVhbVByb3ZpZGVyLCB4Q29vcmRzLCB5Q29vcmRzKSk7Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgbW92YWJsZUNvb3Jkcy5hZGRBbGwocHJvYmVEaWFnb25hbChwaWVjZVRlYW1Qcm92aWRlciwgeENvb3JkcywgeUNvb3JkcykpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgeUNvb3JkcyA9IENoZXNzWUNvb3JkaW5hdGUuZ2V0QXNjZW5kaW5nQ29vcmRpbmF0ZXMoZnJvbVkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PENoZXNzWENvb3JkaW5hdGU+IHhDb29yZHMgPSBDaGVzc1hDb29yZGluYXRlLmdldERlc2NlbmRpbmdDb29yZGluYXRlcyhmcm9tWCk7CiAgICAgICAgTGlzdDxDaGVzc1lDb29yZGluYXRlPiB5Q29vcmRzID0gQ2hlc3NZQ29vcmRpbmF0ZS5nZXREZXNjZW5kaW5nQ29vcmRpbmF0ZXMoZnJvbVkpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgbW92YWJsZUNvb3Jkcy5hZGRBbGwocHJvYmVEaWFnb25hbChwaWVjZVRlYW1Qcm92aWRlciwgeENvb3JkcywgeUNvb3JkcykpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIG1vdmFibGVDb29yZHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PENoZXNzWENvb3JkaW5hdGU+IHhDb29yZHMgPSBDaGVzc1hDb29yZGluYXRlLmdldERlc2NlbmRpbmdDb29yZGluYXRlcyhmcm9tWCk7CiAgICAgICAgTGlzdDxDaGVzc1lDb29yZGluYXRlPiB5Q29vcmRzID0gQ2hlc3NZQ29vcmRpbmF0ZS5nZXREZXNjZW5kaW5nQ29vcmRpbmF0ZXMoZnJvbVkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbW92YWJsZUNvb3JkczsK</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIG1vdmFibGVDb29yZHM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>null</text>
       </register>
     </registers>
     <search>
