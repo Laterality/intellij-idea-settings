@@ -414,6 +414,12 @@
         <mark key="^" line="63" column="40" />
         <mark key="." line="63" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/test/java/chess/domain/MyTest.java" timestamp="1561421934138">
+        <mark key="[" line="13" column="36" />
+        <mark key="]" line="13" column="37" />
+        <mark key="^" line="13" column="37" />
+        <mark key="." line="13" column="37" />
+      </file>
       <file name="D:/Dev/GitHub/java-lotto-1/src/main/java/com/woowacourse/lotto/domain/dao/ConnectionFactory.java" timestamp="1559798926172">
         <mark key="[" line="9" column="47" />
         <mark key="]" line="9" column="47" />
@@ -1869,11 +1875,11 @@
         <mark key="^" line="31" column="4" />
         <mark key="." line="31" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-chess/src/test/java/chess/persistence/dao/BoardStateDaoTest.java" timestamp="1561354698375">
-        <mark key="[" line="26" column="41" />
-        <mark key="]" line="26" column="54" />
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/test/java/chess/persistence/dao/BoardStateDaoTest.java" timestamp="1561421201949">
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="32" column="4" />
         <mark key="^" line="26" column="54" />
-        <mark key="." line="26" column="54" />
+        <mark key="." line="32" column="4" />
       </file>
       <file name="D:/Dev/java/spring-security-demo/pom.xml" timestamp="1554817256791">
         <mark key="[" line="27" column="24" />
@@ -2061,10 +2067,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>black</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="-" type="4">
-        <text>black</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnRcPg==</text>
@@ -2097,7 +2103,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gc3RhdGU7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorLeftWithSelection</text>
+        <text>action EditorDownWithSelection</text>
       </register>
     </registers>
     <search>
@@ -2112,10 +2118,10 @@
         <entry encoding="base64">XDxpbnRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>action EditorUpWithSelection</entry>
-        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorDownWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
