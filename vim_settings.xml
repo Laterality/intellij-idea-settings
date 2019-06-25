@@ -321,6 +321,12 @@
         <mark key="^" line="5" column="25" />
         <mark key="." line="5" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/test/java/chess/BoardTest.java" timestamp="1561426181359">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
+        <mark key="^" line="126" column="51" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaRacingcar/domain/Car.java" timestamp="1557299576921">
         <mark key="[" line="20" column="23" />
         <mark key="]" line="20" column="22" />
@@ -344,6 +350,12 @@
         <mark key="]" line="13" column="35" />
         <mark key="^" line="11" column="37" />
         <mark key="." line="13" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/test/java/racingcar/CarTest.java" timestamp="1561426832192">
+        <mark key="[" line="21" column="79" />
+        <mark key="]" line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="14" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/kotlin/com/woowacourse/ladder/domain/BooleanGenerator.kt" timestamp="1558337427078">
         <mark key="[" line="2" column="0" />
@@ -455,6 +467,12 @@
         <mark key="]" line="8" column="29" />
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/test/java/racingcar/MovingStrategy.java" timestamp="1561426806324">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+        <mark key="^" line="4" column="22" />
       </file>
       <file name="C:/Workspace/java/kt-design-pattern/src/main/kotlin/kr/latera/designpattern/abstractfactory/PizzaFactory.kt" timestamp="1559109526204">
         <mark key="[" line="2" column="0" />
@@ -699,6 +717,12 @@
         <mark key="^" line="40" column="24" />
         <mark key="." line="40" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/BoardInitializerImpl.java" timestamp="1561425976558">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="8" column="10" />
+        <mark key="^" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+      </file>
       <file name="C:/Workspace/java/kt-design-pattern/src/main/kotlin/kr/latera/designpattern/abstractfactory/ThinDough.kt" timestamp="1559110462517">
         <mark key="[" line="3" column="36" />
         <mark key="]" line="5" column="0" />
@@ -782,6 +806,12 @@
         <mark key="]" line="19" column="15" />
         <mark key="^" line="19" column="21" />
         <mark key="." line="19" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/BoardInitializer.java" timestamp="1561425814640">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+        <mark key="." line="5" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/DestinationGroup.java" timestamp="1558059067285">
         <mark key="[" line="4" column="0" />
@@ -929,6 +959,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
         <mark key="^" line="8" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/test/java/racingcar/Car.java" timestamp="1561426472551">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="4" />
+        <mark key="^" line="5" column="4" />
+        <mark key="." line="5" column="4" />
       </file>
       <file name="C:/Workspace/java/woowacourse-offline/src/main/java/kr/latera/woowacourseoffline/TestClass.java" timestamp="1555390618699">
         <mark key="[" line="9" column="32" />
@@ -1094,6 +1130,12 @@
         <mark key="]" line="15" column="46" />
         <mark key="." line="15" column="46" />
         <mark key="^" line="15" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/ChessGame.java" timestamp="1561426212104">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="13" column="51" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/test/java/com/woowacourse/lotto/LottoFactoryTest.java" timestamp="1559023630308">
         <mark key="[" line="14" column="43" />
@@ -1290,11 +1332,6 @@
         <mark key="^" line="64" column="18" />
         <mark key="." line="64" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-chess/src/test/java/chess/persistence/DataSourceFactoryTest.java" timestamp="1561354723595">
-        <mark key="[" line="10" column="50" />
-        <mark key="]" line="10" column="33" />
-        <mark key="." line="10" column="33" />
-      </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaracingcar/domain/CarTest.java" timestamp="1557473875681">
         <mark key="[" line="39" column="64" />
         <mark key="]" line="39" column="62" />
@@ -1321,6 +1358,12 @@
         <mark key="]" line="13" column="10" />
         <mark key="." line="13" column="10" />
         <mark key="^" line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/test/java/chess/TestBoardInitializer.java" timestamp="1561426026312">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="18" />
+        <mark key="^" line="8" column="18" />
+        <mark key="." line="8" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/model/MovieBookingService.java" timestamp="1555393955556">
         <mark key="[" line="13" column="8" />
@@ -1571,6 +1614,12 @@
         <mark key="^" line="21" column="66" />
         <mark key="." line="21" column="66" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/test/java/racingcar/TestMovingStrategy.java" timestamp="1561426768113">
+        <mark key="[" line="5" column="42" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/ParticipantGroup.java" timestamp="1557977359343">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -1786,6 +1835,12 @@
         <mark key="]" line="34" column="65" />
         <mark key="." line="34" column="65" />
         <mark key="^" line="34" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/Board.java" timestamp="1561426262053">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="17" column="18" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/view/OutputView.java" timestamp="1555403457488">
         <mark key="[" line="42" column="46" />
@@ -2015,6 +2070,12 @@
         <mark key="^" line="45" column="51" />
         <mark key="." line="45" column="51" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/test/java/racingcar/ProductionMovingStrategy.java" timestamp="1561426545823">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="13" />
+        <mark key="^" line="14" column="37" />
+        <mark key="." line="4" column="13" />
+      </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/main/java/domain/RandomNumberGenerator.java" timestamp="1553851513182">
         <mark key="[" line="12" column="39" />
         <mark key="]" line="12" column="46" />
@@ -2063,43 +2124,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnRcPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgR2FtZVJlc3VsdC5qdWRnZVNjb3JlKCkK</text>
+        <text encoding="base64">ICAgICAgICBjYXIubW92ZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBSYW5kb20gcmFuZG9tID0gbmV3IFJhbmRvbSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmFuZG9tLm5leHRJbnQobWF4Qm91bmQpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgogICAg</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1heEJvdW5kID0gbWF4Qm91bmQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGR0by5zZXRHYW1lU2Vzc2lvbklkKHJvb21JZCk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gT3B0aW9uYWwub2YoZm91bmQpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBUZXN0TW92aW5nU3RyYXRlZ3koaW50IG1heEJvdW5kKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFwUmVzdWx0KHJzKS5pZlByZXNlbnQobG90dG9zOjphZGQpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmaW5hbCBpbnQgbWF4Qm91bmQ7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RhdGU7Cg==</text>
+        <text encoding="base64">QEZ1bmN0aW9uYWxJbnRlcmZhY2UK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDownWithSelection</text>
+        <text>action EditorUpWithSelection</text>
       </register>
     </registers>
     <search>
@@ -2115,9 +2176,9 @@
       </history-search>
       <history-cmd>
         <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
