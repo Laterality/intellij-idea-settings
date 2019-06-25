@@ -259,8 +259,11 @@
         <mark key="." line="47" column="25" />
         <mark key="^" line="47" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/domain/BoardStateFactory.java" timestamp="1561437862049">
-        <mark key="^" line="2" column="31" />
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/domain/BoardStateFactory.java" timestamp="1561443338294">
+        <mark key="[" line="37" column="84" />
+        <mark key="]" line="37" column="94" />
+        <mark key="^" line="37" column="94" />
+        <mark key="." line="37" column="94" />
       </file>
       <file name="C:/Workspace/java/kt-design-pattern/src/main/kotlin/kr/latera/designpattern/abstractfactory/Client.kt" timestamp="1559111021021">
         <mark key="[" line="4" column="12" />
@@ -1903,11 +1906,11 @@
         <mark key="." line="3" column="35" />
         <mark key="^" line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/domain/GameBoardState.java" timestamp="1561441704248">
-        <mark key="[" line="28" column="38" />
-        <mark key="]" line="28" column="38" />
-        <mark key="." line="28" column="38" />
-        <mark key="^" line="28" column="65" />
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/domain/GameBoardState.java" timestamp="1561443446285">
+        <mark key="[" line="27" column="28" />
+        <mark key="]" line="27" column="37" />
+        <mark key="." line="27" column="37" />
+        <mark key="^" line="27" column="37" />
       </file>
       <file name="C:/Workspace/java/kt-design-pattern/src/main/kotlin/kr/latera/designpattern/abstractfactory/PepperoniPizzaFactory.kt" timestamp="1559110997984">
         <mark key="[" line="7" column="51" />
@@ -2179,40 +2182,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>Cell</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Cell</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnRcPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBDZWxsRmFjdG9yeSBmYWN0b3J5ID0gQ2VsbEZhY3RvcnkoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4gaXNNb3ZhYmxlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgIGJvb2xlYW4gaXNNb3ZhYmxlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjYXIubW92ZSgpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBSYW5kb20gcmFuZG9tID0gbmV3IFJhbmRvbSgpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmFuZG9tLm5leHRJbnQobWF4Qm91bmQpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjYXIubW92ZSgpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBSYW5kb20gcmFuZG9tID0gbmV3IFJhbmRvbSgpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmFuZG9tLm5leHRJbnQobWF4Qm91bmQpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1heEJvdW5kID0gbWF4Qm91bmQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorUpWithSelection</text>
