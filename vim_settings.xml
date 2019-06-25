@@ -776,6 +776,11 @@
         <mark key="." line="16" column="58" />
         <mark key="^" line="16" column="58" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/domain/piece/CellFactory.java" timestamp="1561441236996">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/test/java/com/woowacourse/ladder/domain/LadderStateTest.java" timestamp="1558073863644">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="46" />
@@ -871,9 +876,9 @@
       </file>
       <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/service/GameServiceImpl.java" timestamp="1561439169933">
         <mark key="[" line="3" column="32" />
-        <mark key="]" line="110" column="47" />
-        <mark key="." line="110" column="47" />
-        <mark key="^" line="110" column="47" />
+        <mark key="]" line="112" column="47" />
+        <mark key="." line="112" column="47" />
+        <mark key="^" line="112" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/test/java/com/woowacourse/lotto/persistence/dao/WinningLottoDaoTest.java" timestamp="1561343027143">
         <mark key="[" line="33" column="75" />
@@ -1897,6 +1902,12 @@
         <mark key="." line="3" column="35" />
         <mark key="^" line="3" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/domain/GameBoardState.java" timestamp="1561441704248">
+        <mark key="[" line="28" column="38" />
+        <mark key="]" line="28" column="38" />
+        <mark key="." line="28" column="38" />
+        <mark key="^" line="28" column="65" />
+      </file>
       <file name="C:/Workspace/java/kt-design-pattern/src/main/kotlin/kr/latera/designpattern/abstractfactory/PepperoniPizzaFactory.kt" timestamp="1559110997984">
         <mark key="[" line="7" column="51" />
         <mark key="]" line="9" column="0" />
@@ -2167,40 +2178,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ChessPiece</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>ChessPiece</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnRcPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4gaXNNb3ZhYmxlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgIGJvb2xlYW4gaXNNb3ZhYmxlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYXIubW92ZSgpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBSYW5kb20gcmFuZG9tID0gbmV3IFJhbmRvbSgpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmFuZG9tLm5leHRJbnQobWF4Qm91bmQpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjYXIubW92ZSgpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBSYW5kb20gcmFuZG9tID0gbmV3IFJhbmRvbSgpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmFuZG9tLm5leHRJbnQobWF4Qm91bmQpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1heEJvdW5kID0gbWF4Qm91bmQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1heEJvdW5kID0gbWF4Qm91bmQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorUpWithSelection</text>
