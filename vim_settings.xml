@@ -1323,10 +1323,10 @@
         <mark key="." line="20" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/domain/ChessGame.java" timestamp="1561454523925">
-        <mark key="[" line="39" column="5" />
-        <mark key="]" line="36" column="31" />
-        <mark key="^" line="36" column="31" />
-        <mark key="." line="36" column="31" />
+        <mark key="[" line="43" column="5" />
+        <mark key="]" line="40" column="31" />
+        <mark key="^" line="40" column="31" />
+        <mark key="." line="40" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-coordinate/src/test/java/com/woowacourse/coordinate/domain/TriangleTest.java" timestamp="1558686586030">
         <mark key="[" line="43" column="29" />
@@ -1699,7 +1699,7 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/domain/LivingPieceGroup.java" timestamp="1561454539834">
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/domain/LivingPieceGroup.java" timestamp="1561507472046">
         <mark key="[" line="38" column="5" />
         <mark key="]" line="31" column="29" />
         <mark key="^" line="31" column="29" />
