@@ -874,9 +874,11 @@
         <mark key="^" line="5" column="14" />
         <mark key="." line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/service/GameService.java" timestamp="1561600252767">
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/service/GameService.java" timestamp="1561601252855">
+        <mark key="[" line="40" column="60" />
+        <mark key="]" line="40" column="58" />
+        <mark key="." line="40" column="58" />
+        <mark key="^" line="40" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/DestinationGroup.java" timestamp="1558059067285">
         <mark key="[" line="4" column="0" />
@@ -1252,8 +1254,8 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/service/SessionService.java" timestamp="1561600312368">
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/view/OutputVIew.java" timestamp="1561451378694">
         <mark key="[" line="28" column="25" />
