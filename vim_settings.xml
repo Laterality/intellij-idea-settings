@@ -108,11 +108,11 @@
         <mark key="." line="19" column="29" />
         <mark key="^" line="19" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/conroller/ChessGameController.java" timestamp="1561534793757">
-        <mark key="[" line="21" column="19" />
-        <mark key="]" line="21" column="44" />
-        <mark key="^" line="21" column="44" />
-        <mark key="." line="21" column="44" />
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/conroller/ChessGameController.java" timestamp="1561604899231">
+        <mark key="[" line="103" column="19" />
+        <mark key="]" line="103" column="19" />
+        <mark key="^" line="21" column="28" />
+        <mark key="." line="103" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcar/domain/CarDto.java" timestamp="1557453709168">
         <mark key="[" line="9" column="37" />
@@ -2284,11 +2284,11 @@
       <jump line="34" column="16" filename="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/Direction.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U1FMRXhjZXB0aW9uIA==</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoMVw+</text>
