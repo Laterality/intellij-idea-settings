@@ -78,12 +78,6 @@
         <mark key="^" line="8" column="44" />
         <mark key="." line="8" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/persistence/dao/GameSessionDao.java" timestamp="1561352916238">
-        <mark key="[" line="52" column="44" />
-        <mark key="]" line="55" column="33" />
-        <mark key="." line="55" column="33" />
-        <mark key="^" line="55" column="33" />
-      </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/interfaces/InputView.java" timestamp="1557907477756">
         <mark key="[" line="7" column="27" />
         <mark key="]" line="7" column="26" />
@@ -180,11 +174,11 @@
         <mark key="^" line="41" column="36" />
         <mark key="." line="41" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/persistence/dao/BoardStateDao.java" timestamp="1561595271302">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="68" />
-        <mark key="^" line="17" column="68" />
-        <mark key="." line="17" column="68" />
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/persistence/dao/BoardStateDao.java" timestamp="1561600101195">
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="11" />
+        <mark key="^" line="18" column="11" />
+        <mark key="." line="18" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/model/PaymentType.java" timestamp="1555394527563">
         <mark key="[" line="3" column="16" />
@@ -880,11 +874,9 @@
         <mark key="^" line="5" column="14" />
         <mark key="." line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/service/GameService.java" timestamp="1561357959811">
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="15" />
-        <mark key="^" line="19" column="21" />
-        <mark key="." line="19" column="15" />
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/service/GameService.java" timestamp="1561600252767">
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/java/com/woowacourse/ladder/domain/DestinationGroup.java" timestamp="1558059067285">
         <mark key="[" line="4" column="0" />
@@ -1259,11 +1251,9 @@
         <mark key="^" line="2" column="38" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/service/SessionService.java" timestamp="1561357740060">
-        <mark key="[" line="17" column="37" />
-        <mark key="]" line="17" column="47" />
-        <mark key="^" line="17" column="47" />
-        <mark key="." line="17" column="47" />
+      <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/service/SessionService.java" timestamp="1561600312368">
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/view/OutputVIew.java" timestamp="1561451378694">
         <mark key="[" line="28" column="25" />
@@ -2292,44 +2282,44 @@
       <jump line="34" column="16" filename="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/Direction.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">U1FMRXhjZXB0aW9uIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoMVw+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGV4ZWN1dGVBbmRHZXRGb3VuZEFnZ3JlZ2F0aW9ucyhxdWVyeSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgCiAgICAgICAgfSBjYXRjaCAoU1FMRXhjZXB0aW9uIGUpIHsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEFnZ3JlZ2F0aW9uRHRvPiByZXN1bHRzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxBZ2dyZWdhdGlvbkR0bz4gbWFwQWdncmVnYXRpb25SZXN1bHRzKFJlc3VsdFNldCBycykgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgcmV0dXJuIENvbGxlY3Rpb25zLmVtcHR5TGlzdCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChTUUxFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgcmV0dXJuIE9wdGlvbmFsLmVtcHR5KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChTUUxFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG1hcEFnZ3JlZ2F0aW9uUmVzdWx0cyhyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorRightWithSelection</text>
+        <text>action EditorDownWithSelection</text>
       </register>
     </registers>
     <search>
@@ -2345,10 +2335,10 @@
         <entry encoding="base64">XDxoMVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorRightWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorDownWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
