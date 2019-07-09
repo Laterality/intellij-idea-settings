@@ -283,11 +283,11 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/ArticleController.java" timestamp="1562655734093">
-        <mark key="[" line="40" column="38" />
-        <mark key="]" line="40" column="47" />
-        <mark key="." line="40" column="47" />
-        <mark key="^" line="40" column="47" />
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/ArticleController.java" timestamp="1562659186257">
+        <mark key="[" line="39" column="38" />
+        <mark key="]" line="39" column="47" />
+        <mark key="." line="39" column="47" />
+        <mark key="^" line="39" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/stringcalculator/AppMain.java" timestamp="1557447228694">
         <mark key="[" line="14" column="57" />
@@ -810,10 +810,11 @@
         <mark key="." line="34" column="69" />
         <mark key="^" line="34" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/article-edit.html" timestamp="1562649497289">
-        <mark key="[" line="104" column="34" />
-        <mark key="]" line="104" column="34" />
-        <mark key="." line="104" column="34" />
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/article-edit.html" timestamp="1562659911641">
+        <mark key="[" line="121" column="13" />
+        <mark key="]" line="82" column="112" />
+        <mark key="^" line="82" column="112" />
+        <mark key="." line="82" column="112" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/test/java/com/woowacourse/lotto/domain/LottoFactoryTest.java" timestamp="1559094762354">
         <mark key="[" line="22" column="60" />
@@ -899,11 +900,11 @@
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/article.html" timestamp="1562657147407">
-        <mark key="[" line="86" column="81" />
-        <mark key="]" line="86" column="78" />
-        <mark key="." line="86" column="78" />
-        <mark key="^" line="86" column="78" />
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/article.html" timestamp="1562659746035">
+        <mark key="[" line="89" column="58" />
+        <mark key="]" line="89" column="56" />
+        <mark key="." line="89" column="56" />
+        <mark key="^" line="89" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/domain/MovieRepository.java" timestamp="1555401488353">
         <mark key="[" line="51" column="0" />
@@ -923,11 +924,11 @@
         <mark key="^" line="14" column="32" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/web/ArticleControllerTests.java" timestamp="1562655796404">
-        <mark key="[" line="64" column="28" />
-        <mark key="]" line="64" column="28" />
-        <mark key="." line="64" column="28" />
-        <mark key="^" line="63" column="22" />
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/web/ArticleControllerTests.java" timestamp="1562659964167">
+        <mark key="[" line="63" column="28" />
+        <mark key="]" line="63" column="28" />
+        <mark key="." line="63" column="28" />
+        <mark key="^" line="62" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcarwithoutif/domain/Car.java" timestamp="1557454009863">
         <mark key="[" line="12" column="21" />
@@ -2516,31 +2517,40 @@
       <jump line="46" column="46" filename="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/web/ArticleControllerTests.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PC9zY3JpcHQ+CjxzY3JpcHQ+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>$</text>
       </register>
       <register name="-" type="4">
-        <text>하</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoMVw+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PC9zY3JpcHQ+CjxzY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbml0aWFsVmFsdWU6IGluaXRWYWx1ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGluaXRWYWx1ZSA9IFtbJHthcnRpY2xlLmNvbnRlbnR9XV0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICBjb25zdCB2aWV3ZXIgPSB0dWkuRWRpdG9yLmZhY3RvcnkoewogICAgICAgIGVsOiBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcjdmlld2VyU2VjdGlvbicpLAogICAgICAgIHZpZXdlcjogdHJ1ZSwKICAgICAgICBoZWlnaHQ6ICcxMDAlJywKICAgICAgICBpbml0aWFsVmFsdWU6IGluaXRWYWx1ZQogICAgfSk=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC9zY3JpcHQ+CjxzY3JpcHQ+Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">LyoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICovCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGluaXRWYWx1ZSA9ICAke30K</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>&quot;# 목적의식 있는 연습을 통한 효과적인 학습 \n&quot; +
         &quot;나는 우아한형제들에서 우아한테크코스(이하 우테코) 교육 과정을 진행하고 있다. 우테코를 설계하면서 고민스러웠던 부분 중의 하나는 ‘선발 과정을 어떻게 하면 의미 있는 시간으로 만들 것인가?’였다. 보통의 선발 과정은 경쟁을 통해 누군가를 선발해야 하는 것이 가장 큰 목적이다. 선발도 중요하지만 선발 과정에서 배움을 만들고 성장할 수 있는 시간으로 만들어 보고 싶었다. 이 목표를 달성하기 위해 선발 과정에 프리코스라는 3주간의 과정을 추가했다.\n&quot; +
         &quot;우테코는 지식 중심의 교육 과정이 아니다. 경험 중심의 교육 과정으로 매주마다 미션을 부여하고, 이에 대한 피드백을 받는 방식으로 진행한다. 약간은 생소한 교육 과정이기 때문에 본 과정을 미리 경험해 보는 단계로 프리코스를 추가한 이유도 있다. 이 과정을 통해 지원자는 본 과정을 미리 경험해 보면서 교육의 참여 여부를 결정할 수 있고, 우테코는 본 과정을 소화하는데 어려움이 없는지 판단하는 시간으로 설계했다.\n&quot; +
@@ -2550,15 +2560,6 @@
         &quot;우리는 최초 무엇인가를 배울 때 책, 인터넷, 교육 기관을 통해 전반적인 개념, 기술을 익히고 배운다. 일정 수준에 도달할 때까지 반복 연습을 한다. 연습을 반복하다 보면 의식하지 않아도 기계적으로 할 수 있는 수준에 도달한다. 만족해하며 자신이 연습한 일을 즐기며 기계적으로 반복한다. 이렇게 5년, 10년을 반복해 경험을 쌓으면 자연스럽게 역량이 향상되리라 믿는다. 우리가 학습과 관련해 흔히 잘못 알고 있는 오해이다. 운전을 하고, 피아노를 연주하고, 테니스를 치는 것이 연습이라 생각하고 반복한다. 하지만 기계적으로 같은 연습을 반복한다고 해서 역량이 좋아지지 않는다.\n&quot; +
         &quot;자신이 새로운 무엇인가를 배울 때를 떠올려 보자. 시작하는 단계는 익숙하지 않기 때문에 상당히 의식적으로 노력해야 한다. 긴장감 때문에 몸이 굳어지거나 부자연스러운 경험을 한다. 하지만 반복 연습을 하다 보면 의식하지 않아도 기계적으로 할 수 있는 단계가 된다. 이와 같이 몸이 굳어지고, 부자연스러운 상태를 벗어나기 위해 의식적으로 노력하는 순간이 진정한 배움과 학습이 일어나는 순간이다. 내가 현재 수준에 만족하고 더 이상의 의식적인 노력을 하지 않는다면 그 순간 성장이 멈추는 단계이다. 무작정 반복하고 경력을 쌓는다고 해서 성장하지 않는다. 20년 경력의 의사가 5년 경력의 의사보다 환자의 병을 잘 진단한다고 볼 수 없다. 경력을 쌓는 과정에서 의식적인 노력을 통해 다음 단계로 성장하기 위해 노력했느냐에 따라 달라지는 것이다.\n&quot; +
         &quot;3주라는 짧은 기간에 효과적으로 연습하도록 하기 위해 의식적인 연습을 기반으로 미션을</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmJvZHkoTW9uby5qdXN0KHJlcXVlc3RNYXApLCBNYXAuY2xhc3MpCiAgICAgICAgICAgIC5leGNoYW5nZSgpOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWJUZXN0Q2xpZW50LnBvc3QoKQogICAgICAgICAgICAudXJpKCIvYXJ0aWNsZXMiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorUpWithSelection</text>
