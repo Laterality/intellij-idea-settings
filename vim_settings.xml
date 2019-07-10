@@ -899,7 +899,8 @@
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/article.html" timestamp="1562659746035">
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/article.html" timestamp="1562721812363">
+        <mark key="'" line="74" column="16" />
         <mark key="[" line="89" column="58" />
         <mark key="]" line="89" column="56" />
         <mark key="." line="89" column="56" />
@@ -2513,6 +2514,7 @@
       <jump line="32" column="15" filename="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/Direction.java" />
       <jump line="34" column="16" filename="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/Direction.java" />
       <jump line="46" column="46" filename="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/web/ArticleControllerTests.java" />
+      <jump line="74" column="16" filename="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/article.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
