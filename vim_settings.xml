@@ -78,11 +78,11 @@
         <mark key="^" line="11" column="32" />
         <mark key="." line="8" column="32" />
       </file>
-      <file name="C:/Workspace/java/jpa-study/build.gradle" timestamp="1562742247873">
-        <mark key="[" line="17" column="82" />
-        <mark key="]" line="15" column="4" />
-        <mark key="." line="15" column="4" />
-        <mark key="^" line="15" column="4" />
+      <file name="C:/Workspace/java/jpa-study/build.gradle" timestamp="1562743211841">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="4" />
+        <mark key="." line="19" column="4" />
+        <mark key="^" line="20" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-coordinate/src/test/java/com/woowacourse/coordinate/domain/SquareTest.java" timestamp="1558686827983">
         <mark key="[" line="47" column="81" />
@@ -784,11 +784,11 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="97" column="49" />
       </file>
-      <file name="C:/Workspace/java/jpa-study/src/main/java/kr/latera/jpastudy/entity/Member.java" timestamp="1562742211083">
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="18" column="3" />
-        <mark key="^" line="18" column="3" />
-        <mark key="." line="18" column="3" />
+      <file name="C:/Workspace/java/jpa-study/src/main/java/kr/latera/jpastudy/entity/Member.java" timestamp="1562743170451">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="23" column="3" />
+        <mark key="^" line="23" column="3" />
+        <mark key="." line="23" column="3" />
       </file>
       <file name="C:/Workspace/java/test-project/src/test/java/kr/latera/testproject/CarTest.java" timestamp="1557477728463">
         <mark key="[" line="25" column="5" />
@@ -2575,10 +2575,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>EntityManager</text>
+        <text>providedC</text>
       </register>
       <register name="-" type="4">
-        <text>EntityManager</text>
+        <text>providedC</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoMVw+</text>
