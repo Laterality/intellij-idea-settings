@@ -1493,6 +1493,13 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
+      <file name="C:/Workspace/java/cabinet/src/main/java/kr/latera/cabinet/AppMain.java" timestamp="1562724046108">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="38" column="30" />
+        <mark key="]" line="38" column="29" />
+        <mark key="." line="38" column="29" />
+        <mark key="^" line="38" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/domain/Movie.java" timestamp="1555401470985">
         <mark key="[" line="30" column="5" />
         <mark key="]" line="36" column="0" />
@@ -1875,6 +1882,12 @@
       </file>
       <file name="D:/Dev/GitHub/java-chess/src/test/java/chess/persistence/dao/GameSessionDaoTest.java" timestamp="1561650871868">
         <mark key="[" line="23" column="51" />
+      </file>
+      <file name="C:/Workspace/java/cabinet/src/main/java/kr/latera/cabinet/AppMainQueue.java" timestamp="1562723915646">
+        <mark key="[" line="3" column="43" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+        <mark key="^" line="2" column="12" />
       </file>
       <file name="D:/Dev/GitHub/java-lotto/src/main/java/domain/ConsoleUserInterface.java" timestamp="1554484457592">
         <mark key="[" line="52" column="97" />
@@ -2515,43 +2528,46 @@
       <jump line="34" column="16" filename="D:/Dev/GitHub/java-chess/src/main/java/chess/domain/Direction.java" />
       <jump line="46" column="46" filename="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/web/ArticleControllerTests.java" />
       <jump line="74" column="16" filename="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/article.html" />
+      <jump line="12" column="25" filename="C:/Workspace/java/cabinet/src/main/java/kr/latera/cabinet/AppMain.java" />
+      <jump line="43" column="22" filename="C:/Workspace/java/cabinet/src/main/java/kr/latera/cabinet/AppMain.java" />
+      <jump line="47" column="0" filename="C:/Workspace/java/cabinet/src/main/java/kr/latera/cabinet/AppMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Brown</text>
+        <text encoding="base64">ewogICAgICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text>Brown</text>
+        <text encoding="base64">MTMg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoMVw+</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ewogICAgICAgIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50LmdldEVsZW1uZXRCeU5hbWUoIl9tZXRob2QiKS52YWx1ZSA9ICJkZWxldGUiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgaWR4TWFydGluID0gbGluZXMuaW5kZXhPZigiuLbGviIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5zd2FwKGxpbmVzLCBpZHgyLCAyNCk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigoaSArIDEpICsgIjogIiArIGxpbmVzLmdldChpKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIGVkaXQoKXsK</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0iX21ldGhvZCIgdmFsdWU9ImRlbGV0ZSIvPgo=</text>
+        <text encoding="base64">ICAgICAgICBsaW5lcy5mb3JFYWNoKGwgLT4gewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9mb3JtPgo=</text>
+        <text encoding="base64">CiAgICAgICAgQ29sbGVjdGlvbnMuc2h1ZmZsZShsaW5lcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorUpWithSelection</text>
