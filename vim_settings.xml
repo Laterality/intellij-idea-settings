@@ -170,6 +170,12 @@
         <mark key="^" line="4" column="30" />
         <mark key="." line="4" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/includes/common-styles.html" timestamp="1562735080236">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="43" />
+        <mark key="." line="9" column="43" />
+        <mark key="^" line="9" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-coordinate/src/main/java/com/woowacourse/coordinate/domain/PointGroup.java" timestamp="1558936143053">
         <mark key="[" line="123" column="24" />
         <mark key="]" line="123" column="21" />
@@ -192,11 +198,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/domain/ArticleRepository.java" timestamp="1562665066326">
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/domain/ArticleRepository.java" timestamp="1562732587861">
         <mark key="[" line="27" column="36" />
         <mark key="]" line="23" column="43" />
         <mark key="^" line="23" column="43" />
-        <mark key="." line="23" column="43" />
+        <mark key="." line="28" column="115" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/domain/boardcell/CellFactory.java" timestamp="1561450442665">
         <mark key="[" line="32" column="0" />
@@ -282,11 +288,10 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/ArticleController.java" timestamp="1562727801443">
-        <mark key="[" line="53" column="60" />
-        <mark key="]" line="53" column="74" />
-        <mark key="." line="53" column="74" />
-        <mark key="^" line="53" column="74" />
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/ArticleController.java" timestamp="1562735748346">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/stringcalculator/AppMain.java" timestamp="1557447228694">
         <mark key="[" line="14" column="57" />
@@ -809,11 +814,11 @@
         <mark key="." line="34" column="69" />
         <mark key="^" line="34" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/article-edit.html" timestamp="1562719885601">
-        <mark key="[" line="19" column="40" />
-        <mark key="]" line="13" column="39" />
-        <mark key="." line="13" column="39" />
-        <mark key="^" line="13" column="39" />
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/article-edit.html" timestamp="1562735121636">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+        <mark key="^" line="7" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/test/java/com/woowacourse/lotto/domain/LottoFactoryTest.java" timestamp="1559094762354">
         <mark key="[" line="22" column="60" />
@@ -899,12 +904,12 @@
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/article.html" timestamp="1562721812363">
-        <mark key="'" line="74" column="16" />
-        <mark key="[" line="89" column="58" />
-        <mark key="]" line="89" column="56" />
-        <mark key="." line="89" column="56" />
-        <mark key="^" line="89" column="56" />
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/article.html" timestamp="1562735102349">
+        <mark key="'" line="50" column="16" />
+        <mark key="[" line="7" column="61" />
+        <mark key="]" line="7" column="61" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="7" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/domain/MovieRepository.java" timestamp="1555401488353">
         <mark key="[" line="51" column="0" />
@@ -1653,6 +1658,11 @@
         <mark key="^" line="22" column="8" />
         <mark key="." line="22" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/includes/common-js.html" timestamp="1562734565205">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="C:/Workspace/java/kt-design-pattern/src/main/kotlin/kr/latera/designpattern/abstractfactory/ThinDough.kt" timestamp="1559110462517">
         <mark key="[" line="3" column="36" />
         <mark key="]" line="5" column="0" />
@@ -1990,11 +2000,10 @@
         <mark key="^" line="31" column="4" />
         <mark key="." line="31" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/index.html" timestamp="1562719765059">
-        <mark key="[" line="62" column="84" />
-        <mark key="]" line="62" column="84" />
-        <mark key="." line="62" column="84" />
-        <mark key="^" line="62" column="88" />
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/index.html" timestamp="1562735090655">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcar/RacingcarModel.java" timestamp="1557377404159">
         <mark key="[" line="59" column="0" />
@@ -2037,6 +2046,11 @@
         <mark key="]" line="31" column="12" />
         <mark key="^" line="31" column="12" />
         <mark key="." line="31" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/includes/meta.html" timestamp="1562733824694">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/stringcalculator/StringCalculatorUtil.java" timestamp="1557451255582">
         <mark key="[" line="7" column="4" />
@@ -2533,44 +2547,47 @@
       <jump line="47" column="0" filename="C:/Workspace/java/cabinet/src/main/java/kr/latera/cabinet/AppMain.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>content</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0K</text>
       </register>
       <register name="-" type="4">
-        <text>content</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoMVw+</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ewogICAgICAgIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDx0aDpibG9jayB0aDppbmNsdWRlPSJpbmNsdWRlcy9tZXRhIj48L3RoOmJsb2NrPgo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0K</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZW5kUmVkaXJlY3QoIi8iKTsK</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICA8bGluayByZWw9InNob3J0Y3V0IGljb24iIGhyZWY9Ii9pbWFnZXMvbG9nby9mYXZpY29uLmljbyI+CiAgICA8bGluayByZWw9InN0eWxlc2hlZXQiCiAgICAgICAgICBocmVmPSJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy9mb250LWF3ZXNvbWUvNC43LjAvY3NzL2ZvbnQtYXdlc29tZS5taW4uY3NzIj4KICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIKICAgICAgICAgIGhyZWY9Imh0dHBzOi8vY2RuLmpzZGVsaXZyLm5ldC9naC9seWttYXBpcG8vdGhlbWlmeS1pY29uc0AwLjEuMi9jc3MvdGhlbWlmeS1pY29ucy5jc3MiPgogICAgPGxpbmsgcmVsPSJzdHlsZXNoZWV0IgogICAgICAgICAgaHJlZj0iaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvYW5pbWF0ZS5jc3MvMy43LjAvYW5pbWF0ZS5taW4uY3NzIj4KICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIKICAgICAgICAgIGhyZWY9Imh0dHBzOi8vc3RhY2twYXRoLmJvb3RzdHJhcGNkbi5jb20vZm9udC1hd2Vzb21lLzQuNy4wL2Nzcy9mb250LWF3ZXNvbWUubWluLmNzcyIKICAgICAgICAgIGludGVncml0eT0ic2hhMzg0LXd2ZlhwcXBaWlZRR0s2VEFoNVBWbEdPZlFOSFNvRDJ4YkUrUWtQeENBRmxORWV2b0VIM1NsMHNpYlZjT1FWbk4iCiAgICAgICAgICBjcm9zc29yaWdpbj0iYW5vbnltb3VzIj4KICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIKICAgICAgICAgIGhyZWY9Imh0dHBzOi8vc3RhY2twYXRoLmJvb3RzdHJhcGNkbi5jb20vYm9vdHN0cmFwLzQuMS4zL2Nzcy9ib290c3RyYXAubWluLmNzcyIKICAgICAgICAgIGludGVncml0eT0ic2hhMzg0LU1Ddzk4L1NGbkdFOGZKVDNHWHdFT25nc1Y3WnQyN05YRm9hb0FwbVltODFpdVhvUGtGT0p3SjhFUmRrbkxQTU8iCiAgICAgICAgICBjcm9zc29yaWdpbj0iYW5vbnltb3VzIj4KCiAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Ii9jc3MvYXBwLmNzcyI+CiAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Ii9jc3MvY3VzdG9taXplLmNzcyI+CiAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Ii9jc3MvbWFpbi5jc3MiPg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaWR4TWFydGluID0gbGluZXMuaW5kZXhPZigiuLbGviIpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5zd2FwKGxpbmVzLCBpZHgyLCAyNCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic2hvcnRjdXQgaWNvbiIgaHJlZj0iL2ltYWdlcy9sb2dvL2Zhdmljb24uaWNvIj4KICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvZm9udC1hd2Vzb21lLzQuNy4wL2Nzcy9mb250LWF3ZXNvbWUubWluLmNzcyI+CiAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Imh0dHBzOi8vY2RuLmpzZGVsaXZyLm5ldC9naC9seWttYXBpcG8vdGhlbWlmeS1pY29uc0AwLjEuMi9jc3MvdGhlbWlmeS1pY29ucy5jc3MiPgogICAgPGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy9hbmltYXRlLmNzcy8zLjcuMC9hbmltYXRlLm1pbi5jc3MiPgogICAgPGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSJodHRwczovL3N0YWNrcGF0aC5ib290c3RyYXBjZG4uY29tL2ZvbnQtYXdlc29tZS80LjcuMC9jc3MvZm9udC1hd2Vzb21lLm1pbi5jc3MiIGludGVncml0eT0ic2hhMzg0LXd2ZlhwcXBaWlZRR0s2VEFoNVBWbEdPZlFOSFNvRDJ4YkUrUWtQeENBRmxORWV2b0VIM1NsMHNpYlZjT1FWbk4iIGNyb3Nzb3JpZ2luPSJhbm9ueW1vdXMiPgogICAgPGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSJodHRwczovL3N0YWNrcGF0aC5ib290c3RyYXBjZG4uY29tL2Jvb3RzdHJhcC80LjEuMy9jc3MvYm9vdHN0cmFwLm1pbi5jc3MiIGludGVncml0eT0ic2hhMzg0LU1Ddzk4L1NGbkdFOGZKVDNHWHdFT25nc1Y3WnQyN05YRm9hb0FwbVltODFpdVhvUGtGT0p3SjhFUmRrbkxQTU8iIGNyb3Nzb3JpZ2luPSJhbm9ueW1vdXMiPgoKICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iL2Nzcy9hcHAuY3NzIj4KICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iL2Nzcy9jdXN0b21pemUuY3NzIj4KICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iL2Nzcy9tYWluLmNzcyI+</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigoaSArIDEpICsgIjogIiArIGxpbmVzLmdldChpKSk7Cg==</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iL2Nzcy9tYWluLmNzcyI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ID4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lcy5mb3JFYWNoKGwgLT4gewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgPG1ldGEgY2hhcnNldD0idXRmLTgiPgogICAgPG1ldGEgbmFtZT0idmlld3BvcnQiIGNvbnRlbnRzPSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MS4wLCBtYXhpbXVtLXNjYWxlPTEuMCwgdXNlci1zY2FsYWJsZT1ubywgc2hyaW5rLXRvLWZpdD1ubyI+CiAgICA8dGl0bGU+v+y+xsfRxdfFqcTavbogseK8+rrtt86x1zwvdGl0bGU+CiAgICA8bWV0YSBuYW1lPSJyb2JvdHMiIGNvbnRlbnRzPSJpbmRleCwgZm9sbG93Ij4KCiAgICA8bWV0YSBuYW1lPSJrZXl3b3JkIiBjb250ZW50cz0iv+y+xsfRxdfFqcTavbosIMfBt86x17ehudYsILCzud/A2iwguem/o7XlLCDHwbfQxq6/o7XlLCBCYWNrZW5kLCBGcm9udGVuZCwgSU9TLCBBbmRyb2lkIj4KICAgIDxtZXRhIG5hbWU9ImRlc2NyaXB0aW9uIiBpZD0ibWV0YURlc2MiIGNvbnRlbnRzPSK/7L7Gx9HF18WpxNq9ur+hvK0gsLO538DatenAuyDAp8fYILXwwNrAzrXIILGzwLDAuyC89rCtx9i6uLy8v+QuIj4KICAgIDxtZXRhIHByb3BlcnR5PSJvZzp0eXBlIiBjb250ZW50cz0id2Vic2l0ZSI+CiAgICA8bWV0YSBwcm9wZXJ0eT0ib2c6dGl0bGUiIGNvbnRlbnRzPSK/7L7Gx9HF18WpxNq9uiI+CiAgICA8bWV0YSBwcm9wZXJ0eT0ib2c6ZGVzY3JpcHRpb24iIGlkPSJtZXRhT2dEZXNjIiBjb250ZW50cz0iv+y+xsfRxdfFqcTavbogxam35yBvb2/AxyCws7nfILrtt86x1yI+CiAgICA8bWV0YSBwcm9wZXJ0eT0ib2c6aW1hZ2UiIGNvbnRlbnRzPSIvaW1hZ2VzL2xvZ28vbG9nb190aHVtbmFpbF9iZy5qcGciPgogICAgPG1ldGEgcHJvcGVydHk9Im9nOnVybCIgY29udGVudHM9Imh0dHBzOi8vd29vd2Fjb3Vyc2UuZ2l0aHViLmlvLyI+CgogICAgPG1ldGEgbmFtZT0idHdpdHRlcjpjYXJkIiBjb250ZW50cz0id2Vic2l0ZSI+CiAgICA8bWV0YSBuYW1lPSJ0d2l0dGVyOnRpdGxlIiBjb250ZW50cz0iv+y+xsfRxdfFqcTavboiPgogICAgPG1ldGEgbmFtZT0idHdpdHRlcjpkZXNjcmlwdGlvbiIgaWQ9Im1ldGFUd2l0dGVyRGVzYyIgY29udGVudHM9Ir/svsbH0cXXxanE2r26IMWpt+cgb29vwMcgsLO53yC67bfOsdci</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgQ29sbGVjdGlvbnMuc2h1ZmZsZShsaW5lcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorUpWithSelection</text>
+        <text>689</text>
       </register>
     </registers>
     <search>
@@ -2590,6 +2607,7 @@
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
+        <entry>689</entry>
       </history-cmd>
       <history-expr />
       <history-input />
