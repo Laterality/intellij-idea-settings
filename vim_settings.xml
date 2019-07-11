@@ -633,7 +633,7 @@
         <mark key="^" line="19" column="38" />
         <mark key="." line="19" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/domain/Article.java" timestamp="1562803351698">
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/domain/Article.java" timestamp="1562806095377">
         <mark key="'" line="50" column="0" />
         <mark key="[" line="8" column="19" />
         <mark key="]" line="8" column="19" />
@@ -931,11 +931,11 @@
         <mark key="^" line="14" column="32" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/web/ArticleControllerTests.java" timestamp="1562745007346">
-        <mark key="[" line="133" column="69" />
-        <mark key="]" line="134" column="101" />
-        <mark key="." line="134" column="101" />
-        <mark key="^" line="134" column="101" />
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/web/ArticleControllerTests.java" timestamp="1562805566202">
+        <mark key="[" line="110" column="65" />
+        <mark key="]" line="110" column="63" />
+        <mark key="." line="110" column="63" />
+        <mark key="^" line="110" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcarwithoutif/domain/Car.java" timestamp="1557454009863">
         <mark key="[" line="12" column="21" />
@@ -1369,11 +1369,11 @@
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/service/ArticleService.java" timestamp="1562804418626">
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/service/ArticleService.java" timestamp="1562806065906">
         <mark key="[" line="34" column="5" />
-        <mark key="]" line="16" column="118" />
-        <mark key="^" line="16" column="118" />
-        <mark key="." line="16" column="118" />
+        <mark key="]" line="13" column="41" />
+        <mark key="^" line="13" column="41" />
+        <mark key="." line="13" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/domain/CoordinatePair.java" timestamp="1561450559433">
         <mark key="[" line="32" column="43" />
@@ -2515,7 +2515,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGFydGljbGVSZXBvc2l0b3J5LmZpbmRBbGwoKSkuaGFzU2l6ZSgwKTsK</text>
       </register>
       <register name="-" type="4">
         <text>articleRepository</text>
@@ -2527,31 +2527,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5tZW1iZXIgPSBtZW1iZXI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGFydGljbGVSZXBvc2l0b3J5LmZpbmRBbGwoKSkuaGFzU2l6ZSgwKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQXJ0aWNsZVJlcG9zaXRvcnkgYXJ0aWNsZVJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm9yRWxzZVRocm93KCgpIC0+IG5ldyBJbGxlZ2FsU3RhdGVFeGNlcHRpb24oIkNhbid0IGZpbmQgY2hhbmdlZCBhcnRpY2xlOiAiICsgYXJ0aWNsZUlkKSk7Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQXJ0aWNsZVJlcG9zaXRvcnkgYXJ0aWNsZVJlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBcnRpY2xlIGFydGljbGUgPSBhcnRpY2xlU2VydmljZS5maW5kQnlJZChhcnRpY2xlSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm9yRWxzZVRocm93KCgpIC0+IG5ldyBJbGxlZ2FsU3RhdGVFeGNlcHRpb24oIkNhbid0IGZpbmQgY2hhbmdlZCBhcnRpY2xlOiAiICsgYXJ0aWNsZUlkKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhcnRpY2xlLnNldENvbnRlbnRzKHJlcUFydGljbGUuZ2V0Q29udGVudHMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBcnRpY2xlIGFydGljbGUgPSBhcnRpY2xlU2VydmljZS5maW5kQnlJZChhcnRpY2xlSWQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcnRpY2xlLnNldFRpdGxlKHJlcUFydGljbGUuZ2V0VGl0bGUoKSk7CiAgICAgICAgYXJ0aWNsZS5zZXRDb3ZlclVybChyZXFBcnRpY2xlLmdldENvdmVyVXJsKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhcnRpY2xlLnNldENvbnRlbnRzKHJlcUFydGljbGUuZ2V0Q29udGVudHMoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm9yRWxzZVRocm93KCgpIC0+IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIkFydGljbGUgbm90IGZvdW5kOiAiICsgYXJ0aWNsZUlkKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcnRpY2xlLnNldFRpdGxlKHJlcUFydGljbGUuZ2V0VGl0bGUoKSk7CiAgICAgICAgYXJ0aWNsZS5zZXRDb3ZlclVybChyZXFBcnRpY2xlLmdldENvdmVyVXJsKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm9yRWxzZVRocm93KCgpIC0+IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIkFydGljbGUgbm90IGZvdW5kIiArIGFydGljbGVJZCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm9yRWxzZVRocm93KCgpIC0+IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIkFydGljbGUgbm90IGZvdW5kOiAiICsgYXJ0aWNsZUlkKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm9yRWxzZVRocm93KCgpIC0+IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIkFydGljbGUgbm90IGZvdW5kOiAiICsgYXJ0aWNsZUlkKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm9yRWxzZVRocm93KCgpIC0+IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIkFydGljbGUgbm90IGZvdW5kIiArIGFydGljbGVJZCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
