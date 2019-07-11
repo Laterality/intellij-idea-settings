@@ -2004,10 +2004,10 @@
         <mark key="^" line="31" column="4" />
         <mark key="." line="31" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/index.html" timestamp="1562744441963">
-        <mark key="[" line="13" column="29" />
-        <mark key="]" line="13" column="29" />
-        <mark key="." line="13" column="29" />
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/index.html" timestamp="1562831249326">
+        <mark key="[" line="56" column="42" />
+        <mark key="]" line="56" column="42" />
+        <mark key="." line="56" column="42" />
         <mark key="^" line="32" column="83" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/main/java/com/woowacourse/javaracingcar/RacingcarModel.java" timestamp="1557377404159">
@@ -2566,11 +2566,11 @@
       <jump line="22" column="0" filename="C:/Workspace/java/jpa-study/src/main/java/kr/latera/jpastudy/entity/Item.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+      <register name="&quot;" type="4">
+        <text>fixed</text>
       </register>
       <register name="-" type="4">
-        <text>parent</text>
+        <text>fixed</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoMVw+</text>
