@@ -496,6 +496,12 @@
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
       </file>
+      <file name="C:/Workspace/java/jpa-study/src/main/java/kr/latera/jpastudy/entity/Movie.java" timestamp="1562826239199">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="12" column="32" />
+        <mark key="^" line="12" column="32" />
+        <mark key="." line="12" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/kotlin/com/woowacourse/ladder/domain/Participant.kt" timestamp="1558400103910">
         <mark key="[" line="37" column="5" />
         <mark key="]" line="10" column="12" />
@@ -776,11 +782,11 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="97" column="49" />
       </file>
-      <file name="C:/Workspace/java/jpa-study/src/main/java/kr/latera/jpastudy/entity/Member.java" timestamp="1562748814959">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="22" column="24" />
-        <mark key="." line="7" column="0" />
+      <file name="C:/Workspace/java/jpa-study/src/main/java/kr/latera/jpastudy/entity/Member.java" timestamp="1562826564687">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="6" column="6" />
+        <mark key="^" line="6" column="6" />
+        <mark key="." line="6" column="6" />
       </file>
       <file name="C:/Workspace/java/test-project/src/test/java/kr/latera/testproject/CarTest.java" timestamp="1557477728463">
         <mark key="[" line="25" column="5" />
@@ -827,7 +833,7 @@
         <mark key="." line="34" column="69" />
         <mark key="^" line="34" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/article-edit.html" timestamp="1562743851193">
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/article-edit.html" timestamp="1562825995771">
         <mark key="[" line="23" column="32" />
         <mark key="]" line="147" column="44" />
         <mark key="." line="147" column="44" />
@@ -981,6 +987,12 @@
       <file name="C:/Workspace/java/test-java-app/src/main/java/AppMain.java" timestamp="1562387095411">
         <mark key="[" line="0" column="22" />
       </file>
+      <file name="C:/Workspace/java/jpa-study/src/main/java/kr/latera/jpastudy/entity/Album.java" timestamp="1562825784215">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+      </file>
       <file name="D:/Dev/GitHub/java-chess/src/main/java/chess/persistence/dao/GameSessionDao.java" timestamp="1561560125152">
         <mark key="[" line="111" column="9" />
         <mark key="]" line="112" column="41" />
@@ -1064,6 +1076,12 @@
         <mark key="]" line="47" column="25" />
         <mark key="." line="47" column="25" />
         <mark key="^" line="47" column="25" />
+      </file>
+      <file name="C:/Workspace/java/jpa-study/src/main/java/kr/latera/jpastudy/entity/Book.java" timestamp="1562826209871">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="30" />
+        <mark key="^" line="7" column="30" />
+        <mark key="." line="7" column="30" />
       </file>
       <file name="C:/Workspace/java/test-project/src/main/java/kr/latera/testproject/Car.java" timestamp="1557476840761">
         <mark key="[" line="10" column="5" />
@@ -1920,6 +1938,12 @@
         <mark key="." line="17" column="25" />
         <mark key="^" line="14" column="15" />
       </file>
+      <file name="C:/Workspace/java/jpa-study/src/main/java/kr/latera/jpastudy/entity/BaseEntity.java" timestamp="1562826542751">
+        <mark key="[" line="9" column="43" />
+        <mark key="]" line="9" column="42" />
+        <mark key="^" line="9" column="42" />
+        <mark key="." line="9" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/kotlin/com/woowacourse/stringadder/StringParser.kt" timestamp="1558482129558">
         <mark key="[" line="23" column="27" />
         <mark key="]" line="23" column="35" />
@@ -2160,11 +2184,11 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
-      <file name="C:/Workspace/java/jpa-study/src/main/java/kr/latera/jpastudy/entity/Category.java" timestamp="1562814782533">
+      <file name="C:/Workspace/java/jpa-study/src/main/java/kr/latera/jpastudy/entity/Category.java" timestamp="1562825253000">
         <mark key="[" line="36" column="5" />
-        <mark key="]" line="35" column="28" />
-        <mark key="^" line="35" column="28" />
-        <mark key="." line="35" column="28" />
+        <mark key="]" line="19" column="24" />
+        <mark key="^" line="19" column="24" />
+        <mark key="." line="19" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-racingcar-1/src/test/java/com/woowacourse/javaracingcarwithoutif/domain/RacingcarModelTest.java" timestamp="1557446419278">
         <mark key="[" line="2" column="0" />
@@ -2370,12 +2394,12 @@
         <mark key="^" line="69" column="39" />
         <mark key="." line="69" column="39" />
       </file>
-      <file name="C:/Workspace/java/jpa-study/src/main/java/kr/latera/jpastudy/entity/Order.java" timestamp="1562812865254">
+      <file name="C:/Workspace/java/jpa-study/src/main/java/kr/latera/jpastudy/entity/Order.java" timestamp="1562826587093">
         <mark key="'" line="43" column="29" />
-        <mark key="[" line="84" column="33" />
-        <mark key="]" line="85" column="31" />
-        <mark key="." line="85" column="31" />
-        <mark key="^" line="85" column="31" />
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="37" />
+        <mark key="." line="9" column="37" />
+        <mark key="^" line="9" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/domain/BuyingMoney.java" timestamp="1559028672594">
         <mark key="[" line="17" column="5" />
@@ -2401,12 +2425,12 @@
         <mark key="^" line="6" column="44" />
         <mark key="." line="6" column="44" />
       </file>
-      <file name="C:/Workspace/java/jpa-study/src/main/java/kr/latera/jpastudy/entity/Item.java" timestamp="1562814880078">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="53" column="5" />
-        <mark key="]" line="55" column="42" />
-        <mark key="^" line="55" column="42" />
-        <mark key="." line="55" column="42" />
+      <file name="C:/Workspace/java/jpa-study/src/main/java/kr/latera/jpastudy/entity/Item.java" timestamp="1562825728607">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="7" column="53" />
+        <mark key="]" line="8" column="33" />
+        <mark key="^" line="8" column="33" />
+        <mark key="." line="8" column="33" />
       </file>
       <file name="D:/Dev/GitHub/java-lotto-1/src/test/java/com/woowacourse/lotto/persistence/dao/WinningLottoDaoTest.java" timestamp="1560695493907">
         <mark key="[" line="33" column="71" />
