@@ -649,12 +649,12 @@
         <mark key="^" line="19" column="38" />
         <mark key="." line="19" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/domain/Article.java" timestamp="1562893085908">
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/domain/Article.java" timestamp="1562899808095">
         <mark key="'" line="32" column="13" />
-        <mark key="[" line="28" column="50" />
-        <mark key="]" line="29" column="25" />
-        <mark key="^" line="29" column="25" />
-        <mark key="." line="29" column="25" />
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="15" column="7" />
+        <mark key="^" line="15" column="7" />
+        <mark key="." line="15" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/main/java/kr/latera/baseball/interfaces/IPlayer.java" timestamp="1553324536164">
         <mark key="[" line="3" column="14" />
@@ -947,7 +947,7 @@
         <mark key="^" line="14" column="32" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/web/ArticleControllerTests.java" timestamp="1562897225269">
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/web/ArticleControllerTests.java" timestamp="1562900774845">
         <mark key="'" line="130" column="4" />
         <mark key="[" line="106" column="94" />
         <mark key="]" line="107" column="94" />
@@ -1764,11 +1764,11 @@
       <file name="D:/Dev/java/jpaentityexmvn/src/main/java/kr/latera/jpaentityexmvn/entity/Team.java" timestamp="1561649909889">
         <mark key="[" line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/ArticleRequestDto.java" timestamp="1562895408475">
-        <mark key="[" line="11" column="34" />
-        <mark key="]" line="11" column="18" />
-        <mark key="^" line="11" column="18" />
-        <mark key="." line="11" column="18" />
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/ArticleRequestDto.java" timestamp="1562900343586">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="15" column="18" />
+        <mark key="^" line="15" column="18" />
+        <mark key="." line="15" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/test/java/com/woowacourse/stringcalculator/StringProcessorTest.java" timestamp="1557801332205">
         <mark key="[" line="16" column="58" />
@@ -1872,7 +1872,7 @@
         <mark key="." line="29" column="35" />
         <mark key="^" line="29" column="35" />
       </file>
-      <file name="/fragment.java" timestamp="1562890726824">
+      <file name="/fragment.java" timestamp="1562899813985">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-coordinate/src/main/java/coordinate/domain/figure/FigureFactory.java" timestamp="1559011518066">
