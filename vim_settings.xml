@@ -1902,6 +1902,12 @@
       <file name="D:/Dev/GitHub/java-chess/src/test/java/chess/persistence/dao/GameSessionDaoTest.java" timestamp="1561650871868">
         <mark key="[" line="23" column="51" />
       </file>
+      <file name="C:/Workspace/java/embeddedtomcat-ex/src/main/java/kr/latera/embeddedex/AppMain.java" timestamp="1562898621635">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="7" />
+        <mark key="^" line="4" column="7" />
+        <mark key="." line="4" column="7" />
+      </file>
       <file name="C:/Workspace/java/cabinet/src/main/java/kr/latera/cabinet/AppMainQueue.java" timestamp="1562723915646">
         <mark key="[" line="3" column="43" />
         <mark key="]" line="2" column="12" />
@@ -2165,6 +2171,13 @@
         <mark key="]" line="42" column="13" />
         <mark key="." line="42" column="13" />
         <mark key="^" line="42" column="13" />
+      </file>
+      <file name="C:/Workspace/java/embeddedtomcat-ex/build.gradle" timestamp="1562898455970">
+        <mark key="'" line="16" column="14" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/domain/boardcell/PieceType.java" timestamp="1561450276353">
         <mark key="[" line="20" column="0" />
@@ -2571,6 +2584,7 @@
       <jump line="122" column="4" filename="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/web/ArticleControllerTests.java" />
       <jump line="22" column="0" filename="C:/Workspace/java/jpa-study/src/main/java/kr/latera/jpastudy/entity/Item.java" />
       <jump line="19" column="13" filename="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/domain/Article.java" />
+      <jump line="16" column="14" filename="C:/Workspace/java/embeddedtomcat-ex/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
