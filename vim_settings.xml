@@ -30,12 +30,12 @@
         <mark key="^" line="18" column="65" />
         <mark key="." line="18" column="65" />
       </file>
-      <file name="D:/Dev/java/jpastudy/src/main/java/kr/latera/jpastudy/entity/Order.java" timestamp="1563033279716">
-        <mark key="'" line="36" column="3" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="16" column="32" />
-        <mark key="^" line="16" column="32" />
-        <mark key="." line="16" column="32" />
+      <file name="D:/Dev/java/jpastudy/src/main/java/kr/latera/jpastudy/entity/Order.java" timestamp="1563035674796">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="51" column="34" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="D:/Dev/GitHub/java-racingcar/src/test/java/domain/AppMain.java" timestamp="1553855404350">
         <mark key="[" line="8" column="12" />
@@ -925,11 +925,11 @@
         <mark key="^" line="15" column="53" />
         <mark key="." line="15" column="53" />
       </file>
-      <file name="D:/Dev/java/jpastudy/src/main/java/kr/latera/jpastudy/entity/Item.java" timestamp="1563032804914">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="12" column="26" />
-        <mark key="^" line="12" column="26" />
-        <mark key="." line="12" column="26" />
+      <file name="D:/Dev/java/jpastudy/src/main/java/kr/latera/jpastudy/entity/Item.java" timestamp="1563036429349">
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="20" column="14" />
+        <mark key="^" line="20" column="14" />
+        <mark key="." line="20" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-lotto-1/src/main/java/com/woowacourse/lotto/domain/LottoResult.java" timestamp="1559033020819">
         <mark key="[" line="7" column="23" />
@@ -1090,6 +1090,12 @@
         <mark key="]" line="47" column="25" />
         <mark key="." line="47" column="25" />
         <mark key="^" line="47" column="25" />
+      </file>
+      <file name="D:/Dev/java/jpastudy/src/main/java/kr/latera/jpastudy/entity/Delivery.java" timestamp="1563035602156">
+        <mark key="[" line="19" column="14" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="19" column="13" />
       </file>
       <file name="C:/Workspace/java/jpa-study/src/main/java/kr/latera/jpastudy/entity/Book.java" timestamp="1562826209871">
         <mark key="[" line="7" column="18" />
@@ -1264,6 +1270,13 @@
         <mark key="]" line="21" column="0" />
         <mark key="^" line="34" column="30" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="D:/Dev/java/jpastudy/src/main/java/kr/latera/jpastudy/entity/Category.java" timestamp="1563035917390">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="21" column="6" />
+        <mark key="]" line="21" column="5" />
+        <mark key="^" line="24" column="55" />
+        <mark key="." line="21" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-baseball/src/test/java/kr/latera/baseball/ConsoleUITest.java" timestamp="1553326434313">
         <mark key="[" line="25" column="45" />
@@ -1471,11 +1484,11 @@
         <mark key="^" line="15" column="27" />
         <mark key="." line="15" column="27" />
       </file>
-      <file name="D:/Dev/java/jpastudy/src/main/java/kr/latera/jpastudy/entity/Member.java" timestamp="1563033200939">
-        <mark key="[" line="60" column="5" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="D:/Dev/java/jpastudy/src/main/java/kr/latera/jpastudy/entity/Member.java" timestamp="1563035708232">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="19" column="26" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-chess/src/main/java/chess/persistence/dao/BoardStateDao.java" timestamp="1561360146771">
         <mark key="[" line="29" column="31" />
@@ -1542,6 +1555,12 @@
         <mark key="]" line="8" column="7" />
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
+      </file>
+      <file name="D:/Dev/java/jpastudy/src/main/java/kr/latera/jpastudy/entity/DeliveryStatus.java" timestamp="1563034523833">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+        <mark key="^" line="2" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-movie/src/main/java/domain/Movie.java" timestamp="1555401470985">
         <mark key="[" line="30" column="5" />
@@ -2014,11 +2033,12 @@
         <mark key="^" line="12" column="37" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/Dev/java/jpastudy/src/main/java/kr/latera/jpastudy/entity/OrderItem.java" timestamp="1563033433228">
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="18" column="21" />
-        <mark key="^" line="18" column="21" />
-        <mark key="." line="18" column="21" />
+      <file name="D:/Dev/java/jpastudy/src/main/java/kr/latera/jpastudy/entity/OrderItem.java" timestamp="1563035725546">
+        <mark key="'" line="33" column="4" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="17" column="30" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="D:/Dev/GitHub/java-lotto-1/src/test/java/com/woowacourse/lotto/persistence/MyJdbcTemplateTest.java" timestamp="1561554611139">
         <mark key="[" line="28" column="41" />
@@ -2647,13 +2667,23 @@
       <jump line="57" column="8" filename="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/ArticleController.java" />
       <jump line="63" column="24" filename="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/ArticleController.java" />
       <jump line="34" column="3" filename="D:/Dev/java/jpastudy/src/main/java/kr/latera/jpastudy/entity/Order.java" />
+      <jump line="22" column="0" filename="D:/Dev/java/jpastudy/src/main/java/kr/latera/jpastudy/entity/Category.java" />
+      <jump line="13" column="0" filename="D:/Dev/java/jpastudy/src/main/java/kr/latera/jpastudy/entity/Category.java" />
+      <jump line="0" column="0" filename="D:/Dev/java/jpastudy/src/main/java/kr/latera/jpastudy/entity/Category.java" />
+      <jump line="32" column="8" filename="D:/Dev/java/jpastudy/src/main/java/kr/latera/jpastudy/entity/Category.java" />
+      <jump line="2" column="0" filename="D:/Dev/java/jpastudy/src/main/java/kr/latera/jpastudy/entity/Category.java" />
+      <jump line="38" column="0" filename="D:/Dev/java/jpastudy/src/main/java/kr/latera/jpastudy/entity/Category.java" />
+      <jump line="21" column="29" filename="D:/Dev/java/jpastudy/src/main/java/kr/latera/jpastudy/entity/Order.java" />
+      <jump line="8" column="0" filename="D:/Dev/java/jpastudy/src/main/java/kr/latera/jpastudy/entity/Order.java" />
+      <jump line="41" column="0" filename="D:/Dev/java/jpastudy/src/main/java/kr/latera/jpastudy/entity/Member.java" />
+      <jump line="33" column="4" filename="D:/Dev/java/jpastudy/src/main/java/kr/latera/jpastudy/entity/OrderItem.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MEMBER_ID</text>
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>MEMBER_ID</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>Article</text>
@@ -2665,28 +2695,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLml0ZW0gPSBpdGVtOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLmhpYmVybmF0ZS9oaWJlcm5hdGUtY29yZQo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBzZXRJdGVtKEl0ZW0gaXRlbSkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLmgyZGF0YWJhc2UvaDIK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm9yZGVyUHJpY2UgPSBvcmRlclByaWNlOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlIGdyb3VwOiAnanVuaXQnLCBuYW1lOiAnanVuaXQnLCB2ZXJzaW9uOiAnNC4xMicK</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBzZXRPcmRlclByaWNlKGludCBvcmRlclByaWNlKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJPUkRFUl9JRCIpCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnF1YW50aXR5ID0gcXVhbnRpdHk7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJJVEVNX0lEIikK</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBzZXRRdWFudGl0eShpbnQgcXVhbnRpdHkpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm9yZGVyID0gb3JkZXI7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBBcnRpY2xlKCkgewoK</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBzZXRPcmRlcihPcmRlciBvcmRlcikgewo=</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
