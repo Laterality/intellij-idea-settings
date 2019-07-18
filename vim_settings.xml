@@ -1043,6 +1043,11 @@
         <mark key="^" line="31" column="82" />
         <mark key="." line="31" column="82" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/domain/User.java" timestamp="1563425693812">
+        <mark key="[" line="32" column="64" />
+        <mark key="]" line="32" column="64" />
+        <mark key="." line="32" column="64" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/test/kotlin/com/woowacourse/stringadder/StringAdderControllerTest.kt" timestamp="1558334115790">
         <mark key="[" line="8" column="71" />
         <mark key="]" line="8" column="72" />
@@ -2655,11 +2660,11 @@
       <jump line="88" column="88" filename="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/domain/ArticleRepositoryTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGFydGljbGVSZXBvc2l0b3J5LmFkZEFydGljbGUobmV3QXJ0aWNsZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>|</text>
       </register>
       <register name="-" type="4">
-        <text>articles</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text>Article</text>
