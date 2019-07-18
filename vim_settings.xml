@@ -2097,11 +2097,11 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/web/UserControllerTest.java" timestamp="1563432248977">
-        <mark key="[" line="84" column="70" />
-        <mark key="]" line="82" column="42" />
-        <mark key="." line="82" column="42" />
-        <mark key="^" line="82" column="42" />
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/web/UserControllerTest.java" timestamp="1563433449535">
+        <mark key="[" line="102" column="65" />
+        <mark key="]" line="98" column="69" />
+        <mark key="." line="98" column="69" />
+        <mark key="^" line="98" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/Github/java-ladder/src/main/kotlin/com/woowacourse/ladder/domain/LadderStepState.kt" timestamp="1558339342272">
         <mark key="[" line="5" column="34" />
@@ -2653,11 +2653,11 @@
       <jump line="4" column="34" filename="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdBcnRpY2xlLmlkID0gTkVYVF9JRCsrOwo=</text>
+      <register name="&quot;" type="4">
+        <text>logout_test</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bG9uZyA=</text>
+        <text>logout_test</text>
       </register>
       <register name="/" type="4">
         <text>common</text>
@@ -2666,31 +2666,31 @@
         <text>request.getHeader(&quot;Authorization&quot;).split(&quot; &quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdBcnRpY2xlLmlkID0gTkVYVF9JRCsrOwo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGxvbmcgTkVYVF9JRCA9IDE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXV0aFNlZ21lbnRzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">KQogICAgICAgIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb25zdW1lV2l0aChteXBhZ2VSZXNwb25zZSAtPiB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuZXhjbHVkZVBhdGhQYXR0ZXJucygiL2gyLWNvbnNvbGUiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5leHBlY3RCb2R5KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC51cmkoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5leHBlY3RTdGF0dXMoKS5pc09rKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2ViVGVzdENsaWVudC5nZXQoIi9teXBhZ2UiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5leGNoYW5nZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5oZWFkZXIoIkF1dGhvcml6YXRpb24iLCBjcmVhdGVBdXRoSGVhZGVyU3RyaW5nKHVzZXIpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2ViVGVzdENsaWVudC5nZXQoKS51cmkoIi9teXBhZ2UiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
