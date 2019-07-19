@@ -99,10 +99,11 @@
         <mark key="." line="18" column="59" />
         <mark key="^" line="18" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/logback-access.xml" timestamp="1563503639818">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/logback-access.xml" timestamp="1563504921577">
+        <mark key="[" line="4" column="67" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+        <mark key="^" line="6" column="17" />
       </file>
       <file name="C:/Workspace/java/jpa-study/src/main/java/kr/latera/jpastudy/entity/Item.java" timestamp="1562825728607">
         <mark key="'" line="24" column="0" />
@@ -128,7 +129,7 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/build.gradle" timestamp="1563501676489">
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/build.gradle" timestamp="1563504735449">
         <mark key="[" line="23" column="66" />
         <mark key="]" line="17" column="3" />
         <mark key="." line="17" column="3" />
@@ -140,11 +141,17 @@
         <mark key="^" line="29" column="77" />
         <mark key="." line="29" column="77" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/interceptor/LoggingInterceptor.java" timestamp="1563431938776">
-        <mark key="[" line="20" column="102" />
-        <mark key="]" line="20" column="102" />
-        <mark key="^" line="20" column="102" />
-        <mark key="." line="20" column="102" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.1.8.RELEASE/1b39bc8f5e65621e891efb0dc6e2d5cf7e443ae3/spring-webmvc-5.1.8.RELEASE-sources.jar!/org/springframework/web/servlet/handler/HandlerInterceptorAdapter.java" timestamp="1563505138104">
+        <mark key="[" line="49" column="48" />
+        <mark key="]" line="49" column="47" />
+        <mark key="^" line="49" column="47" />
+        <mark key="." line="49" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/interceptor/LoggingInterceptor.java" timestamp="1563505262968">
+        <mark key="[" line="33" column="15" />
+        <mark key="]" line="33" column="15" />
+        <mark key="^" line="33" column="23" />
+        <mark key="." line="33" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/web/UserControllerTest.java" timestamp="1563500256908">
         <mark key="[" line="167" column="73" />
@@ -296,11 +303,11 @@
       <jump line="22" column="0" filename="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/UserController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I2xvZ2dpbmcubGV2ZWwucm9vdD1UUkFDRQo=</text>
+      <register name="&quot;" type="4">
+        <text>debug</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
         <text>@Delete</text>
