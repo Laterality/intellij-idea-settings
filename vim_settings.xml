@@ -36,6 +36,9 @@
       <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/UserController.java" timestamp="1563439679268">
         <mark key="'" line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/logback.xml" timestamp="1563503979072">
+        <mark key="[" line="18" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/service/ArticleService.java" timestamp="1563435584167">
         <mark key="'" line="38" column="0" />
         <mark key="[" line="37" column="5" />
@@ -96,6 +99,11 @@
         <mark key="." line="18" column="59" />
         <mark key="^" line="18" column="59" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/logback-access.xml" timestamp="1563503639818">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="C:/Workspace/java/jpa-study/src/main/java/kr/latera/jpastudy/entity/Item.java" timestamp="1562825728607">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="7" column="53" />
@@ -103,10 +111,10 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/application.properties" timestamp="1563500366715">
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/application.properties" timestamp="1563503794114">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="C:/Workspace/java/jpa-study-spring/src/main/kotlin/kr/latera/jpastudyspring/entity/Member.java" timestamp="1563495161650">
         <mark key="[" line="5" column="0" />
@@ -288,11 +296,11 @@
       <jump line="22" column="0" filename="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/UserController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICsgKHNpZCAhPSBudWxsID8gc2lkIDogIiIp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2xvZ2dpbmcubGV2ZWwucm9vdD1UUkFDRQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgKHNpZCAhPSBudWxsID8gc2lkIDogIiIp</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>@Delete</text>
@@ -301,31 +309,31 @@
         <text>request.getHeader(&quot;Authorization&quot;).split(&quot; &quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1lbWJlciA9IG1lbWJlcgo=</text>
+        <text encoding="base64">I2xvZ2dpbmcubGV2ZWwucm9vdD1UUkFDRQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbWVtYmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBhdHRlcm4+JWR7SEg6bW06c3MuU1NTfSBbJS01bGV2ZWxdIFsldGhyZWFkXSBbJWRkb2dnZXJ7MzZ9XSAtICVtJW48L3BhdHRlcm4+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtZW1iZXIub3JkZXMuYWRkKHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1lbWJlciA9IG1lbWJlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbWVtYmVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBtZW1iZXIub3JkZXMuYWRkKHRoaXMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZ1biBzZXRNZW1iZXIobWVtYmVyOiBNZW1iZXIpIHsKICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtZW1iZXIuZ2V0T3JkZXIKICAgIH0K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1biBzZXRNZW1iZXIobWVtYmVyOiBNZW1iZXIpIHsKICAgICAgICB0aGlzLm1lbWJlciA9IG1lbWJlcjsK</text>
+        <text encoding="base64">ICAgIGZ1biBzZXRNZW1iZXIobWVtYmVyOiBNZW1iZXIpIHsKICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGlkOiBMb25nOwo=</text>
+        <text encoding="base64">ICAgICAgICBtZW1iZXIuZ2V0T3JkZXIKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
