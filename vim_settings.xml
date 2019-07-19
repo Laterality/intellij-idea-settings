@@ -120,10 +120,11 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/build.gradle" timestamp="1563428237907">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/build.gradle" timestamp="1563501676489">
+        <mark key="[" line="23" column="66" />
+        <mark key="]" line="17" column="3" />
+        <mark key="." line="17" column="3" />
+        <mark key="^" line="17" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/interceptor/AuthInterceptor.java" timestamp="1563432554279">
         <mark key="[" line="31" column="12" />
