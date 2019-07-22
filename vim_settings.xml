@@ -59,6 +59,12 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/validator/AuthInfoValidator.java" timestamp="1563762305239">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="21" column="4" />
+        <mark key="^" line="21" column="4" />
+        <mark key="." line="21" column="4" />
+      </file>
       <file name="C:/Workspace/java/jpa-study-spring/src/main/java/kr/latera/jpastudyspring/service/MemberService.java" timestamp="1563521103882">
         <mark key="[" line="10" column="8" />
         <mark key="]" line="6" column="0" />
@@ -107,12 +113,6 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/domain/User.java" timestamp="1563517511633">
-        <mark key="[" line="54" column="69" />
-        <mark key="]" line="54" column="48" />
-        <mark key="." line="54" column="48" />
-        <mark key="^" line="54" column="48" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/login.html" timestamp="1563437459618">
         <mark key="[" line="15" column="29" />
         <mark key="]" line="15" column="29" />
@@ -155,12 +155,18 @@
         <mark key="]" line="4" column="43" />
         <mark key="." line="4" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/validator/AuthInfo.java" timestamp="1563762244268">
+        <mark key="[" line="16" column="35" />
+        <mark key="]" line="18" column="51" />
+        <mark key="^" line="18" column="51" />
+        <mark key="." line="18" column="51" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/domain/ArticleRepositoryTest.java" timestamp="1563428073291">
-        <mark key="'" line="29" column="88" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="7" column="31" />
-        <mark key="." line="52" column="0" />
+        <mark key="'" line="30" column="88" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/index.html" timestamp="1563436904157">
         <mark key="'" line="4" column="34" />
@@ -181,12 +187,6 @@
         <mark key="]" line="6" column="17" />
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/domain/UserTest.java" timestamp="1563517423593">
-        <mark key="[" line="25" column="79" />
-        <mark key="]" line="36" column="37" />
-        <mark key="." line="36" column="37" />
-        <mark key="^" line="36" column="37" />
       </file>
       <file name="C:/Workspace/java/jpa-study/src/main/java/kr/latera/jpastudy/entity/Item.java" timestamp="1562825728607">
         <mark key="'" line="24" column="0" />
@@ -391,10 +391,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CgogICAgcHJpdmF0ZSBTdHJpbmcgY3JlYXRlQXV0aEhlYWRlclN0cmluZyhVc2VyUmVxdWVzdER0byB1c2VyKSB7CiAgICAgICAgcmV0dXJuICJCYXNpYyAiICsgQmFzZTY0VXRpbHMuZW5jb2RlVG9TdHJpbmcoKHVzZXIuZ2V0RW1haWwoKSArICI6IiArIHVzZXIuZ2V0UGFzc3dvcmQoKSkuZ2V0Qnl0ZXMoVVRGXzgpKTsKICAgIH0=</text>
+        <text>value</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text>@Delete</text>
