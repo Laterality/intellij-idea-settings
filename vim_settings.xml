@@ -3,20 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/article.html" timestamp="1563437432707">
-        <mark key="'" line="8" column="3" />
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="8" column="3" />
-        <mark key="." line="8" column="3" />
-        <mark key="^" line="8" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/domain/Article.java" timestamp="1563432947847">
-        <mark key="'" line="30" column="13" />
-        <mark key="[" line="33" column="43" />
-        <mark key="]" line="33" column="42" />
-        <mark key="^" line="33" column="42" />
-        <mark key="." line="33" column="42" />
-      </file>
       <file name="C:/Workspace/java/jpa-study-spring/src/main/java/kr/latera/jpastudyspring/entity/Item.java" timestamp="1563520620349">
         <mark key="[" line="21" column="58" />
         <mark key="]" line="20" column="17" />
@@ -25,13 +11,6 @@
       </file>
       <file name="/a.dummy" timestamp="1563519970408">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Dev/java/jpastudy/src/main/java/kr/latera/jpastudy/entity/Order.java" timestamp="1563035674796">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="51" column="34" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/UserController.java" timestamp="1563774228133">
         <mark key="[" line="112" column="139" />
@@ -44,32 +23,19 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/web/ArticleControllerTests.java" timestamp="1563428132803">
-        <mark key="'" line="102" column="0" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="^" line="93" column="37" />
-        <mark key="." line="144" column="0" />
-      </file>
       <file name="C:/Workspace/java/jpa-study-spring/src/main/java/kr/latera/jpastudyspring/entity/DeliveryStatus.java" timestamp="1563520426015">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="15" />
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="C:/Workspace/java/embeddedtomcat-ex/build.gradle" timestamp="1562898455970">
-        <mark key="'" line="16" column="14" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/service/UserService.java" timestamp="1563777807381">
+        <mark key="[" line="26" column="30" />
+        <mark key="]" line="26" column="30" />
+        <mark key="^" line="26" column="30" />
+        <mark key="." line="26" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/service/UserService.java" timestamp="1563768985328">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="58" column="46" />
-        <mark key="^" line="58" column="46" />
-        <mark key="." line="58" column="46" />
-      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/2.0.1.Final/4b714a5167580122e46ead3317ffcdcdbd67c5f0/validation-api-2.0.1.Final-sources.jar!/javax/validation/ConstraintValidatorContext.java" timestamp="1563777672581" />
       <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/validator/AuthInfoValidator.java" timestamp="1563774171460">
         <mark key="[" line="40" column="31" />
         <mark key="]" line="44" column="41" />
@@ -118,11 +84,23 @@
         <mark key="." line="31" column="28" />
         <mark key="^" line="31" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/validator/UniqueEmailValidator.java" timestamp="1563777730851">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="29" column="60" />
+        <mark key="." line="29" column="60" />
+        <mark key="^" line="29" column="60" />
+      </file>
       <file name="C:/Workspace/java/jpa-study-spring/src/main/java/kr/latera/jpastudyspring/entity/Movie.java" timestamp="1563519955480">
         <mark key="[" line="10" column="25" />
         <mark key="]" line="10" column="24" />
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/domain/User.java" timestamp="1563777941372">
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="23" />
+        <mark key="^" line="17" column="23" />
+        <mark key="." line="17" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/login.html" timestamp="1563437459618">
         <mark key="[" line="15" column="29" />
@@ -142,18 +120,17 @@
         <mark key="." line="71" column="27" />
         <mark key="^" line="71" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/resources/data.sql" timestamp="1563776152923">
+        <mark key="[" line="0" column="88" />
+        <mark key="]" line="0" column="88" />
+        <mark key="." line="0" column="88" />
+        <mark key="^" line="0" column="79" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/resources/application.properties" timestamp="1563500391251">
         <mark key="[" line="0" column="39" />
         <mark key="]" line="15" column="52" />
         <mark key="^" line="15" column="52" />
         <mark key="." line="15" column="52" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/service/ArticleService.java" timestamp="1563435584167">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="37" column="5" />
-        <mark key="]" line="37" column="4" />
-        <mark key="." line="37" column="4" />
-        <mark key="^" line="37" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/config/WebMvcConfig.java" timestamp="1563431656427">
         <mark key="[" line="29" column="12" />
@@ -172,32 +149,11 @@
         <mark key="^" line="18" column="51" />
         <mark key="." line="18" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/domain/ArticleRepositoryTest.java" timestamp="1563428073291">
-        <mark key="'" line="30" column="88" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="8" column="31" />
-        <mark key="." line="53" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/index.html" timestamp="1563436904157">
-        <mark key="'" line="4" column="34" />
-        <mark key="[" line="9" column="60" />
-        <mark key="]" line="9" column="49" />
-        <mark key="." line="9" column="49" />
-        <mark key="^" line="9" column="23" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/interceptor/UserInterceptor.java" timestamp="1563770166680">
         <mark key="[" line="18" column="43" />
         <mark key="]" line="18" column="46" />
         <mark key="." line="18" column="46" />
         <mark key="^" line="18" column="46" />
-      </file>
-      <file name="C:/Workspace/java/jpa-study/src/main/java/kr/latera/jpastudy/entity/Order.java" timestamp="1562911438106">
-        <mark key="'" line="43" column="29" />
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="59" />
-        <mark key="." line="18" column="59" />
-        <mark key="^" line="18" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/logback-access.xml" timestamp="1563504921577">
         <mark key="[" line="4" column="67" />
@@ -205,12 +161,11 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="C:/Workspace/java/jpa-study/src/main/java/kr/latera/jpastudy/entity/Item.java" timestamp="1562825728607">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="7" column="53" />
-        <mark key="]" line="8" column="33" />
-        <mark key="^" line="8" column="33" />
-        <mark key="." line="8" column="33" />
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/domain/UserTest.java" timestamp="1563777918187">
+        <mark key="[" line="24" column="84" />
+        <mark key="]" line="24" column="84" />
+        <mark key="^" line="24" column="30" />
+        <mark key="." line="24" column="84" />
       </file>
       <file name="C:/Workspace/java/jpa-study-spring/src/main/java/kr/latera/jpastudyspring/entity/OrderItem.java" timestamp="1563519686319">
         <mark key="[" line="21" column="22" />
@@ -229,18 +184,20 @@
       <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/resources/import.sql" timestamp="1563774946540">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1563779455174">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/Workspace/java/jpa-study-spring/src/main/java/kr/latera/jpastudyspring/entity/OrderStatus.java" timestamp="1563520448495">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="11" />
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="11" />
       </file>
-      <file name="C:/Workspace/java/jpa-study-spring/build.gradle" timestamp="1563521659849">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="18" column="35" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="23" column="4" />
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/domain/UserRepositoryTest.java" timestamp="1563777849077">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="19" column="27" />
+        <mark key="." line="19" column="27" />
+        <mark key="^" line="19" column="27" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.1.8.RELEASE/1b39bc8f5e65621e891efb0dc6e2d5cf7e443ae3/spring-webmvc-5.1.8.RELEASE-sources.jar!/org/springframework/web/servlet/handler/HandlerInterceptorAdapter.java" timestamp="1563505138104">
         <mark key="[" line="49" column="48" />
@@ -254,23 +211,19 @@
         <mark key="^" line="32" column="23" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/web/UserControllerTest.java" timestamp="1563521916718">
-        <mark key="[" line="166" column="1" />
-        <mark key="]" line="165" column="5" />
-        <mark key="." line="165" column="5" />
-        <mark key="^" line="165" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/article-edit.html" timestamp="1563427980685">
-        <mark key="'" line="34" column="25" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="97" column="44" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/web/UserControllerTest.java" timestamp="1563780384057">
+        <mark key="[" line="18" column="75" />
+        <mark key="]" line="20" column="25" />
+        <mark key="." line="20" column="25" />
+        <mark key="^" line="20" column="25" />
       </file>
       <file name="C:/Workspace/java/jpa-study-spring/src/test/java/kr/latera/jpastudyspring/JpaStudySpringApplicationTests.java" timestamp="1563521709911">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/dto/UserRequestDto.java" timestamp="1563777514427">
+        <mark key="[" line="24" column="24" />
       </file>
       <file name="C:/Workspace/java/jpa-study-spring/src/test/java/kr/latera/jpastudyspring/service/MemberServiceTest.java" timestamp="1563521874146">
         <mark key="[" line="15" column="15" />
@@ -284,19 +237,13 @@
         <mark key="." line="19" column="59" />
         <mark key="^" line="19" column="59" />
       </file>
-      <file name="C:/Workspace/java/jpa-study-spring/src/main/java/kr/latera/jpastudyspring/entity/Order.java" timestamp="1563520515881">
-        <mark key="'" line="20" column="32" />
-        <mark key="[" line="82" column="34" />
-        <mark key="]" line="83" column="25" />
-        <mark key="^" line="83" column="25" />
-        <mark key="." line="83" column="25" />
-      </file>
       <file name="C:/Workspace/java/jpa-study-spring/src/main/java/kr/latera/jpastudyspring/entity/Delivery.java" timestamp="1563520046257">
         <mark key="[" line="19" column="34" />
         <mark key="]" line="18" column="30" />
         <mark key="." line="18" column="30" />
         <mark key="^" line="18" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/ArticleController.java" timestamp="1563775671889" />
       <file name="C:/Workspace/java/jpa-study-spring/src/main/java/kr/latera/jpastudyspring/entity/Album.java" timestamp="1563519934719">
         <mark key="[" line="7" column="33" />
         <mark key="]" line="11" column="30" />
@@ -309,11 +256,11 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/web/Test.java" timestamp="1563775083492">
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="13" column="41" />
-        <mark key="." line="13" column="41" />
-        <mark key="^" line="13" column="41" />
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/web/Test.java" timestamp="1563776224140">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+        <mark key="^" line="8" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/mypage-edit.html" timestamp="1563516385442">
         <mark key="[" line="37" column="111" />
@@ -321,17 +268,16 @@
         <mark key="^" line="37" column="171" />
         <mark key="." line="37" column="171" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/mypage.html" timestamp="1563439644179">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="97" column="119" />
-        <mark key="]" line="97" column="119" />
-        <mark key="^" line="96" column="65" />
-        <mark key="." line="97" column="119" />
-      </file>
-      <file name="/fragment.java" timestamp="1563432520259">
+      <file name="/fragment.java" timestamp="1563779455195">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/validator/UniqueEmail.java" timestamp="1563777957346">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="12" column="25" />
+        <mark key="^" line="12" column="25" />
+        <mark key="." line="12" column="25" />
       </file>
       <file name="C:/Workspace/java/jpa-study-spring/src/main/java/kr/latera/jpastudyspring/entity/Book.java" timestamp="1563519878663">
         <mark key="[" line="7" column="32" />
@@ -420,10 +366,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgV2ViVGVzdENsaWVudCB3ZWJUZXN0Q2xpZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydFRoYXQobmV3IFN0cmluZyhyZXNwb25zZS5nZXRSZXNwb25zZUJvZHkoKSkpLmRvZXNOb3RDb250YWluKCLAzLnMILXut8+1yCDAzLjewM/A1LTPtNkiKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>@Delete</text>
@@ -432,31 +378,31 @@
         <text>request.getHeader(&quot;Authorization&quot;).split(&quot; &quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgV2ViVGVzdENsaWVudCB3ZWJUZXN0Q2xpZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydFRoYXQobmV3IFN0cmluZyhyZXNwb25zZS5nZXRSZXNwb25zZUJvZHkoKSkpLmRvZXNOb3RDb250YWluKCLAzLnMILXut8+1yCDAzLjewM/A1LTPtNkiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBvcmcuanVuaXQuanVwaXRlci5hcGkuVGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UgLT4gewogICAgICAgICAgICAgICAgYXNzZXJ0VGhhdChuZXcgU3RyaW5nKHJlc3BvbnNlLmdldFJlc3BvbnNlQm9keSgpKSkuZG9lc05vdENvbnRhaW4oIsDMucwgte63z7XIIMDMuN7Az8DUtM+02SIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICJteXBhZ2UiOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIEBPcmRlcigxKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwuYWRkQXR0cmlidXRlKCJlcnJvciIsIHRydWUpOwogICAgICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoIm1lc3NhZ2UiLCBlLmdldE1lc3NhZ2UoKSk7Cg==</text>
+        <text encoding="base64">ICAgIEBPcmRlcigyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24gZSkgewogICAgICAgICAgICBsb2dnZXIuZXJyb3IoIkVycm9yIG9jY3VycmVkIHdoaWxlIHVwZGF0ZSB1c2VyIiwgZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hlY2tCaW5kaW5nUmVzdWx0KGJpbmRpbmdSZXN1bHQpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHBvc3RMb2dpbihERUZBVUxUX1VTRVIsIG51bGwsIGxvZ2luUmVzcG9uc2UgLT4gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNMb2dpblN1Y2NlZWQgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICBwb3N0VXNlcih1c2VyLCBwb3N0VXNlclJlc3BvbnNlIC0+IHsKICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>20</text>
@@ -466,6 +412,8 @@
       <last-search>@Delete</last-search>
       <last-offset />
       <last-pattern>@Delete</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>@Delete</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
