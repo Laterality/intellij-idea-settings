@@ -152,6 +152,9 @@
         <mark key="^" line="18" column="51" />
         <mark key="." line="18" column="51" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/index.html" timestamp="1563869039501">
+        <mark key="'" line="2" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/interceptor/UserInterceptor.java" timestamp="1563770166680">
         <mark key="[" line="18" column="43" />
         <mark key="]" line="18" column="46" />
@@ -213,9 +216,6 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/article-edit.html" timestamp="1563858773480">
         <mark key="[" line="32" column="95" />
-        <mark key="]" line="34" column="57" />
-        <mark key="." line="34" column="57" />
-        <mark key="^" line="34" column="57" />
       </file>
       <file name="C:/Workspace/java/jpa-study-spring/src/test/java/kr/latera/jpastudyspring/JpaStudySpringApplicationTests.java" timestamp="1563521709911">
         <mark key="[" line="7" column="15" />
@@ -380,6 +380,7 @@
       <jump line="90" column="13" filename="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/UserController.java" />
       <jump line="69" column="12" filename="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/UserController.java" />
       <jump line="128" column="25" filename="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/web/UserControllerTest.java" />
+      <jump line="2" column="4" filename="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -389,7 +390,7 @@
         <text>EntityExchangeResult</text>
       </register>
       <register name="/" type="4">
-        <text>@Delete</text>
+        <text>Java</text>
       </register>
       <register name="0" type="4">
         <text>request.getHeader(&quot;Authorization&quot;).split(&quot; &quot;)</text>
@@ -426,9 +427,9 @@
       </register>
     </registers>
     <search>
-      <last-search>@Delete</last-search>
+      <last-search>Java</last-search>
       <last-offset />
-      <last-pattern>@Delete</last-pattern>
+      <last-pattern>Java</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>@Delete</last-substitute>
       <last-dir>1</last-dir>
@@ -452,6 +453,8 @@
         <entry>.html</entry>
         <entry>\.html</entry>
         <entry>@Delete</entry>
+        <entry>java</entry>
+        <entry>Java</entry>
       </history-search>
       <history-cmd>
         <entry>action EditorLeftWithSelection</entry>
