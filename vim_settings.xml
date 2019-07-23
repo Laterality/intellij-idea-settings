@@ -35,7 +35,6 @@
         <mark key="^" line="26" column="30" />
         <mark key="." line="26" column="30" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/2.0.1.Final/4b714a5167580122e46ead3317ffcdcdbd67c5f0/validation-api-2.0.1.Final-sources.jar!/javax/validation/ConstraintValidatorContext.java" timestamp="1563777672581" />
       <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/validator/AuthInfoValidator.java" timestamp="1563774171460">
         <mark key="[" line="40" column="31" />
         <mark key="]" line="44" column="41" />
@@ -240,16 +239,12 @@
         <mark key="." line="19" column="59" />
         <mark key="^" line="19" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/web/dto/UserRequestDtoTest.java" timestamp="1563783322880">
-        <mark key="[" line="16" column="0" />
-      </file>
       <file name="C:/Workspace/java/jpa-study-spring/src/main/java/kr/latera/jpastudyspring/entity/Delivery.java" timestamp="1563520046257">
         <mark key="[" line="19" column="34" />
         <mark key="]" line="18" column="30" />
         <mark key="." line="18" column="30" />
         <mark key="^" line="18" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/ArticleController.java" timestamp="1563775671889" />
       <file name="C:/Workspace/java/jpa-study-spring/src/main/java/kr/latera/jpastudyspring/entity/Album.java" timestamp="1563519934719">
         <mark key="[" line="7" column="33" />
         <mark key="]" line="11" column="30" />
