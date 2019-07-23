@@ -12,7 +12,9 @@
       <file name="/a.dummy" timestamp="1563519970408">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/UserController.java" timestamp="1563774228133">
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/repository/UserRepository.java" timestamp="1563858562886" />
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/UserController.java" timestamp="1563858826736">
+        <mark key="'" line="69" column="12" />
         <mark key="[" line="112" column="139" />
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
@@ -183,9 +185,6 @@
       <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/resources/import.sql" timestamp="1563774946540">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563779455174">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/Workspace/java/jpa-study-spring/src/main/java/kr/latera/jpastudyspring/entity/OrderStatus.java" timestamp="1563520448495">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="11" />
@@ -210,17 +209,18 @@
         <mark key="^" line="32" column="23" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/web/UserControllerTest.java" timestamp="1563846480010">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
-        <mark key="^" line="90" column="45" />
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/web/UserControllerTest.java" timestamp="1563861717680">
+        <mark key="'" line="105" column="25" />
+        <mark key="[" line="173" column="28" />
+        <mark key="]" line="175" column="14" />
+        <mark key="^" line="175" column="14" />
+        <mark key="." line="175" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/article-edit.html" timestamp="1563850343324">
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/article-edit.html" timestamp="1563858773480">
         <mark key="[" line="32" column="95" />
-        <mark key="]" line="43" column="82" />
-        <mark key="." line="43" column="82" />
-        <mark key="^" line="43" column="82" />
+        <mark key="]" line="34" column="57" />
+        <mark key="." line="34" column="57" />
+        <mark key="^" line="34" column="57" />
       </file>
       <file name="C:/Workspace/java/jpa-study-spring/src/test/java/kr/latera/jpastudyspring/JpaStudySpringApplicationTests.java" timestamp="1563521709911">
         <mark key="[" line="7" column="15" />
@@ -382,13 +382,16 @@
       <jump line="39" column="13" filename="C:/Workspace/java/jpa-study-spring/src/main/java/kr/latera/jpastudyspring/entity/Order.java" />
       <jump line="20" column="32" filename="C:/Workspace/java/jpa-study-spring/src/main/java/kr/latera/jpastudyspring/entity/Order.java" />
       <jump line="10" column="0" filename="C:/Workspace/java/jpa-study-spring/build.gradle" />
+      <jump line="90" column="13" filename="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/UserController.java" />
+      <jump line="69" column="12" filename="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/UserController.java" />
+      <jump line="128" column="25" filename="$USER_HOME$/Documents/GitHub/jwp-blog/src/test/java/techcourse/myblog/web/UserControllerTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBOb3RCbGFuayhtZXNzYWdlID0gIiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KyA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>@Delete</text>
@@ -397,31 +400,31 @@
         <text>request.getHeader(&quot;Authorization&quot;).split(&quot; &quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBOb3RCbGFuayhtZXNzYWdlID0gIiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEBVUkwK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBAVGVzdAogICAgdm9pZCBteXBhZ2VfcHV0MigpIHsKICAgICAgICBFbnRpdHlFeGNoYW5nZVJlc3VsdDxieXRlW10+IGxvZ2luUmVzcG9uc2UgPSBwb3N0TG9naW5TeW5jKERFRkFVTFRfVVNFUiwgbnVsbCk7CiAgICAgICAgU3RyaW5nIHNpZCA9IGdldFNlc3Npb25JZChsb2dpblJlc3BvbnNlKTsKICAgICAgICB3ZWJUZXN0Q2xpZW50LnB1dCgpLnVyaSgiL3VzZXJzIiArIHNpZCkKICAgICAgICAgICAgLmNvb2tpZShTRVNTSU9OX0lEX0tFWSwgc2lkKQogICAgICAgICAgICAuYm9keShCb2R5SW5zZXJ0ZXJzLmZyb21Gb3JtRGF0YSgibmFtZSIsICJwYXJrIikpCiAgICAgICAgICAgIC5leGNoYW5nZSgpCiAgICAgICAgICAgIC5leHBlY3RTdGF0dXMoKS5pczN4eFJlZGlyZWN0aW9uKCkKICAgICAgICAgICAgLmV4cGVjdEJvZHkoKQogICAgICAgICAgICAuY29uc3VtZVdpdGgobXlwYWdlUHV0UmVzcG9uc2UgLT4gewogICAgICAgICAgICAgICAgZ2V0TXlwYWdlKHNpZCwgbXlwYWdlUmVzcG9uc2UgLT4gewogICAgICAgICAgICAgICAgICAgIGFzc2VydFRoYXQobmV3IFN0cmluZyhteXBhZ2VSZXNwb25zZS5nZXRSZXNwb25zZUJvZHkoKSkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5jb250YWlucygicGFyayIpCiAgICAgICAgICAgICAgICAgICAgICAgIC5jb250YWlucyhERUZBVUxUX1VTRVIuZ2V0RW1haWwoKSk7CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfSk7CiAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHNpZCA9IGdldFNlc3Npb25TdHJpbmcobG9naW5SZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb25zdW1lV2l0aChteXBhZ2VQdXRSZXNwb25zZSAtPiB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9naW5SZXNwb25zZS5nZXRSZXNwb25zZUNvb2tpZXMoKS5nZXRGaXJzdCgiSlNFU1NJT05JRCIpOwo=</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7CiAgICAgICAgfSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgQXJ0aWNsZVJlcXVlc3REdG8oKSB7CgogICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29udGFpbnMoInBhcmsiKQogICAgICAgICAgICAgICAgICAgIC5jb250YWlucyhERUZBVUxUX1VTRVIuZ2V0RW1haWwoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0TXlwYWdlKHNpZCwgbXlwYWdlUmVzcG9uc2UgLT4gewogICAgICAgICAgICAgICAgYXNzZXJ0VGhhdChuZXcgU3RyaW5nKG15cGFnZVJlc3BvbnNlLmdldFJlc3BvbnNlQm9keSgpKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb3N0TG9naW4oREVGQVVMVF9VU0VSLCBudWxsLCBsb2dpblJlc3BvbnNlIC0+IHsKICAgICAgICAgICAgU3RyaW5nIHNpZCA9IGdldFNlc3Npb25TdHJpbmcobG9naW5SZXNwb25zZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>20</text>
