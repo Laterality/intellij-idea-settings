@@ -9,6 +9,12 @@
         <mark key="." line="20" column="17" />
         <mark key="^" line="20" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/domain/Article.java" timestamp="1563956751612">
+        <mark key="[" line="27" column="5" />
+        <mark key="]" line="27" column="4" />
+        <mark key="^" line="27" column="4" />
+        <mark key="." line="27" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/web/UserController.java" timestamp="1563866609998">
         <mark key="'" line="69" column="12" />
         <mark key="[" line="112" column="139" />
@@ -98,7 +104,7 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/domain/User.java" timestamp="1563955863997">
+      <file name="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/java/techcourse/myblog/domain/User.java" timestamp="1563956711472">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
@@ -381,11 +387,11 @@
       <jump line="2" column="4" filename="$USER_HOME$/Documents/GitHub/jwp-blog/src/main/resources/templates/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFVzZXIobnVsbCwgdXNlcm5hbWUsIGVtYWlsLCBwYXNzd29yZCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>EntityExchangeResult</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Java</text>
